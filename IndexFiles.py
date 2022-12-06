@@ -94,11 +94,11 @@ class IndexFiles(object):
                         if(url == ''):
                             url = line
                             continue
-                        if(date == ''):
-                            date = line
-                            continue
                         if(title == ''):
                             title = line
+                            continue
+                        if(date == ''):
+                            date = line
                             continue
                         if(contents == ''):
                             contents = line

@@ -24,9 +24,11 @@ import urllib.request
 from bs4 import BeautifulSoup
 title = ''
 url = ''
+tt = ''
 tll = []
 uu = []
 con = []
+time = []
 
 def parseCommand(command):
     command_dict = {'contents': ''}   
@@ -34,11 +36,12 @@ def parseCommand(command):
     return command_dict
 
 def runs(searcher, analyzer,command):
-    global title,url
-    global tll,uu,con
+    global title,url,tt
+    global tll,uu,con,time
     tll = []
     uu = []
     con = []
+    time = []
     while True:
         print()
         print ("Hit enter with no input to quit.")        
@@ -60,6 +63,7 @@ def runs(searcher, analyzer,command):
             doc = searcher.doc(scoreDoc.doc)
             title = doc.get('title')
             url = doc.get('url')
+            tt = doc.get('date')
             contents = urllib.request.urlopen(url)
             soup =  BeautifulSoup(contents,features="html.parser")
             contents = ''.join(soup.findAll(text=True))
@@ -78,6 +82,7 @@ def runs(searcher, analyzer,command):
                 continue
             tll.append(title)
             uu.append(url)
+            time.append(tt)
 
                      
         break
@@ -93,7 +98,7 @@ def bio_data_form():
 @app.route('/result', methods=['GET'])
 def result():
     
-    global tll,uu,con
+    global tll,uu,con,time
     STORE_DIR = "163_index"
 
     vm.attachCurrentThread()   #一旦线程被附加到JVM上，这个函数会返回一个属于当前线程的JNIEnv指针
@@ -110,8 +115,9 @@ def result():
     runs(searcher, analyzer,keyword)
     length = min(len(tll),len(uu))
     length = min(length,len(con))
+    length = min(length,len(time))
     del searcher
-    return render_template("result.html",keyword=keyword,length = length,uu=uu,tll=tll,con=con)
+    return render_template("result.html",keyword=keyword,length = length,uu=uu,tll=tll,con=con,time = time)
 
 
 
@@ -121,6 +127,6 @@ if __name__ == '__main__':
 
     vm = lucene.initVM()
 
-    app.run(debug=True,port = 8090)
+    app.run(debug=True,port = 8080)
     
     

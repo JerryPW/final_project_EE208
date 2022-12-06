@@ -78,10 +78,7 @@ class IndexFiles(object):
         t2.setStored(False)
         t2.setTokenized(True)
         t2.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS)  # Indexes documents, frequencies and positions.
-        print("here1")
-        print(os.walk(root))
         for root, dirnames, filenames in os.walk(root):
-            print("here2")
             for filename in filenames:
                 # if not filename.endswith('.txt'):
                 #     continue
@@ -89,31 +86,23 @@ class IndexFiles(object):
                 try:
                     path = os.path.join(root, filename)
                     file = open(path, encoding='utf8')
-                    contents = file.read()
-                    contents = ' '.join(jieba.cut(contents))
-                    file.close()
-                    doc = Document()
-                    doc.add(Field("name", filename, t1))
-                    doc.add(Field("path", path, t1))
-                    f = open("index.txt", 'r')
-                    for i in f.readlines():
-                        lst = i.split('\t')
-                        if (lst[1][:-1] == filename):
-                            doc.add(Field("url", lst[0], t1))
-                            site = urlparse(lst[0]).netloc
-                            site = ' '.join(site.split('.'))
-                            doc.add(Field("site", site, t2))
-                            #doc.add(TextField('url', lst[0], Field.Store.YES))
-                            soup = BeautifulSoup(urllib.request.urlopen(lst[0]).read(),features="html.parser")
-                            tit = soup.head.title.string
-                            doc.add(Field("title", tit, t1))
-                            break
-                    f.close()
+                    contents = file.readlines()
                     if len(contents) > 0:
                         #doc.add(TextField('contents', contents, Field.Store.YES))
-                        doc.add(Field("contents", contents, t2))
+                        doc.add(Field("contents", content, t2))
                     else:
                         print("warning: no content in %s" % filename)
+                    url = contents[0]
+                    title = contents[1]
+                    time = contents[2]
+                    content = contents[3]
+                    content = ' '.join(jieba.cut(content))
+                    file.close()
+                    doc = Document()
+                    doc.add(Field("url", url, t1))
+                    doc.add(Field("title", title, t1))
+                    doc.add(Field("time", time, t1))
+                    
                     writer.addDocument(doc)
                 except Exception as e:
                     print("Failed in indexDocs:", e)
@@ -124,7 +113,7 @@ if __name__ == '__main__':
     # import ipdb; ipdb.set_trace()
     start = datetime.now()
     try:
-        IndexFiles('html', "index")
+        IndexFiles('sina_html', "index")
         end = datetime.now()
         print(end - start)
     except Exception as e:

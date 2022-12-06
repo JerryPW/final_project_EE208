@@ -128,7 +128,7 @@ def result():
 
 if __name__ == '__main__':
     initial_vm = lucene.initVM()
-    app.run(debug=True,port = 8082)
+    app.run(debug=True,port = 8088)
     
     
     

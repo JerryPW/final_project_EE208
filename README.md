@@ -1,4 +1,6 @@
 # final_project_EE208
-This is the final project fro class EE208 in SJTU
+This is the final project fro class EE208 in SJTU.
+
 We will build a website for searching latest sport news, and this project has been just started.
+
 Hope for more progress!

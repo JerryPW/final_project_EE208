@@ -1,0 +1,27 @@
+html登录 - Overleaf Community Edition, 在线LaTeX编辑器// Stop superfish from loading
+window.similarproducts = true[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak  {display: none !important; display: none; }window.ga = function() { console.log("would send to GA", arguments) };
+window.csrfToken = "aZcIb2XJ-qOBEVqoVeti2UCOfHVJa6HTxA7U";
+//- Configure dynamically loaded assets (via webpack) to be downloaded from CDN
+//- See: https://webpack.js.org/guides/public-path/#on-the-fly
+window.baseAssetPath = "/"
+window.sharelatex = {
+	siteUrl: 'https://latex.sjtu.edu.cn',
+	wsUrl: '',
+};
+window.ab = {};
+window.user_id = '';
+window.ExposedSettings = JSON.parse('{"isOverleaf":false,"appName":"Overleaf Community Edition","siteUrl":"https://latex.sjtu.edu.cn","emailConfirmationDisabled":true,"recaptchaDisabled":{"invite":true,"register":true},"validRootDocExtensions":["tex","Rtex","ltx"]}');
+window.sharelatex.templates = {
+	user_id : '5395eb7aad1f29a88756c7f2',
+	cdnDomain : '',
+	indexName : ''
+}
+
+LaTex 文档助手(Beta) loop over header_extras logged out register link注册 login link登录 projects link and account menu登录必须是电邮地址必填登录正在登录...忘记密码?©2020 上海交通大学网络信息中心Powered by ShareLaTeX 友情链接:水源文档<span>This project is from Overleaf v1 and has not yet been automatically or manually imported to v2.</span><span>This folder/tag is from Overleaf v1. Once these projects are moved to v2 the tag will also move.</span>//- Look for bundle
+var cdnBlocked = typeof Frontend === 'undefined'
+//- Prevent loops
+var noCdnAlreadyInUrl = window.location.href.indexOf("nocdn=true") != -1
+if (cdnBlocked && !noCdnAlreadyInUrl && navigator.userAgent.indexOf("Googlebot") == -1) {
+	//- Set query param, server will not set CDN url
+	window.location.search += "&nocdn=true";
+}

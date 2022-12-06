@@ -1,0 +1,160 @@
+
+html
+
+
+
+
+
+
+
+交大视频
+ Bootstrap Core CSS 
+
+ Animate CSS 
+
+ Font-awesome 
+
+ Flaticon 
+
+ Google font
+
+ Main CSS 
+
+ 导航样式 
+
+
+	.tcenter{padding-top: 24px}
+	
+
+Preload
+
+
+
+
+
+
+
+
+ layui样式库 
+ 导航样式 
+
+
+
+
+登录
+
+
+ .extension-nav 
+
+
+ 
+
+   .sina-nav-header 
+ Collect the nav links, forms, and other content for toggling 
+
+
+首页
+疫情特别推送
+
+课程
+
+公共基础课程
+公共选修课程
+通识核心课程
+开放课程
+点播课程
+
+
+新闻
+讲座
+活动
+直播
+
+ /.navbar-collapse 
+
+ .container 
+
+ end nav 
+
+
+
+
+
+
+
+
+
+
+公共基础课
+播放器双流播放,建议您用PC端浏览
+
+
+
+
+
+
+
+
+
+
+
+ end home 
+ 全局样式 
+ 鼠标滑过图片效果样式 
+
+
+
+
+
+校内用户数字电子技术孙卫强电子信息与电气工程学院2021校内用户数字电子技术张增辉电子信息与电气工程学院2021校内用户数据结构（荣誉）俞勇电子信息与电气工程学院2021校内用户数据结构张同珍电子信息与电气工程学院2021校内用户数据结构（荣誉）张同珍电子信息与电气工程学院2021校内用户大学化学韩莉化学化工学院2021校内用户大学化学刘萍化学化工学院2021校内用户有机化学（1）张万斌,谢芳化学化工学院2021校内用户有机化学（1）沈增明化学化工学院2021校内用户高等数学II王铭数学科学学院2021校内用户高等数学II陈春丽数学科学学院2021校内用户高等数学II李铮数学科学学院2021校内用户数学分析（荣誉）II陈克应数学科学学院2021校内用户数学分析（荣誉）II王楷植数学科学学院2021校内用户数学分析（荣誉）II王晓东数学科学学院2021校内用户大学物理(A类）（1）刘当波物理与天文学院2021校内用户大学物理(A类）（1）冯仕猛物理与天文学院2021校内用户大学物理(A类）（3）吕智国物理与天文学院2021校内用户大学物理(A类）（3）袁晓忠物理与天文学院2021校内用户大学物理(A类）（3）顾卫华物理与天文学院2021校内用户大学物理（B类）（1）韩柯物理与天文学院2021
+
+
+
+
+
+
+
+
+
+
+Copyright © 2022.上海交通大学.教务处.教育技术中心
+
+
+
+
+
+沪交ICP备20131291 v.sjtu.edu.cn
+
+
+
+
+
+
+
+
+
+
+
+ jQuery 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?411ae44bc1145d3343cd427f3c128c65";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();

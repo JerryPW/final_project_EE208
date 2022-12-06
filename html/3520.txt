@@ -1,0 +1,328 @@
+
+html
+
+ layui样式库 
+ layui样式库 
+ 全局样式 
+ bootstrap样式 
+ 字体库 
+ 动画效果样式 
+ 导航样式 
+ 鼠标滑过图片效果样式 
+
+	四川省宜宾市领导访问上海交通大学--上海交通大学--交大视频
+
+
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?411ae44bc1145d3343cd427f3c128c65";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
+
+
+
+
+
+
+    var editor;
+    KindEditor.ready(function(K) 
+        {
+        editor = K.create('textarea[name="content"]', {
+		resizeType : 0,
+			
+        afterChange : function() {
+        K('.word_count').html(140-this.count('text')); 
+        document.getElementById("count").innerHTML=this.count('text');
+        },
+        allowPreviewEmoticons : false,
+        allowImageUpload : false,
+		
+       items :
+         [ ]		
+		
+    });
+    });
+
+
+
+.vjs-watermark {
+    position: absolute;
+    display: inline;
+    z-index: 2000;
+}
+
+.vjs-big-play-button { 
+left: 12% !important; 
+top: 92% !important; 
+margin-left: -2em; 
+margin-top: -1.3em; 
+}
+	  .aparent {
+      display: flex;
+      margin: 0 auto;
+      max-width: 72%;
+    }
+    .aparenttitle {
+      display: flex;
+      margin: 0 auto;
+      max-width: 72%;font-size: 1em;text-align: left;color: #ccc;padding: .3em 0 .7em 0;
+    }
+    .aright {
+      width: 360px;
+      background-color: #1c1d30; position: relative;z-index: 99
+    }
+ 
+    .aleft {
+     
+      flex: 1;
+      background-color: #0f0f1e;
+    }
+		.vjs-watermark {
+    position: absolute;
+    display: inline;
+    z-index: 2000;
+}  
+	.noscroll{ overflow-x: hidden; overflow-y: hidden;}
+    .toptitle1 {font-size: 1.5em;text-align:left;padding: 1em 1em 1em 0;color: #ccc;float:left }
+    .toptitle2 {font-size:1em;text-align: left;padding: 2em 0 1em 0;color: #ccc;float:left;}
+
+
+
+
+
+
+
+
+登录
+
+
+ .extension-nav 
+
+
+ 
+
+   .sina-nav-header 
+ Collect the nav links, forms, and other content for toggling 
+
+
+首页
+
+课程
+
+公共基础课程
+公共选修课程
+通识核心课程
+开放课程
+点播课程
+
+
+新闻
+讲座
+活动
+直播
+
+
+
+
+
+
+
+ /.navbar-collapse 
+
+ .container 
+
+
+
+
+
+
+
+
+
+ 播放器 
+
+
+
+系统检测到浏览器版本太低，无法播放视频，烦请升级为：IE11/Chrome
+
+
+
+四川省宜宾市领导访问上海交通大学    上海交通大学
+2127
+
+
+
+
+
+最近更新
+
+
+1十一月新闻 四川省宜宾市领导访问... 上海交通大学 2天前 98 次31十月新闻  中共上海交通大学委员... 上海交通大学 6天前 73 次26十月新闻 上海交通大学师生学习... 上海交通大学 9天前 247 次24十月新闻 上海交通大学2022年秋... 上海交通大学 1个月前 241 次13九月新闻 中共上海交大第十一届... 上海交通大学 1个月前 1,159 次25八月新闻 上海交大2022级本科生... 上海交通大学 2个月前 1,998 次
+
+
+
+
+
+
+
+
+还剩下 0 个字 
+发表评论
+
+
+
+
+
+
+新闻点击排行（周）
+上海交通大学师生学习党的二十...上海交通大学2022年秋季学期干...上海交大2022级本科生开学典礼中共上海交大第十一届委员会第...四川省宜宾市领导访问上海交通大学校领导慰问战高温的一线教职医...
+
+
+
+ 底部 
+
+
+
+
+
+					上海交通大学 版权所有 
+沪交ICP备20131291
+
+上海交通大学 教育技术中心　
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (function(window, videojs) {
+      var player = window.player = videojs('report_video', {
+        playbackRates: [1, 1.5, 2, 4]
+      });
+
+    }(window, window.videojs));
+  
+
+
+   var player = videojs('report_video');
+
+   var reporttype = document.getElementById("Hiddentype").value;
+   
+       if (reporttype == 2) {
+
+           player.watermark({
+
+               file: 'https://v.sjtu.edu.cn/images/logosharenews.png',
+
+               xpos: 100,
+               ypos: 0,
+               xrepeat: 10,
+               opacity: 1
+           });
+       }
+       else {
+
+           player.watermark({
+
+               file: 'https://v.sjtu.edu.cn/images/logoshare.png',
+
+               xpos: 100,
+               ypos: 0,
+               xrepeat: 10,
+               opacity: 1
+           });
+
+       }
+//player.ads(); // initialize videojs-contrib-ads
+
+//// request ads whenever there's new video content
+//player.on('contentchanged', function() {
+//  // in a real plugin, you might fetch your ad inventory here
+//  player.trigger('adsready');
+//});
+
+//player.on('readyforpreroll', function() {
+//  player.ads.startLinearAdMode();
+//  // play your linear ad content
+//  // in this example, we use a static mp4
+// player.src('https://sv.sjtu.edu.cn/media/vod2013/_definst_/mp4:468-guidevideo-新技术应用与推广/2018-11-28-7-44-47-9286.mp4/playlist.m3u8');
+
+//  // send event when ad is playing to remove loading spinner
+//  player.one('adplaying', function() {
+//    player.trigger('ads-ad-started');
+//  });
+
+//  // resume content when all your linear ads have finished
+//  player.one('adended', function() {
+//    player.ads.endLinearAdMode();
+//  });
+//});
+
+//player.trigger('adsready');  
+var image_url = $("#video_image_src").val();
+if(!image_url)
+{
+   player.poster(image_url);
+}
+console.log(image_url);
+////player.poster($("#video_image_src").text());
+
+  
+
+
+$(function(){ 
+     var reportclassid =document.getElementById("Hiddenid").value;//传递分类值
+     var num_entries = showreports.GetCountCommentByRID(reportclassid).value;   
+     var num_edge = 1;    
+     var num_display = 10; 
+     var pageSize = 5;//定义每页显示的条数 
+     InitTable(0);                   
+     //回调函数，显示内容                    
+     function PageSelectCallback(page_index,jq)
+     {                        
+        InitTable(page_index);
+     }  
+          
+     //将具体内容放入html标签，显示
+     function InitTable(PageIndex)
+     {  
+       
+        $("#showcomlst").html("<img src='../images/load.gif' />");
+        var result = showreports.ShowCommentlist(reportclassid,PageIndex,pageSize).value;
+        $("#showcomlst").html(result);
+     }    
+     
+  
+  
+      $("#Pagination").pagination(num_entries,{
+                            num_edge_entries: num_edge,
+                            num_display_entries: num_display,
+                            callback: PageSelectCallback,
+                            items_per_page: pageSize,
+                            prev_text: " ",
+                            next_text: "       "
+     });      
+  
+           
+});
+   
+
+
+
+
+

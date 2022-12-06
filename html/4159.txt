@@ -1,0 +1,227 @@
+
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+
+
+
+
+        交通大学焦点网 --
+	十九届五中全会
+    
+
+
+
+
+
+
+[if lte IE 6]>
+    <script src="js/DD_belatedPNG_0.0.8a.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        DD_belatedPNG.fix('div, ul, img, li, input , a,button');
+    </script>
+    <![endif]
+
+
+
+
+
+
+
+设为首页
+|
+加入收藏
+
+
+
+
+
+
+      
+            function Hidden(oTag)
+            {
+               if(document.getElementById(oTag)!=null)
+			   document.getElementById(oTag).style.display="none";
+            }
+            function Visible(oTag)
+            {
+			   if(document.getElementById(oTag)!=null)
+               document.getElementById(oTag).style.display="block";
+            }
+            
+    
+
+
+
+首页
+
+
+焦点新闻
+
+
+
+中央精神
+
+
+交大要闻
+
+
+院系动态
+
+
+
+
+
+通知公告
+
+
+
+公告
+
+
+
+
+
+理论焦点
+
+
+
+理论焦点
+
+
+
+
+
+理论研究
+
+
+
+理论研究
+
+
+学习材料
+
+
+
+
+
+学者声音
+
+
+
+学者声音
+
+
+
+
+
+专题透视
+
+
+
+专题透视
+
+
+
+
+
+网上学习城
+
+
+
+中心组学习交流
+
+
+理论学习简报
+
+
+每日学习参考
+
+
+影像资料
+
+
+音频资料
+
+
+材料汇编
+
+
+特色案例
+
+
+
+
+
+登陆系统
+
+
+
+
+
+
+
+nav end
+
+
+
+
+
+
+						setInterval("TimeNow.innerHTML=new Date().toLocaleString()+' 星期'+'日一二三四五六'.charAt(new Date().getDay());",1000);
+					
+
+
+
+
+搜索
+
+
+
+
+
+
+十九届五中全会
+
+
+
+
+
+
+    if(document.getElementById("Left_2960088")!=null)
+    Left_2960088.className="LM_on";
+  
+
+
+			您当前的位置：
+			十九届五中全会十九届五中全会
+2020-11-25科学认识我国二〇三五年人均国内生产总值发展目标2020-11-25人民观点：文化繁荣，汇聚精神力量
+——“十三五”经济社会发展的启示2020-11-18构建新发展格局，实施创新驱动发展2020-11-18“创新”，十分关键2020-11-05党的十九届五中全会的全局性、历史性意义2020-11-05把科技自立自强作为国家发展战略支撑2020-11-05深入学习贯彻党的十九届五中全会精神 为实现“十四五”时期发展目标营造良好法治环境2020-11-05乘风破浪 坚毅前行——党的十九届五中全会精神鼓舞广大知识分子和青年学生创造美好明天2020-11-05坚持统筹发展和安全——论学习贯彻党的十九届五中全会精神2020-11-05《中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议》诞生记2020-11-05十九届五中全会公报要点2020-11-05不断实现人民对美好生活的向往——论学习贯彻党的十九届五中全会精神2020-11-05满怀信心向未来2020-11-04向第二个百年奋斗目标进军的行动指南2020-11-03以高标准市场体系建设和高水平对外开放促进形成新发展格局
+				共2页
+			
+				当前第1页
+			
+						首页
+					上一页下一页
+						尾页
+					
+				第页
+			
+
+
+
+
+index end
+
+
+
+    $(function () {
+        if (CheckUserOnline(0)) {
+            document.getElementById("dl").innerHTML = document.getElementById("username").innerHTML;
+        } else {
+
+        }
+    });
+    function iframe() {
+        var now = new Date();
+        var num = now.getSeconds();
+        document.getElementById("frameLogin").src = "../../Web/JDJDW/login.aspx?ID=" + num;
+    }

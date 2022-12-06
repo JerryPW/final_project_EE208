@@ -1,0 +1,559 @@
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+
+
+ 云适配脚本 
+
+
+
+
+深入实施人才强国战略-中国社会科学网
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <script src="../../images/cssn_webdig.js" language="javascript" type="text/javascript" async></script> 
+
+	var isPC = IsPC(); //获取是否为PC端
+	if (isPC) {
+		//如果是PC端加载PC的js和css
+		$(".mobileStyle").remove();
+	} else {
+		//如果是移动端加载移动端的js和css
+		$(".stylefile").remove();
+	}
+
+ u-QT统计测试 
+
+(function(w, d, s, q) { 
+	w[q] =w[q] || []; 
+	var f=d.getElementsByTagName(s)[0],j=d.createElement(s); 
+	j.async=true; 
+	j.id='beacon-aplus'; 
+	j.src='https://d.alicdn.com/alilog/mlog/aplus/204201353.js'; 
+	f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'aplus_queue');
+       aplus_queue.push({ action: 'aplus.setMetaInfo', arguments: ['appKey', 'qwfmf7ygk8c6a37if0oq266o']  }) 
+       aplus_queue.push({ action: 'aplus.setMetaInfo', arguments: ['aplus-rhost-v', 'quickaplus-server-api-cn-zhangjiakou.aliyuncs.com']  });
+
+$(function(){
+
+aplus_queue.push({
+  'action':'aplus.sendPV',
+  'arguments':[{ is_auto: false}, {
+    //保留字段
+    page_name:'article_detail_page',
+    page_title:'文章详情页',
+    //可选参数
+article_title:"深入实施人才强国战略",
+article_id:"5556834",
+article_author:"记者 李永杰 明海英",
+article_source:"中国社会科学网-中国社会科学报",
+published_date:"2022-10-31",
+
+  }]
+});
+})
+
+
+           
+
+
+
+qqq
+ 头部.logo开始 
+
+
+
+
+                        <a class='logo' href="" target="_self">登录</a>
+                        <span>|</span>
+                        <a class='logo' href="#" target="_self">注册</a>
+            
+客 户 端
+
+
+
+				<!--
+				function checkSeach() {
+					var searchfield = document.getElementById('searchfield').innerHTML;
+					//alert(searchfield);
+					var word = document.searchform.searchword2.value.replace("'", " ");
+					var wordarr = word.split(" ");
+					var newWord = "";
+					if(wordarr != null && wordarr.length > 1){
+						for(var raym = 0;raym<wordarr.length;raym++){
+							if(raym == 0){
+								newWord += '%'+wordarr[raym]+'%';
+							}else{
+								newWord += ' %'+wordarr[raym]+'%';
+							}
+						}
+					}else{
+						newWord = word;
+					}
+					//document.searchform.searchword.value = document.searchform.searchword.value.replace("'", " ");
+					if(searchfield=="&nbsp;标题&nbsp;"){document.getElementById('searchscope').value="DOCTITLE";
+						document.searchform.searchword.value = newWord;
+
+						return true;}
+					else if(searchfield=="&nbsp;作者&nbsp;"){document.getElementById('searchscope').value="DOCAUTHOR";
+						document.searchform.searchword.value = word;
+
+						return true;}
+					else if(searchfield=="关键字"){document.getElementById('searchscope').value="DOCKEYWORDS";
+						document.searchform.searchword.value = newWord;
+
+						return true;}
+					else if(searchfield=="&nbsp;日期&nbsp;"){document.getElementById('searchscope').value="DOCRELTIME";
+						document.searchform.searchword.value = word;
+
+						return true;}
+					else{return false;}
+
+				}
+
+				//-->
+			
+
+
+
+
+
+
+
+
+ 标题 
+
+ 标题 
+ 作者 
+关键字
+ 日期 
+
+
+
+
+
+
+
+			//设为首页
+			function SetHome(url){
+				if (document.all) {
+					document.body.style.behavior='url(#default#homepage)';
+					document.body.setHomePage(url);
+				}else{
+					alert("抱歉，您的浏览器不支持自动设为首页，请手动设置!");
+				}
+			}
+			//加入收藏
+			function addFavorite(sURL, sTitle) {
+				sURL = encodeURI(sURL);
+				try{
+					window.external.addFavorite(sURL, sTitle);
+				}catch(e) {
+					try{
+						window.sidebar.addPanel(sTitle, sURL, "");
+					}catch (e) {
+						alert("抱歉，您的浏览器不支持自动加入收藏，请手动设置!");
+					}
+				}
+			}
+		
+
+<a href="/qt/wzdh/" target="_blank">网站导航</a>
+设为首页
+报刊投稿
+微博平台
+
+ <a target="_blank" href="http://e.t.qq.com/cssn-cn?preview"><img src="/images/icon2_2014-5-12.png" /></a> 
+
+
+
+
+
+
+
+
+
+				var strdate = new Date();
+				var stryear = strdate.getFullYear();
+				var strmonth = strdate.getMonth() + 1;
+				var strday = strdate.getDate();
+				var strweek = strdate.getDay();
+				var arr_week=new Array("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+				document.write (stryear +"年"+ strmonth +"月"+ strday +"日 "+arr_week[strweek]);
+			
+
+
+
+
+中国社会科学院
+ CASS
+English
+Français
+
+
+
+微报
+图片集
+视频集
+<li class="dx"><a href="http://mall.cssn.cn">读者之家</a></li>
+
+
+
+关  注
+ <li><a href="http://sub.cssn.cn">学  科</a></li> 
+专  题
+要  闻
+智  库
+报  刊
+军  事
+各  地
+独家策划
+数据中心
+
+
+
+
+
+
+
+
+
+				var strdate = new Date();
+				var stryear = strdate.getFullYear();
+				var strmonth = strdate.getMonth() + 1;
+				var strday = strdate.getDate();
+				var strweek = strdate.getDay();
+				var arr_week=new Array("星期日","星期一","星期二","星期三","星期四","星期五","星期六");
+				document.write (stryear +"年"+ strmonth +"月"+ strday +"日 "+arr_week[strweek]);
+			
+
+
+
+
+中国社会科学院
+ CASS
+English
+Français
+
+
+
+
+微报
+图片集
+视频集
+<li class="dx"><a href="http://mall.cssn.cn">读者之家</a></li>
+
+
+关  注
+ <li><a href="http://sub.cssn.cn">学  科</a></li> 
+专  题
+要  闻
+<li><a href="http://intl.cssn.cn">国  际</a></li>
+			<li><a href="http://scho.cssn.cn">学  人</a></li>
+智  库
+报  刊
+军  事
+各  地
+独家策划
+数据中心
+
+
+
+
+/*分页*/
+.fenye{color:#015CAB; margin-bottom:50px}
+
+.fenye a{border:#CBCBCB 1px solid; padding:0 5px; color:#CACACA}
+.fenye a.fenye_thispage{border:#CBCBCB 1px solid; background:#DAEFFF; padding:0 5px; color:#C85187}
+.fenye a.fenyepage{color:#015CAB;border:#CA5089 1px solid; padding:0 5px}
+.fenye .fenye_input{border:#CA5089 1px solid; width:40px ;text-align:center; line-height:18px; height:18px; }
+.fenye .fenye_sub{color:#fff; border:#CA5089 1px solid; background:#CA5089; width:45px ;text-align:center; line-height:18px; height:18px; cursor:pointer}
+
+
+
+ 首页 >> 社科关注
+
+
+
+深入实施人才强国战略
+2022年10月31日 07:51　来源：中国社会科学网-中国社会科学报　作者：记者 李永杰 明海英
+	  字号
+2022年10月31日 07:51 来源：中国社会科学网-中国社会科学报  作者：记者 李永杰 明海英
+			
+
+
+function CopyURL(){
+var myHerf=top.location.href;
+//var title=document.title;
+if(window.clipboardData){
+var tempCurLink=myHerf;
+var ok=window.clipboardData.setData("Text",tempCurLink);
+if(ok) alert("链接地址复制完成！");
+}else{alert("对不起，目前此功能只支持IE，请直接复制地址栏的地址！");}
+}
+
+ function AXzhz(hideme)
+ {
+  var AX=document.all(hideme);
+  AX.style.display=AX.style.display=="none"?"":"none";
+ }
+ function BXzhz(hideme)
+ {
+  var BX=document.all(hideme);
+  BX.style.display=BX.style.display=="none"?"":"none";
+ }
+
+	function addToBookmark(){
+                var href="";
+                var title="";
+		var url = "./t20221031_5556834.shtml";
+		document.location.href = url;
+	}
+
+
+
+
+打印 推荐
+
+
+
+内容摘要：党的二十大报告为深入实施科教兴国战略、人才强国战略、创新驱动发展战略进一步指明了方向、提供了根本遵循，让人倍感振奋、干劲倍增。
+关键词：
+作者简介：
+
+　　党的二十大报告把“实施科教兴国战略，强化现代化建设人才支撑”作为重要组成部分专门阐述，明确提出“教育、科技、人才是全面建设社会主义现代化国家的基础性、战略性支撑”。全国教育界、科技界工作者备受鼓舞，深感责任重大。大家纷纷表示，党的二十大报告为深入实施科教兴国战略、人才强国战略、创新驱动发展战略进一步指明了方向、提供了根本遵循，让人倍感振奋、干劲倍增，要坚持教育优先发展、科技自立自强、人才引领驱动，为加快建设教育强国、科技强国、人才强国作出自己应有的贡献。
+
+强国之基 兴国之本
+　　教育是立国之本、强国之基，更是功在当代、利在千秋的德政工程。中国科学院院士、兰州大学校长严纯华表示，二十大报告单列“实施科教兴国战略，强化现代化建设人才支撑”部分，对落实立德树人根本任务、完善科技创新体系、加快实施创新驱动发展战略、深入实施人才强国战略作出战略部署，把科教事业提到了前所未有的战略高度。
+　　报告强调教育、科技、人才是全面建设社会主义现代化国家的基础性、战略性支撑，这是党结合时代发展主题、总结历史经验、分析国内外形势作出的重大战略决策，凸显了教育、科技、人才在实现中华民族伟大复兴进程中的战略地位，对于全面建成社会主义现代化强国具有深远意义。暨南大学党委书记林如鹏表示，我国改革开放以来所取得的历史成就，充分证明科教兴国战略和人才强国战略是正确的选择。党的二十大继续丰富发展历史经验，深入实施科教兴国战略、人才强国战略、创新驱动发展战略，是我国前进道路上的必然选择，也是全面建设社会主义现代化国家的内在要求。在林如鹏看来，综合国力竞争的关键是科学技术的竞争，而科学技术的竞争归根到底是人才的竞争。人才是全面建设社会主义现代化国家的关键要素，要在现代化进程中实现高质量发展，达成二十大报告提出的强国目标，则必须深入实施新时代人才强国战略，加快建设教育强国、科技强国、人才强国，为全面建成社会主义现代化强国提供人才支撑。
+　　“这一重大战略部署令人倍感振奋、深受鼓舞，相信会充分激发我国高质量发展的动力与活力，为全面建设社会主义现代化国家提供强有力的保障与支撑。”中南财经政法大学校长杨灿明表示，报告清晰地提出坚持教育优先发展、科技自立自强、人才引领驱动的要求，形成了统一协调推进的新思路。而办好人民满意的教育、完善科技创新体系、加快实施创新驱动发展战略、深入实施人才强国战略，阐明了塑造发展新动能新优势的新的行动指南。
+　　“报告振奋人心、催人奋进，吹响了向第二个百年奋斗目标迈进的行动号角。”党的二十大代表、华南农业大学校长刘雅红现场聆听报告后，心潮澎湃。作为教育界代表，她亲历和见证了我国高等教育取得的历史性成就、发生的历史性变革。广东是改革开放的前沿阵地，不仅实现了21个地级以上市本科、高职院校全覆盖，而且质量得到全面提升，全省“双一流”建设高校总数已达8所。广东外语外贸大学党委书记、校长石佑启表示，立足新时代新征程，高校要发挥集教育、科技、人才于一体的优势，深入贯彻落实科教兴国战略，全面推进中华民族伟大复兴。从新时代新征程党的使命任务看，实施科教兴国是推进中华民族伟大复兴的关键战略，必须坚持科技是第一生产力、人才是第一资源、创新是第一动力，不断开辟发展新领域新赛道，塑造发展新动能新优势。从时代和世界发展大势看，实施科教兴国是应对激烈国际竞争的关键举措，只有充分发挥教育、科技、人才的优势，才能在日益激烈的国际战略博弈中赢得主动、赢得未来。从高等教育的发展规律看，实施科教兴国是推进教育高质量发展的关键路径。必须全面贯彻党的教育方针，推进高等教育内涵式发展，构建高质量教育体系，完善人才战略布局，加快建设世界重要人才中心和创新高地，着力形成人才国际竞争的比较优势。
+　　报告关于“实施科教兴国战略，强化现代化建设人才支撑”的重要论述，为我国高校扎根中国大地办大学、加快中国高等教育高质量发展步伐提供了行动指南，激发了广大高校工作者为加快推进教育现代化、建设教育强国而不懈奋斗的坚定信心和强大干劲。赣南师范大学副校长邱小云表示，要责无旁贷地肩负起建设教育强国、人才强国的光荣使命。站在新的历史起点上，坚持把科技、人才、创新有机结合起来，全面提升服务国家发展的能力和水平；赓续红色血脉，教育引导广大学生与祖国同心同向，与时代同频共振，将“小我”融入国家富强和民族复兴伟大事业的“大我”之中。坚持“四个面向”，有效配置科技力量和创新资源，扎根中国大地培养一流人才、产出一流成果，提升高校科技自立自强能力。
+
+为党育人 为国育才
+　　党的二十大报告提出，要加快建设国家战略人才力量，努力培养造就更多大师、战略科学家、一流科技领军人才和创新团队、青年科技人才、卓越工程师、大国工匠、高技能人才。上海交通大学副校长朱新远表示，高校应当多措并举，创新科研评价多元化与激励机制，构建健康良好的科研生态体系，强化价值引领，大力弘扬科学家精神，鼓励科技工作者勇攀高峰，不断强化现代化建设人才支撑。他建议，可以通过秉持“分类发展、多元评价”的人才发展理念，不断完善人才队伍职业发展体系及研究生培养体系；结合战略规划、目标管理、政策调整、资源分配等，改变“一刀切”的量化评价尺度，建立更加灵活的多把尺子，达到约束和激励目标，推动培育重大成果；通过设立青年教师科研专项基金，全面支持青年教师开展原创性的研究。
+　　教育兴则国兴，教育强则国强。报告独立对教育、科技、人才统筹作出战略部署，将教育、科技、人才提高到前所未有的战略高度，充分揭示了教育是根本、科技是引领、人才是关键的战略定位。作为高校管理者，石佑启表示，要始终牢记为党育人、为国育才的初心使命，落实立德树人根本任务。要深刻把握新时代育人方向，坚持和加强党对高校的全面领导，全面贯彻党的教育方针，扎根中国大地办大学。要增强人才自主培养旨向，加快构建自主的知识体系，加快建立人才资源竞争优势，更好服务党和国家事业发展大局。此外，坚持服务国家战略导向，提高国际化人才培养质量，大力培养具有家国情怀、国际视野、过硬本领、创新能力、担当精神的高素质国际化人才，为服务国家战略提供坚实的人才支撑。
+　　“作为教育工作者，我们将以二十大精神为指引，坚决扛起中国式现代化事业赋予高等教育的时代责任。”严纯华表示，高校要充分发挥高端人才汇聚地和培养地的优势，着眼于中国式现代化全局，以更加开放的心态广揽人才，用心用情服务人才，搭建人才价值实现舞台，构建科学合理人才评价体系，努力铸就一支心怀“国之大者”的高端人才队伍，打造高层次创新人才汇聚高地；大力推进高质量内涵式发展，坚持科技第一生产力、人才第一资源、创新第一动力，紧紧围绕国家战略需求和地方经济社会发展需要，创新优化人才培养、学科发展、人才队伍、科研创新、社会服务工作体系，为全面建设社会主义现代化国家、全面推进中华民族伟大复兴贡献智慧力量。
+　　人才在全面建设社会主义现代化国家过程中起着决定性作用，科教兴国战略事关中国式现代化建设的动力源泉和长远潜力。高校要适应现代化的变革，尤其是适应高等教育普及化的变革，解决人才培养的自主性问题。南昌大学副校长刘耀彬表示，新时代，我国高等教育要聚焦特色、分类发展，大力实施一流学科培优行动，完善大学创新体系，勇于攻克“卡脖子”的关键核心技术，持续推进新工科、新医科、新农科、新文科建设。要夯实中外人文交流基础，着力打造教育对外开放新高地，加快构建高质量教师培养体系。
+　　作为人才培养的主阵地，高校要统筹抓好“为谁培养人、培养什么人、怎样培养人”这一根本性问题。在杨灿明看来，一是要坚持人才培养的正确方向，始终坚守为党育人、为国育才的初心使命，全面贯彻党的教育方针，落实立德树人根本任务，扎根中国大地办大学。二是要坚持培养堪当民族复兴大任的时代新人，为全面建设社会主义现代化国家源源不断地输送高素质专业人才，着力培养拔尖创新人才，为创新发展汇聚力量、持续赋能。三是要坚持构建高质量人才培养的完善体系。用好“大思政课”，统筹推动新工科、新医科、新农科、新文科建设，积极推进多学科交叉和跨学科融通，探索构建中国式人才培养模式。
+　　古往今来，人才都是富国之本、兴邦大计。培养堪当民族复兴大任的时代新人，首先就要全面贯彻党的教育方针，坚持为党育人、为国育才。林如鹏表示，暨南大学要勇担育人育才使命，构建同向融合文化育人体系。不断创新内地、港澳台侨、华人及海外留学生三类人才培养：努力将祖国内地学生培养成德智体美劳全面发展的社会主义建设者和接班人；将港澳台侨学生培养成自觉拥护祖国统一、拥护“一国两制”、为港澳长期繁荣稳定和实现祖国和平统一作贡献的坚定爱国者；将华人学生、留学生培养成了解和热爱中华文化、对我友好、主动担当中外交流的文化使者。他认为，必须把握时代性、着眼系统性、增强创新性，聚焦文化认同、培育文化自觉、提升文化自信，为培养担当民族复兴大任的时代新人提供强大的文化支撑。
+
+自立自强 创新驱动
+　　党的二十大报告强调，要“加快实现高水平科技自立自强”“增强自主创新能力”，开展“以国家战略需求为导向”的原创性研究，对高校科技工作提出了更具体更宏伟的目标。党的二十大代表、苏州大学党委书记江涌提出，高校作为科技第一生产力、人才第一资源、创新第一动力的重要结合点，在服务国家创新驱动发展、加快构建新发展格局、着力推动高质量发展中具有不可替代的作用。
+　　“作为国家战略科技力量的重要组成部分，高水平研究型大学要胸怀‘国之大者’，积极服务国家重大需求。”朱新远表示，首先要面向国际前沿、新兴科学和交叉领域，顶层架构，提前布局，积极开展“从0到1”的原创性研究和关键核心技术攻关，通过盘活资源，强调自主创新，为基础研究提供保障。其次要加强校企协同，以深度合作驱动关键核心技术攻关。同时，深化改革，在制度文件、人才培养、模式探索、国资管理等方面形成相对稳定的体系，不断加强科技成果转移转化体制机制探索，形成高校科技成果转化推广范式。
+　　党的二十大报告特别强调了创新驱动发展的重要性。为增强自主创新能力，培养优秀拔尖创新人才，早在2007年华中科技大学就启动了创新研究院建设。通过营造多学科交叉的创新环境、教育环境，探索优秀拔尖创新人才培养的新模式，努力培养一批学术视野宽广、综合能力强、富有创新创业精神的优秀拔尖科技人才。中国工程院院士、华中科技大学校长李元元表示，学校将发挥基础研究主力军、人才培养主阵地、重大科技突破策源地的重要作用，积极服务国家重大需求；以习近平新时代中国特色社会主义思想为指导，回答好中国之问、世界之问、人民之问、时代之问。
+　　1995年5月6日，中共中央、国务院发布《关于加速科学技术进步的决定》，提出科教兴国战略。自此，我国把科技创新和教育发展提上重要战略地位。经过长期努力，“科学技术是第一生产力”的论断深入人心，一大批重大原创成果不断刷新纪录。科教兴国战略提出27年来，中国正以前所未有的创新勇气、创新能力、创新速度使最新科学技术快速转化。在一批批科学家的努力下，中国特色自主创新道路越走越宽。日前，世界知识产权组织发布的《2022年全球创新指数报告》显示，2022年中国在全球创新指数中的排名从2013年的第35位上升至第11位。该报告称，中国取得的成绩显示了一个国家将创新作为增长引擎并给予大量关注的效果。中国以非常全面的方式建设创新生态系统，这是中国成功的一个重要因素，同时转化为现实生产力，推动中国经济向着质量变革、效率变革、动力变革的方向发展。
+　　中国科学院院士、华南理工大学材料科学与工程学院教授曹镛是我国最早从事导电高分子研究的科学家之一。他带领团队始终坚持基础与应用并重、材料与器件并重的研究方针及构建模式，在高分子光电功能材料与器件研究领域取得一系列原创性成果，引领和推动了高分子光电功能材料与器件研究迈上新的台阶，为该领域的发展作出了重要贡献。曹镛表示，团队将以解决国家急需为己任，聚焦光电领域前沿开展原创性研究，为实现中华民族伟大复兴贡献所有智慧和热忱。
+　　中国科学院院士、南方科技大学副校长杨学明主持建成的“大连相干光源”是我国第一台大型自由电子激光用户装置，也是当前世界上唯一运行在极紫外波段的自由电子激光用户实验装置。目前，他正致力于帮助深圳规划中能X射线自由电子激光的建设。该装置建成后，将成为深圳综合性国家科学中心的核心设施之一，对深圳乃至粤港澳大湾区的基础科学研究以及产业技术研发起到极大的推动作用。他表示，建成后，这一装置将可以产生世界上最亮的软X射线自由电子激光光源，是真正意义上的下一代自由电子激光技术。“未来，我将以南科大高等研究院为载体，推动高水平科学研究和相关产业应用，探索科研经济新路径，支撑大科学设施的建设和发展，为深圳和大湾区的高水平科技发展以及我国的科技自立自强作出贡献。”他说。
+　　十年砥砺奋进，为实现中华民族伟大复兴打下坚实基础。新征程是充满光荣和梦想的远征。立志于中华民族千秋伟业的中国共产党，正带领亿万中华儿女信心百倍地为全面建设社会主义现代化国家而团结奋斗，为交出新的彪炳史册的时代答卷而踔厉奋发、勇毅前行！
+
+
+.zzjj {font-family: 宋体;}
+.zzjj p {font-size:16px;}
+.zzjj p span {color:#006a80;}
+.zzjj .alist {font-size: 16px;font-weight: normal;height: 30px;}
+.zzjj ul li {height: auto!important;font-size: 16px;font-weight: normal;color: #000;background: none;padding-left: 0;}
+.zzjj ul li a {color:#000}
+.f-main-leftMain_icon {
+    height: 36px;
+    overflow: hidden;
+}
+.f-main-leftMain_programa {
+    margin-top: 15px;
+    clear: both;
+}
+
+ <div class="f-main-leftMain_programa zzjj">
+          	<a class="alist" style="font-weight:bold; font-family: 微软雅黑;">作者简介</a>
+                <p><span>姓名：</span>记者 李永杰 明海英 <span>工作单位：</span></p>
+                <p> </p>
+</div>
+
+
+  
+ 文档附件start 
+
+var msg='';
+if(msg.length!=0)
+{
+document.write("<br><strong>附件：</ strong><br/>");
+}
+
+ 文档附件end 
+
+
+
+
+
+
+
+转载请注明来源：中国社会科学网
+（责编：刘星）
+
+
+
+相关文章
+
+
+
+
+
+
+
+
+
+
+
+今日热点
+
+深入阐发人类文明新形态
+第五届全国哲学社会科学道德和学风建设论坛召开
+第五届全国哲学社会科学道德和学风建设论坛召开
+国家社会科学基金重大项目“辽金元笔记文献汇编及研究”开题
+深入阐发人类文明新形态
+“二十大精神学习交流会议”在上海大学举行
+
+
+
+
+
+		function goChannelPage(){
+
+			var thisUrl= window.document.location.pathname;
+			thisUrl = thisUrl.substring(1);
+			var pos = thisUrl.indexOf("/");
+			thisUrl = thisUrl.substring(0,pos);
+			goUrl = "/"+thisUrl;
+
+
+			if(goUrl!="/index"){
+				window.document.location.href = goUrl;
+			}else{
+				window.document.location.href = "/";
+			}
+		}
+	
+回到频道首页
+
+
+
+ 头部.logo结束 
+
+    function doZoom(size) {
+    var zoom = document.getElementById("Zoom");
+	zoom.className="class"+size;
+    }
+	function doHeight() {
+	var the_height = document.getElementById("con_left").offsetHeight;
+	if(the_height < 2003){
+		document.getElementById("con_left").style.height = "2003px";
+		}
+	}
+	doHeight();
+
+
+
+ 页面底部开始 
+
+.uni-click-to-top{
+    display: block;
+    width: 53px;
+    height: 53px;
+    background: url(/images/sy8-to.jpg) 0 0 no-repeat;
+    margin-left: 1050px;
+    position: fixed;
+    _position: absolute;
+    bottom: 200px;
+}
+
+
+
+
+中国社会科学院概况|中国社会科学杂志社简介|关于我们|<a href="/qt/flgw/">法律顾问</a>|广告服务|网站声明|联系我们
+
+
+值班电话：010-65393398    E-mail：zgshkxw_cssn@163.com    京ICP备11013869号
+
+  
+ 中国社会科学网版权所有，未经书面授权禁止使用
+Copyright © 2011-2022 by www.cssn.cn. all rights reserved
+
+
+
+
+
+
+
+中国社会科学院概况|中国社会科学杂志社简介|关于我们|法律顾问|广告服务|网站声明|联系我们
+
+
+值班电话：010-65393398
+E-mail：zgshkxw_cssn@163.com
+京ICP备11013869号
+
+  
+ 中国社会科学网版权所有，未经书面授权禁止使用
+Copyright © 2011-2022 by www.cssn.cn.
+all rights reserved
+
+
+
+
+
+
+ 天润脚本 
+
+ cssn.cn Baidu tongji analytics 
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?9ac7f8383ed02699dcafe4c2cba61e1f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
+
+             $(function(){
+		    $(".f-main-leftMain-content").find("p").removeAttr("style"); 
+		    $(".f-main-leftMain-content").find("font").removeAttr("style");
+		    $(".f-main-leftMain-content2").find("div").removeAttr("class");
+		})
+
+ 页面底部结束 
+
+ 百度自动推送工具代码 
+
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+
+

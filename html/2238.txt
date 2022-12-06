@@ -1,0 +1,41 @@
+html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+
+
+
+
+
+资料中心--人民网
+
+
+
+
+
+
+
+ <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0"> 
+ 调用样式表 
+
+
+
+
+
+body{background-position-y:32px}
+.top01 {background:#fff}
+
+
+
+
+
+
+
+
+
+
+
+
+copyright
+人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用
+Copyright © 1997-2022 by www.people.com.cn. all rights reserved
+
+

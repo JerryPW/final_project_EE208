@@ -1,0 +1,214 @@
+
+html
+
+
+上海交通大学教学信息服务网
+
+
+
+
+
+
+	var _path 				= "";
+	var _systemPath 		= "";
+	var _stylePath 			= "/zftal-ui-v5-1.0.2";
+	
+jQuery核心框架库 
+
+jQuery常用工具扩展库：基础工具,资源加载工具,元素尺寸相关工具 
+
+jQuery浏览器检测 
+
+Bootstrap布局框架
+
+
+
+jQuery.chosen美化插件
+
+
+
+
+业务框架jQuery全局设置和通用函数库
+
+业务框架前端脚本国际化库
+
+
+
+	.active{
+			color:#c9151e; 
+	        font-weight: bold;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+教学信息服务网
+
+ 中英文切换 是否显示
+
+中  文
+English
+
+
+						var _localeKey 	= "zh_CN";
+						jQuery("#btn_" + _localeKey).removeClass("btn-lang-disabled").addClass("active");
+					
+
+
+
+ 主区域 
+
+
+
+
+
+
+  style="height: 300px" 
+
+
+
+
+
+
+
+
+
+
+
+登录Login
+ 防止浏览器自动填充密码 
+
+
+ 防止浏览器自动填充密码 end 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0-弹出验证码
+ 0-弹出验证码
+
+<a href="/xtgl/init_fkIndex.html" class="checkbox pull-left" target="_blank">访客登录</a> 
+
+
+登 录
+
+统一身份认证登录 
+
+
+
+通过jAccount登录
+
+
+
+
+ 登录口提示信息 
+
+
+
+
+
+
+
+
+
+
+
+ 底部 
+
+
+沪ICP备05052060  沪公安网备31009102000045  版权所有©上海交通大学
+
+
+
+     
+	jQuery(document).ready(function() {
+		//$('#localChange').trigger("chosen");
+		/// detectOS();
+		//用户名密码 输错n次 需输入验证码            
+		  
+	});
+	
+		var dlktsxx="1：在校学生，教职工通过红色框“统一身份验证登录”登录系统，用户忘记密码可以通过综合服务平台提供的途径重置密码。2：没有校园一卡通的用户，输入用户名，密码点击蓝色“登录”按钮登录系统，用户名为教务系统中的四位工号，初始密码为证件号码后六位。";
+		var arr=[];
+		var html="";
+		if(dlktsxx.indexOf("。")>-1){
+			arr=dlktsxx.split("。");
+			for(var s=0;s<arr.length;s++){
+				if(arr[s]!=''){
+					html+=arr[s]+" ";
+				}
+			}
+		}else{
+			html=dlktsxx;
+		}
+		$("#dlktsxx").html(html);
+		$("#dlktsxx").attr("title",html);
+	
+	
+	//ip
+	
+	
+	jQuery(function($){
+		
+		function changeLanguage(lang) {
+			$.ajaxSetup({async : false});
+			jQuery.post(_path + "/xtgl/init_changeLocal.html", {//config-shiro.xml里要加这个
+				language : lang != "en_US" ? "zh_CN" : "en_US"
+			}, function(b) {
+				if (1 == parseInt(b)) {
+					if ($("#topButton").size() > 0) {
+						$("#topButton").click();
+					} else {
+						window.location.reload();
+					}
+				}
+			}, "json");
+			$.ajaxSetup({async : true});
+		}
+		$("button.btn-lang").click(function() {
+			if (!$(this).hasClass("btn-lang-enabled")) {
+				changeLanguage($(this).attr("value"));
+			}
+		})
+		
+		//切换英文
+		if($(".active").val()=="en_US"){
+			$("#xtmc").text("Academic Information Service");
+			$("title").text("Academic Information Service")
+			$("#wpjssq").text("New Teacher Account Application");
+			$("#wjmm").text("Forgot your password?");
+			$("#jzfw").text("Parents visit");
+			$("#yhlogin").text("Login");
+			$("#dl").text("Login");
+			$("#jAccount").text("Log in through jAccount");
+			$("#dlktsxx").hide();
+		}
+		
+	
+	});
+
+
+
+
+
+
+

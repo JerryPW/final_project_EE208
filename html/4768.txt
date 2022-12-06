@@ -1,0 +1,228 @@
+
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+
+
+
+
+        交通大学焦点网 --
+	“两学一做”学习教育
+    
+
+
+
+
+
+
+[if lte IE 6]>
+    <script src="js/DD_belatedPNG_0.0.8a.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        DD_belatedPNG.fix('div, ul, img, li, input , a,button');
+    </script>
+    <![endif]
+
+
+
+
+
+
+
+设为首页
+|
+加入收藏
+
+
+
+
+
+
+      
+            function Hidden(oTag)
+            {
+               if(document.getElementById(oTag)!=null)
+			   document.getElementById(oTag).style.display="none";
+            }
+            function Visible(oTag)
+            {
+			   if(document.getElementById(oTag)!=null)
+               document.getElementById(oTag).style.display="block";
+            }
+            
+    
+
+
+
+首页
+
+
+焦点新闻
+
+
+
+中央精神
+
+
+交大要闻
+
+
+院系动态
+
+
+
+
+
+通知公告
+
+
+
+公告
+
+
+
+
+
+理论焦点
+
+
+
+理论焦点
+
+
+
+
+
+理论研究
+
+
+
+理论研究
+
+
+学习材料
+
+
+
+
+
+学者声音
+
+
+
+学者声音
+
+
+
+
+
+专题透视
+
+
+
+专题透视
+
+
+
+
+
+网上学习城
+
+
+
+中心组学习交流
+
+
+理论学习简报
+
+
+每日学习参考
+
+
+影像资料
+
+
+音频资料
+
+
+材料汇编
+
+
+特色案例
+
+
+
+
+
+登陆系统
+
+
+
+
+
+
+
+nav end
+
+
+
+
+
+
+						setInterval("TimeNow.innerHTML=new Date().toLocaleString()+' 星期'+'日一二三四五六'.charAt(new Date().getDay());",1000);
+					
+
+
+
+
+搜索
+
+
+
+
+
+
+“两学一做”学习教育
+
+
+
+
+
+
+    if(document.getElementById("Left_2960067")!=null)
+    Left_2960067.className="LM_on";
+  
+
+
+			您当前的位置：
+			“两学一做”学习教育“两学一做”学习教育
+2016-11-21践行“两学一做”“关键少数”要作好表率2016-11-11李厚民：深学实做立起合格党员标尺2016-11-07“学”得深入 “做”得扎实——各级党组织深入开展“两学一做”学习教育纪实2016-11-03让每个党员都有力量（人民论坛）2016-10-28学党章党规、学系列讲话，做合格党员：融入，在常态化中见长效2016-10-26[两学一做]引领，高扬起继续前进的风帆
+
+——来自基层“两学一做”学习教育的调研与思考2016-10-09[两学一做]校纪委监察处审计处联合支部召开“两学一做”组织生活会[图]2016-09-27习近平对开展“两学一做”学习教育作出重要指示强调2016-09-27刘云山：充分发挥党委中心组学习的示范带动作用2016-09-27探究习总书记精准扶贫思想的提出与理论基础2016-09-27一图读懂“两学一做”学习教育
+				共1页
+			
+				当前第1页
+			
+						首页
+					上一页下一页
+						尾页
+					
+				第页
+			
+
+
+
+
+index end
+
+
+
+    $(function () {
+        if (CheckUserOnline(0)) {
+            document.getElementById("dl").innerHTML = document.getElementById("username").innerHTML;
+        } else {
+
+        }
+    });
+    function iframe() {
+        var now = new Date();
+        var num = now.getSeconds();
+        document.getElementById("frameLogin").src = "../../Web/JDJDW/login.aspx?ID=" + num;
+    }

@@ -1,0 +1,148 @@
+htmlNetwork & Information Center of SJTU
+
+
+
+Announced by Visual SiteBuilder 9
+
+
+ CustomerNO:776562626572323074684754525b564203040000 
+
+
+_jsq_(1001,'/index.jsp',-1,1402795688)
+
+
+ 
+Home
+
+About us
+
+News & Notice
+
+jAccount service
+
+Network service
+
+Ecard service
+
+  $(function() {
+        $( '#dl-menu' ).dlmenu();
+    });
+
+
+
+ 网站logo图片地址请在本组件"内容配置-网站logo"处填写 
+
+
+
+
+Home
+About us
+News & Notice
+jAccount service
+Network service
+Ecard service
+
+
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode194013').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey194013").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey194013").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey194013").value = base64.encode(document.getElementById("lucenenewssearchkey194013").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode194013"));
+        return true;
+    } 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+$(document).ready(function(){
+    $('.flexslider').flexslider({
+        directionNav: true,
+        pauseOnAction: false,
+        slideshowSpeed: 8000
+    });
+});
+
+
+
+
+
+
+
+
+Recent Posts
+
+VPN Setup Guide for mac OS[10-09]
+VPN Setup Guide for Windows[09-22]
+SJTUer's WPS Office Suite - Co…[08-28]
+Call for Siyuan-1 Cluster Full…[07-31]
+Advanced PDF Editor for SJTU A…[06-30]
+Three SJTU Alumni on Fortune C…[05-31]
+Painting Exhibition of Charact…[04-25]
+Story: Our fight against COVID…[03-31]
+_showDynClickBatch(['dynclicks_u5_1256','dynclicks_u5_1255','dynclicks_u5_1246','dynclicks_u5_1244','dynclicks_u5_1235','dynclicks_u5_1224','dynclicks_u5_1214','dynclicks_u5_1205'],[1256,1255,1246,1244,1235,1224,1214,1205],"wbnews", 1402795688)
+
+----recent----
+
+
+
+
+
+Recommended
+
+Ecard Service[10-09]
+Charge Ecard[09-03]
+Change jAccount Password[10-30]
+Wi-Fi available on SJTU campus[09-15]
+I want a jAccount[09-01]
+I forget my jAccount and passw…[09-01]
+Network operating status[10-26]
+Check transaction flow of Ecar…[10-25]
+_showDynClickBatch(['dynclicks_u6_1063','dynclicks_u6_1056','dynclicks_u6_1026','dynclicks_u6_1041','dynclicks_u6_1021','dynclicks_u6_1027','dynclicks_u6_1051','dynclicks_u6_1047'],[1063,1056,1026,1041,1021,1027,1051,1047],"wbnews", 1402795688)
+
+----hot----
+
+
+
+
+
+Service  Info
+
+
+Minhang campus: 
+1F Library & Information Building
+Xuhui campus: 
+1F Lecture Building No.3
+Phone:34206060
+Email:service@sjtu.edu.cn
+ 
+ 
+
+
+
+----hot----
+
+ 版权内容请在本组件"内容配置-版权"处填写 
+Copyright © 2020 Shanghai Jiao Tong University Network & Information Center All rights reserved. 沪 ICP 备 20170179
+

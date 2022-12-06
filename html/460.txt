@@ -1,0 +1,226 @@
+
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+
+
+
+
+        交通大学焦点网 --
+	十八届六中全会
+    
+
+
+
+
+
+
+[if lte IE 6]>
+    <script src="js/DD_belatedPNG_0.0.8a.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        DD_belatedPNG.fix('div, ul, img, li, input , a,button');
+    </script>
+    <![endif]
+
+
+
+
+
+
+
+设为首页
+|
+加入收藏
+
+
+
+
+
+
+      
+            function Hidden(oTag)
+            {
+               if(document.getElementById(oTag)!=null)
+			   document.getElementById(oTag).style.display="none";
+            }
+            function Visible(oTag)
+            {
+			   if(document.getElementById(oTag)!=null)
+               document.getElementById(oTag).style.display="block";
+            }
+            
+    
+
+
+
+首页
+
+
+焦点新闻
+
+
+
+中央精神
+
+
+交大要闻
+
+
+院系动态
+
+
+
+
+
+通知公告
+
+
+
+公告
+
+
+
+
+
+理论焦点
+
+
+
+理论焦点
+
+
+
+
+
+理论研究
+
+
+
+理论研究
+
+
+学习材料
+
+
+
+
+
+学者声音
+
+
+
+学者声音
+
+
+
+
+
+专题透视
+
+
+
+专题透视
+
+
+
+
+
+网上学习城
+
+
+
+中心组学习交流
+
+
+理论学习简报
+
+
+每日学习参考
+
+
+影像资料
+
+
+音频资料
+
+
+材料汇编
+
+
+特色案例
+
+
+
+
+
+登陆系统
+
+
+
+
+
+
+
+nav end
+
+
+
+
+
+
+						setInterval("TimeNow.innerHTML=new Date().toLocaleString()+' 星期'+'日一二三四五六'.charAt(new Date().getDay());",1000);
+					
+
+
+
+
+搜索
+
+
+
+
+
+
+十八届六中全会
+
+
+
+
+
+
+    if(document.getElementById("Left_2960030")!=null)
+    Left_2960030.className="LM_on";
+  
+
+
+			您当前的位置：
+			十八届六中全会十八届六中全会
+2016-12-09吴玉良：新时期加强党内监督的重要意义2016-12-06如何理解党的政治规矩2016-11-25陈希：坚持正确选人用人导向2016-11-21王勇：筑牢拒腐防变的思想防线和制度防线2016-11-15坚决维护党中央权威2016-11-14严格执纪问责 确保《条例》贯彻落实——中央纪委有关负责同志就《中国共产党党内监督条例》答记者问2016-11-14韩振峰：履行责任推进“加强和规范党内政治生活”系统工程2016-11-11刘云山：严肃党内政治生活 净化党内政治生态2016-11-11党内监督没有禁区——习近平治党思路中的重要一环2016-11-07中央组织部发出《通知》要求：认真学习贯彻六中全会精神 深入推进“两学一做”学习教育2016-11-07刘云山：以更大力度管党治党——一论学习贯彻党的十八届六中全会精神2016-11-07《准则》《条例》呈现三大特点 着力增强党的自净能力2016-11-07《关于新形势下党内政治生活的若干准则》全文2016-11-04一图读懂《关于新形势下党内政治生活的若干准则》2016-11-04五大特点读懂《准则》《条例》——党内政治生活指南之总括篇
+				共2页
+			
+				当前第1页
+			
+						首页
+					上一页下一页
+						尾页
+					
+				第页
+			
+
+
+
+
+index end
+
+
+
+    $(function () {
+        if (CheckUserOnline(0)) {
+            document.getElementById("dl").innerHTML = document.getElementById("username").innerHTML;
+        } else {
+
+        }
+    });
+    function iframe() {
+        var now = new Date();
+        var num = now.getSeconds();
+        document.getElementById("frameLogin").src = "../../Web/JDJDW/login.aspx?ID=" + num;
+    }

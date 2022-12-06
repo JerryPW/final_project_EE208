@@ -1,0 +1,710 @@
+html
+
+  Minimal Mistakes Jekyll Theme 4.19.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+
+
+
+
+ begin _includes/seo.html Home | IEEE VR 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "IEEE VR 2023",
+      "url": "http://ieeevr.org/2023/"
+    
+  }
+
+ end _includes/seo.html 
+
+ https://t.co/dKP3o1e 
+
+
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+
+ For all browsers 
+
+[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]
+ start custom head snippets 
+ insert favicons. use https://realfavicongenerator.net/ 
+
+ end custom head snippets 
+
+<script src="jquery.js"></script>
+<link rel="stylesheet" href="styles.css">
+
+<script src="script.js"></script>
+
+
+
+Skip links
+
+Skip to primary navigation
+Skip to content
+Skip to footer
+
+
+[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]
+ 
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/2023/"><img src="/2023/2023/favicon.png" alt=""></a>
+        
+        <a class="site-title" href="/2023/">
+          IEEE VR 2023
+          <span class="site-subtitle"></span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/2023/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/2023/contribute/">Contribute</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+
+
+    p {
+        text-align: justify;
+        text-justify: auto;
+    }
+
+    .topnav {
+        #position: fixed;
+        #top: 0px;
+        #width: 100%;
+        overflow: hidden;
+        background-color: white;
+        #border-bottom: 1px solid #00aeef;
+    }
+
+    .topnav a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+    .active {
+        background-color: white;
+        color: black;
+    }
+
+    .topnav .icon {
+        display: none;
+    }
+
+    .dropdown {
+        float: left;
+        overflow: hidden;
+    }
+
+    .dropdown .dropbtn {
+        font-size: 17px;
+        border: none;
+        outline: none;
+        color: black;
+        padding: 16px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #fffbed;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        float: none;
+        color: #363636;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+    .topnav a:hover,
+    .dropdown:hover .dropbtn {
+        background-color: #F5725E;
+        color: #103b62;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:checked .dropdown-content {
+        display: block;
+    }
+
+    @media screen and (max-width: 600px) {
+
+        .topnav a:not(:first-child),
+        .dropdown .dropbtn {
+            display: none;
+        }
+
+        .topnav a.icon {
+            float: right;
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .topnav.responsive {
+            position: relative;
+        }
+
+        .topnav.responsive .icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+            height: inherit;
+        }
+
+        .topnav.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+        }
+
+        .topnav.responsive .dropdown {
+            float: none;
+        }
+
+        .topnav.responsive .dropdown-content {
+            position: relative;
+        }
+
+        .topnav.responsive .dropdown .dropbtn {
+            display: block;
+            width: 100%;
+            text-align: left;
+        }
+    }
+
+    .ieeevrbanner {
+        padding: 0px;
+        border-radius: 7px;
+    }
+
+    .column {
+        float: left;
+        padding: 10px;
+    }
+
+    .left {
+        width: 75%;
+    }
+
+    .center {
+        width: 2%;
+    }
+
+    .right {
+        width: 22%;
+    }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .sponsorsend {
+        display: block;
+    }
+
+    .ieeevrfooter {
+        position: static;
+        padding-top: 10px;
+        bottom: 0;
+        width: 100%;
+        color: black;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .social-icons {
+        text-align: center;
+    }
+
+    .social-icons li {
+        display: inline-block;
+        list-style-type: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+    }
+
+    .social-icons li a {
+        border-bottom: none;
+    }
+
+    .social-icons li img {
+        width: 40px;
+        height: 40px;
+        margin-right: 30px;
+    }
+
+    .ieeevrmsgbox { // Any boxes with the theme-primary color as background
+      background-color: #F5725E;
+      border-radius: 7px;
+    }
+
+    .ieeevrmsgbox b {
+        color: #363636;
+    }
+
+    .notice--info {
+        background-color: $fffbed ! important;
+        color: #363636 ! important;
+    }
+
+    .notice--text {
+        background-color: $fffbed ! important;
+        color: #363636 ! important;
+    }
+
+    @media screen and (max-width: 900px) {
+        .left {
+            width: 100%;
+        }
+
+        .center {
+            display: none;
+        }
+
+        .right {
+            width: 100%;
+        }
+
+        .sidebar-header-icon {
+            display: none;
+            padding: 0px 0px;
+        }
+
+        
+
+        .conf-icon {
+            width: 200px;
+        }
+    }
+
+
+Top
+
+    var mybutton = document.getElementById("myBtnTop");
+
+    window.onscroll = function() {
+        scrollFunction()
+    };
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+            mybutton.style.display = "block";
+        } else {
+            mybutton.style.display = "none";
+        }
+    }
+
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+
+
+    function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
+
+
+
+
+ navbar 
+
+IEEE VR
+About
+ <a href="#">Online</a>  
+ <div class="dropdown">
+                <button class="dropbtn">Attend &#9662;</button>
+                <div class="dropdown-content">
+                    <a href=/2023/attend/code-of-conduct/>Code of Conduct</a>
+                    <a href=/2023/attend/why-attend/>Why Attend</a>
+                </div>
+            </div> 
+
+            <div class="dropdown">
+                <button class="dropbtn">Program &#9662;</button>
+                <div class="dropdown-content">
+                    <a href=/2023/program/overview/>Overview</a>
+                    <a href=/2023/program/exhibitors/>Exhibitors and Sponsors</a>
+                    <a href=/2023/program/plenary-sessions/>Plenary Sessions</a>
+                    <a href=/2023/program/keynote-speakers/>Keynote Speakers</a>
+                    <a href=/2023/program/papers/>Papers</a>
+                    <a href=/2023/contribute/workshoppapers/>Workshops</a>
+                    <a href=/2023/program/panels/>Panels</a>
+                    <a href=/2023/program/tutorials/>Tutorials</a>
+                    <a href=/2023/program/posters/>Posters</a>
+                    <a href=/2023/program/3dui-contest/>3DUI Contest Entries</a>
+                    <a href=/2023/program/doctoral-consortium/>Doctoral Consortium</a>
+                    <a href=/2023/program/demos/>Demos</a>
+                    <a href=/2023/program/videos/>Videos</a>
+                    <a href=/2023/program/bofs/>Birds of a Feather</a>
+
+                </div>
+            </div>
+            
+
+Contribute ▾
+
+Call for Exhibitors and Sponsors
+ <a href=/2023/contribute/ style="color:#919191">Call for Journal Papers</a>                 
+ <a href=/2023/contribute/conference-papers/ style="color:#919191">Call for Conference Papers</a>                 
+Call for Papers
+Call for Posters
+Call for Workshops
+Call for 3DUI Contest Entries
+Call for Research Demos
+Call for Doctoral Consortium
+Call for Tutorials
+Call for Workshop Papers
+Call for Panels
+Call for Videos
+Call for Student Volunteers
+        <a href=/2023/contribute/bridge-to-vr/>Bridge to VR CFP</a>                      
+        <a href=/2023/contribute/presenterInfo>Presenter Guidelines</a>                  
+        <a href=/2023/contribute/videoInstructions/" | relative_url }}>Video Guidelines</a>                 
+
+
+ <div class="dropdown">
+                <button class="dropbtn">Awards &#9662;</button>
+                <div class="dropdown-content">
+                    <a href=/2023/awards/vgtc>VGTC Awards</a>
+                </div>
+            </div>  
+
+Committees ▾
+
+Conference Committee
+Steering Committee
+ <a href=/2023/committees/program-committee/>Program Committee</a> 
+
+
+Past Conferences
+ <a href=/2023/resources/>Resources</a> 
+☰
+
+ banner 
+
+ content 
+
+
+ left sidebar 
+
+
+<div class="notice--warning">
+    <strong style="color: red">Important notice:</strong>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer suscipit pharetra lectus ut scelerisque. Suspendisse fermentum fringilla tellus, ac malesuada lectus aliquet tincidunt. Donec aliquam mollis efficitur. Etiam non sapien nisi.
+    </p>
+</div>
+
+
+    /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .notice--info {
+        padding-top: 2px;
+        padding-bottom: 2px;
+        background-color: $theme-yellow;
+        color: $theme-text;
+    }
+
+
+
+<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+        <strong>Best of IEEE VR 2021</strong>
+        <p>
+            Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.
+        </p>
+        <center>
+            <p style="font-size: 20px;">
+                <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
+            </p>
+        </center>
+    </div>
+<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+        <strong>Registration Information (15 Mar 2021):</strong>
+        <p>
+            The <strong>Advance Registration</strong> deadline was postponed to <strong>March 25th</strong>!!
+            Register <a href="/2021/attend/registration/">here</a>.
+        </p>
+    </div>
+<span id=hideThis></span>
+    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+
+        <a id="toggleButton" style="font-size: 10px:" onclick="toggleText();" href="javascript:void(0);">See previous notices</a>
+    </div>
+    <script>
+        var status = "less";
+
+        function toggleText() {
+            var text = `
+    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+        <strong>Registration Information (24 Feb 2021):</strong>
+        <p>
+            Registration is now open!! You can consult the fee schedule and registration form <a href="/2021/attend/registration/">here</a>.
+        </p>
+    </div>
+            <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+            <strong>Registration Information (20 Feb 2021):</strong>
+            <p>
+                Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week. Thank you very much for your patience and understanding.
+                You can consult the conference's fee schedule <a href="/2021/attend/registration/">here</a>.
+            </p>
+        </div>
+        <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+            <strong>Important Information:</strong>
+            <p>
+                Given the evolution of the pandemic, and following recommendations from public health authorities, VR 2021 will be all virtual, from March 27-April 3. We will process submissions as planned for different tracks. Stay tuned for more information!
+            </p>
+        </div>`;
+
+            if (status == "less") {
+                document.getElementById("hideThis").innerHTML = text;
+                document.getElementById("toggleButton").innerText = "See less";
+                status = "more";
+            } else if (status == "more") {
+                document.getElementById("hideThis").innerHTML = "";
+                document.getElementById("toggleButton").innerText = "See previous notices";
+                status = "less"
+            }
+        }
+
+    </script>
+
+
+
+Come and Join Us
+  !!The paper submission system is open now!!  
+
+  Call for Papers(journal/conference) (Abstract Oct.7, paper Oct.14) 
+
+  Call for Workshops (Proposals and CFPs due Dec.2)
+
+     
+  Call for Doctoral Consortium  (Submission deadline: Dec.12) 
+    
+      
+  Call for Posters  (Submission deadline: Dec.18) 
+        
+      
+  Call for 3DUI Contest  (Submission deadline: Dec.22) 
+    
+      
+  Call for Research Demos  (Submission deadline: Jan.6) 
+        
+      
+  Call for Tutorials  (Submission deadline: Jan.9)
+        
+  Call for Panels  (Submission deadline: Jan.12) 
+    
+  Call for Videos  (Submission deadline: Jan.13) 
+    
+  Call for Student Volunteers  (Submission deadline: Feb.3) 
+    
+        
+    
+ <p>
+        The safety and well-being of all conference participants is our priority. After evaluating the current COVID-19 situation in Shanghai
+        and the uncertainty around International travel, the decision has been made to transform the in-person component of IEEE VR 2023 into an 
+        all-digital conference experience and will now be an online event. Therefore, IEEE VR 2023 will no longer take place in Pudong, Shanghai and will instead take place virtually. The conference dates remain the same (25 – 29 March 2023). Proceedings will not be cancelled, 
+        and publications will continue as planned.
+    </p> 
+
+        IEEE VR 2023, the 30th IEEE Conference on Virtual Reality and 3D User Interfaces will be held from March 25th through March 29th, 2023 at the Pudong Shangri-La Hotel in Shanghai, China.
+    
+
+        Our goal is to provide the best hybrid conference experience for physical and virtual attendees,  learning from the historical footsteps of the successfull physical or virtual experience of past IEEE VR conferences.
+
+         Our goal is to provide the best experience for virtual attendees, following in the historical footsteps of the virtual experience of 
+        <a href="https://ieeevr.org/2021/">VR 2021 in Lisbon</a> and <a href="https://ieeevr.org/2022/">VR 2022 in New Zealand</a>. 
+
+ <p>
+        We are still hoping to run a small meeting hub in Shanghai for those who are able to travel locally. More information will be 
+        provided once available.
+    </p> 
+
+        Come join us for an unforgettable experience and explore the virtuality continuum in the premier event covering extended reality 
+        featuring oral presentations, posters, research demos, tutorials, and workshops.
+    
+    
+        The VR community members who are interested to do volunteer work for the IEEE VR conference please fill a form of volunteer information here.  Thank you for your attention to IEEE VR 2023 ! 
+    
+
+
+
+
+ Main Content 
+
+ <img class="sidebar-header-icon" src="/assets/images/ieeevr-logo.jpg">
+ <a class="twitter-timeline" data-height="450" href="https://twitter.com/IEEEVR?ref_src=twsrc%5Etfw">Tweets by IEEEVR</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
+
+
+
+
+Conference Sponsors
+
+Diamond
+
+
+
+
+Platinum
+
+
+
+
+Gold
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Silver
+
+
+
+
+
+
+
+Bronze
+
+
+ <a href="https://www.hitlabnz.org/" target="_blank">
+                                <img class="conf-icon" style="width: 90%;" src=/2023/assets/images/sponsors/HITL-AIGI.jpg alt="HITLab NZ logo">
+                            </a>
+
+
+Supporter
+<a href="https://gpcg.pt/website/en/" target="_blank">
+                            <img class="conf-icon" style="width: 95%;padding-top: 5px;" src=/2023/assets/images/sponsors/CGILogo.pngalt="GPCG Logo">
+                        </a>
+                        <br>
+Doctoral Consortium Sponsors
+<a href="https://www.nsf.gov" target="_blank">
+                            <img class="conf-icon" style="width: 65%;" src=/2023/assets/images/sponsors/nsf.jpg alt="NSF Logo">
+                        </a>
+                        <br>
+Conference Partner
+<a href="https://www.cioapplicationseurope.com" target="_blank">
+                            <img class="conf-icon" style="width: 90%;" src=/2023/assets/images/sponsors/cio-applications-europe.png alt="CIO Applications Europe Website">
+                        </a>
+                        <br>
+                        <br>
+
+
+
+  footer 
+
+
+Code of Conduct
+© IEEE VR Conference
+
+
+
+
+
+
+

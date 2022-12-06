@@ -1,0 +1,228 @@
+
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+
+
+
+
+        交通大学焦点网 --
+	一带一路高峰论坛
+    
+
+
+
+
+
+
+[if lte IE 6]>
+    <script src="js/DD_belatedPNG_0.0.8a.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        DD_belatedPNG.fix('div, ul, img, li, input , a,button');
+    </script>
+    <![endif]
+
+
+
+
+
+
+
+设为首页
+|
+加入收藏
+
+
+
+
+
+
+      
+            function Hidden(oTag)
+            {
+               if(document.getElementById(oTag)!=null)
+			   document.getElementById(oTag).style.display="none";
+            }
+            function Visible(oTag)
+            {
+			   if(document.getElementById(oTag)!=null)
+               document.getElementById(oTag).style.display="block";
+            }
+            
+    
+
+
+
+首页
+
+
+焦点新闻
+
+
+
+中央精神
+
+
+交大要闻
+
+
+院系动态
+
+
+
+
+
+通知公告
+
+
+
+公告
+
+
+
+
+
+理论焦点
+
+
+
+理论焦点
+
+
+
+
+
+理论研究
+
+
+
+理论研究
+
+
+学习材料
+
+
+
+
+
+学者声音
+
+
+
+学者声音
+
+
+
+
+
+专题透视
+
+
+
+专题透视
+
+
+
+
+
+网上学习城
+
+
+
+中心组学习交流
+
+
+理论学习简报
+
+
+每日学习参考
+
+
+影像资料
+
+
+音频资料
+
+
+材料汇编
+
+
+特色案例
+
+
+
+
+
+登陆系统
+
+
+
+
+
+
+
+nav end
+
+
+
+
+
+
+						setInterval("TimeNow.innerHTML=new Date().toLocaleString()+' 星期'+'日一二三四五六'.charAt(new Date().getDay());",1000);
+					
+
+
+
+
+搜索
+
+
+
+
+
+
+一带一路高峰论坛
+
+
+
+
+
+
+    if(document.getElementById("Left_2960083")!=null)
+    Left_2960083.className="LM_on";
+  
+
+
+			您当前的位置：
+			一带一路高峰论坛一带一路高峰论坛
+2017-06-06共建一带一路 发展开放型世界经济 
+
+——深入学习贯彻习近平主席在一带一路国际合作高峰论坛上的重要讲话精神2017-06-01“一带一路”上的“中国名片”！中国元素闪耀蒙内铁路2017-05-26“一带一路”话共赢2017-05-26【“一带一路”进行时】中国与中东欧国家合作前景广阔2017-05-25辛识平：“一带一路”何以拨动世界心弦2017-05-24习近平对推动“一带一路”建设提出五点意见2017-05-24习近平：中国的持续发展将为“一带一路”注入强大动力2017-05-23“一带一路”在这里：聚4000万华侨华人之力 同唱一首歌2017-05-23习近平高峰论坛演讲引热议：构建人类命运共同体的新境界2017-05-23中国跨境资本流动趋于均衡 政策稳健商机多2017-05-22“一带一路”开创21世纪国际合作新局面2017-05-22外媒热议：“一带一路”将引领全球化2.02017-05-22“一带一路”建设已进入精耕细作阶段2017-05-18“一带一路”国际合作高峰论坛成果清单（全文）2017-05-18杨洁篪就“一带一路”国际合作高峰论坛接受媒体采访（全文）
+				共2页
+			
+				当前第1页
+			
+						首页
+					上一页下一页
+						尾页
+					
+				第页
+			
+
+
+
+
+index end
+
+
+
+    $(function () {
+        if (CheckUserOnline(0)) {
+            document.getElementById("dl").innerHTML = document.getElementById("username").innerHTML;
+        } else {
+
+        }
+    });
+    function iframe() {
+        var now = new Date();
+        var num = now.getSeconds();
+        document.getElementById("frameLogin").src = "../../Web/JDJDW/login.aspx?ID=" + num;
+    }

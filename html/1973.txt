@@ -1,0 +1,162 @@
+
+html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+交大电院DALAB实验室论文获IEEE ISMAR 2022最佳论文奖_交大智慧_上海交通大学新闻学术网
+
+
+
+
+
+
+ Core CSS 
+
+
+ Widget 
+
+
+
+ Custom CSS 
+
+
+
+ Site Icon 
+
+
+
+
+
+探索发现
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+首页
+
+探索发现
+交大智慧
+正文
+
+
+
+
+
+
+
+探索发现 · 交大智慧
+
+
+
+
+
+交大电院DALAB实验室论文获IEEE ISMAR 2022最佳论文奖
+
+
+
+
+2022年10月30日
+责任编辑：徐剑波 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+近日，2022年IEEE混合与增强现实国际研讨会（International Symposium on Mixed and Augmented Reality，以下简称ISMAR 2022）在新加坡落下帷幕。电子信息与电气工程学院软件学院DALAB实验室杨旭波教授团队论文《FoV-NeRF: 虚拟现实注视点神经辐射场》（FoV-NeRF: Foveated Neural Radiance Fields for Virtual Reality）获IEEE ISMAR 2022最佳期刊论文奖（Best IEEE ISMAR 2022 Journal Paper Award），论文收录在可视化与计算机图形学领域顶刊IEEE TVCG（CCF推荐A类期刊）。论文前三位作者为邓念晨（上海交通大学博士研究生）、何贞毅（上海交通大学硕士，纽约大学博士）和叶剑南（上海交通大学博士研究生），导师杨旭波教授为论文共同通讯作者。论文研究成果未来虚拟现实（VR）和增强现实（AR）应用的一个关键需求是传送不同的用户和不同的环境，从而实现异地沉浸式协作场景。这对实时渲染的速度和质量都有很高的要求。神经辐射场（neural radiance fields, NeRF）可以实现照片级真实感和视角连续变化的三维场景，能够显著优化渲染环节，但面临沉浸式VR环境的高视场角、高分辨率、第一人称视角等带来的诸多挑战，导致渲染结果低质量和高延迟问题。FoV-NeRF论文首次提出了基于注视点的3D神经辐射场表示和视图合成方法，利用人的立体视觉的心理生理学特点，将其纳入第一人称视角的三维场景神经表示中，同时优化渲染的性能和质量，将神经场景合成与人的视觉感知敏锐度相结合，从而实现感知上自适应的高质量沉浸式交互。论文提出的方法相比NeRF减少了高达99%的时间，显著地降低了延迟，并且保证了在感知上与全分辨率结果相同的高保真结果。所提出的方法可作为迈向未来实时捕捉、传送、可视化远程环境的VR/AR元宇宙系统的第一步。VR注视点神经辐射场的场景表示与渲染效果FoV-NeRF视觉敏锐度自适应生成与渲染流程关于“IEEE ISMAR”IEEE ISMAR是增强现实和混合现实领域顶级的国际学术会议，由IEEE计算机学会、IEEE VGTC和ACM SIGGRAPH联合举办。IEEE ISMAR 2022在新加坡召开，会议涵盖2个主题演讲、100余个海报展演及20余个领域专家举办的专题研讨会。本次会议共接收130余篇高质量论文，包括交互技术、渲染、VR/AR应用、建模等20余个主题，经评奖委员会遴选出1篇最佳期刊论文。“IEEE VR 2023”精彩预告IEEE VR会议（IEEE Conference on Virtual Reality and 3D User Interfaces, 简称IEEE VR）是虚拟现实（VR）、增强现实（AR）、混合现实（MR）研究领域的国际顶级学术会议。创办于1993年，是展示虚拟现实领域突破性研究成果和学术交流的盛会，具有较大的国际影响力。IEEE VR 2023将于2023年3月25日至3月29日在上海举办。这是IEEE VR会议首次在中国举行，电院软件学院杨旭波教授将作为首位中国学者担任IEEE VR 2023大会共同主席，欢迎领域学者及相关专业学子关注！大会主页：http://ieeevr.org/2023微信公众号：IEEEVR
+
+
+
+作者：
+电子信息与电气工程学院
+
+
+供稿单位：
+电子信息与电气工程学院
+
+
+
+
+
+
+
+打印本页
+关闭窗口
+
+
+
+
+
+
+
+
+
+
+Core JS
+
+[if lt IE 9]>
+    <script src="/resource/assets/js/ETUI/html5shiv.min.js"></script>
+    <script src="/resource/assets/js/ETUI/respond.min.js"></script>
+    <![endif]
+
+ Widget 
+
+
+
+
+
+
+
+
+Custom JS
+
+
+        jQuery(document).ready(function () {
+            Main.init();
+        });
+    
+
+        var url=location.href;
+        $('.qrshare').attr('src','http://service.shanghai.gov.cn/QRcode/ShareQRcode.aspx?url='+url);
+    
+

@@ -1,0 +1,247 @@
+html
+
+
+上海交通大学视觉形象识别系统
+
+ 国产双核浏览器 
+
+
+ 国产百度云转码 
+
+
+
+[if lt IE 9]>
+    <script src="https://vi.sjtu.edu.cn/js/html5shiv.min.js"></script>
+    <![endif]
+
+
+
+
+
+
+
+
+视 觉 形 象 识 别 系 统
+VISUAL IDENTITY SYSTEM
+
+
+
+
+
+
+
+
+
+
+
+
+                    <li>
+                        <a href="">
+                            关于
+                        </a>
+                    </li>
+
+
+
+
+
+
+
+
+
+
+视 觉 形 象 识 别 系 统
+VISUAL IDENTITY SYSTEM
+
+
+
+
+
+
+基础部分
+
+
+
+
+BASE COMPONENT
+
+
+
+
+
+
+
+
+
+
+
+校徽规范
+LOGO USAGE
+
+
+
+
+
+
+
+
+
+
+
+标准字规范
+LOGOTYPE USAGE
+
+
+
+
+
+
+
+
+
+
+
+色彩规范
+COLOUR USAGE
+
+
+
+
+
+
+
+
+
+
+
+校标组合规范
+LOGO VARIATIONS
+
+
+
+
+
+
+
+
+
+
+
+辅助图形规范
+GUIDELINE OF SUPPLEMENTARY GRAPHICS
+
+
+
+
+
+
+
+
+
+
+
+常见错误预演
+UNACCEPTABLE USAGE
+
+
+
+
+
+
+    <section id="section-banner-2" class="banner">
+        <div class="container">
+            <img class="bg" src="https://vi.sjtu.edu.cn/img/banner-2.jpg" alt="">
+                        <a href="/img/视觉识别系统.zip" target="_blank" id="download-all"><span>下载全部文件</span></a>
+                    </div>
+    </section>
+    
+
+
+应用部分
+
+
+
+
+APPLICATION PART
+
+
+
+
+
+
+
+
+
+
+
+行政办公系统
+STATIONARY SYSTEM
+
+
+
+
+
+
+
+
+
+
+
+多媒体办公系统
+MULTIMEDIA STATIONARY SYSTEM
+
+
+
+
+
+
+
+网站公告
+
+
+
+
+BULLETIN BOARD
+
+
+
+
+
+
+
+上海交通大学视觉形象识别系统管理办法 （试行）
+
+                            发布于
+                            2016-04-15 10:36:05                        
+
+
+
+
+
+
+
+常用文件下载
+
+                            发布于
+                            2016-04-03 02:09:20                        
+
+
+
+
+
+
+
+
+
+
+
+                沪交ICP备20160031                    版权所有©上海交通大学
+                地址：上海市东川路800号    邮编：200240
+                技术支持： SJ-Team
+            
+
+
+
+
+
+

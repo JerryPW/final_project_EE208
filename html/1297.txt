@@ -1,0 +1,1419 @@
+html
+
+
+
+
+window.initialPageRequestTime = +new Date();
+
+
+
+
+
+
+
+
+
+
+
+ EMBER_CLI_FASTBOOT_TITLE 
+
+
+
+      ‎App Store 上的“澎湃新闻HD-专注时政与思想的头条资讯阅读平台”
+    
+
+
+
+
+ 
+ 
+
+
+        {"@context":"http://schema.org","@type":"SoftwareApplication","name":"澎湃新闻HD-专注时政与思想的头条资讯阅读平台","description":"澎湃新闻— 一个不断进步、勇于尝试并创新的时政与思想新媒体平台。\r\n通俗但不庸俗，懂批评也懂建设。不激进也不保守，用热忱追寻世界的真相。\r\n您可能在网易新闻、腾讯新闻、看点快报、今日头条、新浪新闻、凤凰新闻、搜狐新闻、新浪微博、一点资讯、UC头条、趣头条、东方头条等各大新闻客户端上发现过澎湃新闻的原创资讯。那您应该打开澎湃新闻看看这些资讯本来的样子，并与广大澎湃用户一同参与话题讨论，享受阅读乐趣。\r\n产品特色：\r\n1、时政要闻\r\n澎湃新闻专注报道中国时政，动态跟踪政坛风云，解析经济时局变化；\r\n2、原创匠心\r\n澎湃原创品质保障，坚持新闻创作本心，深度调查呈现更多事件真相；\r\n3、思想争鸣\r\n澎湃新闻精于分析思想动态，紧扣脉搏普及新知，坦率争论碰撞思想；\r\n4、视频专区\r\n感受第一视角记录真实现场，实时了解最新进展，精彩专题深度剖析；\r\n5、澎湃号\r\n汇聚各领域专业创作者，湃客、政务、媒体，为您提供更丰富的优质内容；\r\n6、澎友圈\r\n聚集天下澎友精彩观点，每一次思想的碰撞，让您看世界更清一点；\r\n7、澎湃问吧\r\n明星专家澎湃入驻等您来问，专业问题明星八卦，问吧解答所有疑问；\r\n8、质量报告\r\n澎湃质量报告平台，打假除劣，破套防坑，时刻保障您的权益；\r\n9、澎湃早晚报\r\n每天早晚两次推送当天小编精选的国内外新闻大事件，与当前时事同步；\r\n\r\n================用户评价================\r\n@穷不穷你别怂乐正：\r\n超好啦，没有毫无营养的娱乐稿和见缝插针的小广告，板块划分很清楚啊，很喜欢其中关于时政方面的新闻，还可以一直追踪一个专题比较不会烂尾了啊，总之是三观超正的，个人觉得比****好，很多社论有自己独特角度，不官方。很多可以用到公务员面试中去，还摆脱了培训机构的千篇一律，希望能坚持做新闻的本心，那我就会一直支持。我非常喜欢这里面的“社论”。在这个模块，可以看到大家对一件事和自己不同的看法，然后发现：“哇！原来还有这个角度！”真的很适合我这个即将参加高考的高三狗！\r\n\r\n@EagleGorge：\r\n第一时间对政策和要闻的深度跟踪报道。内容很有质量，不像很多互联网媒体，大部分的不知所云的抄袭文。\r\n另外，新闻问答的方式非常不错，能够与权威人士进行沟通解答。\r\n唯一让我感动不足的就是没法关闭新闻推送时的抖动。另外针对当地的本地新闻尚显不足。\r\n\r\n再次祝福澎湃能够越办越好。\r\n\r\n@高物房老师：\r\n两年前，一直看其他媒体的文章，但偶然间发现，很多好的文章都来自于澎湃新闻，它们文笔优秀、态度端正、有广度又有深度。在很多媒体靠低俗的内容、爆眼球的标题而混迹于媒体界的时候，澎湃新闻像一位刚正不阿的有为青年，不随波浊流，撑起了自己的一片天。中国就缺少像澎湃新闻这样充满职业精神的好企业。澎湃加油！\r\n\r\n@毁心伤肺溪涧：\r\n我不明白那么好的软件为什么不是最多人用的，广告几乎没有，界面干净，没有那些乱七八糟的新闻，这就是我要的新闻。\r\n\r\n更多精彩内容等你来发现！\r\n\r\n官方微博：@澎湃新闻 http://weibo.com/thepapernewsapp\r\n官方微信：澎湃新闻 thepapernews\r\n意见反馈：support@thepaper.cn\r","screenshot":["https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/6d/7d/18/6d7d1894-f461-b6fc-21c3-96372d436f84/1a000457-8089-4459-abfc-a6fcd1c2b8e6_2048_2732_1.jpg/643x0w.jpg","https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/27/9e/3a/279e3a08-1afc-c58e-1b49-f682bf409aef/bd277767-ced9-4da9-aaee-00fd1a81b1bf_2048_2732_2.jpg/643x0w.jpg","https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/00/b8/ba/00b8bad7-fde1-23ec-e4c6-dc6c7ea22bec/7a550340-b90e-4161-9f62-91ac5bf080d4_2048_2732_3.jpg/643x0w.jpg","https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/1e/80/441e80e8-653e-025a-58f1-f0ec7778a70a/2f1cf913-8df7-4b82-a49b-80c2fd24f3eb_2048_2732_4.jpg/643x0w.jpg","https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/2a/95/3c2a95a4-f053-e703-0cf7-bb0f823e7237/ef0a2848-9283-4cda-8a45-9fa8f9925191_2048_2732_5.jpg/643x0w.jpg"],"image":"https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/15/f8/d5/15f8d575-deaa-d7b4-04d5-d44940ad9c7c/AppIcon-0-1x_U007emarketing-5-0-0-sRGB-85-220.png/1200x630wa.png","applicationCategory":"新闻","datePublished":"2015年5月4日","operatingSystem":"系统要求：iOS 9.0 或更高版本。兼容设备：iPad。","author":{"@type":"Person","name":"上海东方报业有限公司","url":"https://apps.apple.com/cn/developer/%E4%B8%8A%E6%B5%B7%E4%B8%9C%E6%96%B9%E6%8A%A5%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id878962721"},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.7,"reviewCount":2356},"offers":{"@type":"Offer","price":0,"category":"free"}}
+      
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Global Nav 打开菜单
+
+
+Global Nav 关闭菜单
+
+
+
+
+
+
+
+
+
+
+
+
+Apple
+
+
+
+
+
+购物袋
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+搜索 apple.com.cn
+
+
+
+取消
+
+
+
+
+
+
+
+
+Apple
+
+
+
+
+商店
+
+
+
+
+Mac
+
+
+
+
+iPad
+
+
+
+
+iPhone
+
+
+
+
+Watch
+
+
+
+
+AirPods
+
+
+
+
+家居
+
+
+
+
+Apple 独家
+
+
+
+
+配件
+
+
+
+
+技术支持
+
+
+
+
+
+
+
+
+购物袋
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+								取消
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+App Store 预览
+
+
+  
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+    .ember157717, #ember157717::before {
+           width: 246px;
+           height: 246px;
+         }
+         .ember157717::before {
+           padding-top: 100%;
+         }
+@media (min-width: 735px) {
+           .ember157717, #ember157717::before {
+           width: 217px;
+           height: 217px;
+         }
+         .ember157717::before {
+           padding-top: 100%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157717, #ember157717::before {
+           width: 230px;
+           height: 230px;
+         }
+         .ember157717::before {
+           padding-top: 100%;
+         }
+         }
+  
+
+
+
+
+ 
+
+          澎湃新闻HD-专注时政与思想的头条资讯阅读平‪台‬
+            17+
+
+ 
+
+
+            上海东方报业有限公司
+          
+
+ 
+
+ 
+
+
+
+
+
+
+
+4.7 • 2,356 个评分
+
+
+
+
+
+
+ 
+
+
+免费
+提供 App 内购买项目
+
+
+ 
+  
+ 
+ 
+ 
+  
+
+
+
+ 
+
+iPad 截屏
+
+
+
+
+
+
+
+
+
+    .ember157718, #ember157718::before {
+           width: 643px;
+           height: 857px;
+         }
+         .ember157718::before {
+           padding-top: 133.28149300155522%;
+         }
+@media (min-width: 735px) {
+           .ember157718, #ember157718::before {
+           width: 217px;
+           height: 289px;
+         }
+         .ember157718::before {
+           padding-top: 133.17972350230414%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157718, #ember157718::before {
+           width: 313px;
+           height: 417px;
+         }
+         .ember157718::before {
+           padding-top: 133.22683706070288%;
+         }
+         }
+  
+
+
+
+
+
+
+
+
+    .ember157719, #ember157719::before {
+           width: 643px;
+           height: 857px;
+         }
+         .ember157719::before {
+           padding-top: 133.28149300155522%;
+         }
+@media (min-width: 735px) {
+           .ember157719, #ember157719::before {
+           width: 217px;
+           height: 289px;
+         }
+         .ember157719::before {
+           padding-top: 133.17972350230414%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157719, #ember157719::before {
+           width: 313px;
+           height: 417px;
+         }
+         .ember157719::before {
+           padding-top: 133.22683706070288%;
+         }
+         }
+  
+
+
+
+
+
+
+
+
+    .ember157720, #ember157720::before {
+           width: 643px;
+           height: 857px;
+         }
+         .ember157720::before {
+           padding-top: 133.28149300155522%;
+         }
+@media (min-width: 735px) {
+           .ember157720, #ember157720::before {
+           width: 217px;
+           height: 289px;
+         }
+         .ember157720::before {
+           padding-top: 133.17972350230414%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157720, #ember157720::before {
+           width: 313px;
+           height: 417px;
+         }
+         .ember157720::before {
+           padding-top: 133.22683706070288%;
+         }
+         }
+  
+
+
+
+
+
+
+
+
+    .ember157721, #ember157721::before {
+           width: 643px;
+           height: 857px;
+         }
+         .ember157721::before {
+           padding-top: 133.28149300155522%;
+         }
+@media (min-width: 735px) {
+           .ember157721, #ember157721::before {
+           width: 217px;
+           height: 289px;
+         }
+         .ember157721::before {
+           padding-top: 133.17972350230414%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157721, #ember157721::before {
+           width: 313px;
+           height: 417px;
+         }
+         .ember157721::before {
+           padding-top: 133.22683706070288%;
+         }
+         }
+  
+
+
+
+
+
+
+
+
+    .ember157722, #ember157722::before {
+           width: 643px;
+           height: 857px;
+         }
+         .ember157722::before {
+           padding-top: 133.28149300155522%;
+         }
+@media (min-width: 735px) {
+           .ember157722, #ember157722::before {
+           width: 217px;
+           height: 289px;
+         }
+         .ember157722::before {
+           padding-top: 133.17972350230414%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157722, #ember157722::before {
+           width: 313px;
+           height: 417px;
+         }
+         .ember157722::before {
+           padding-top: 133.22683706070288%;
+         }
+         }
+  
+
+
+
+  
+
+
+
+
+简介
+
+
+澎湃新闻— 一个不断进步、勇于尝试并创新的时政与思想新媒体平台。通俗但不庸俗，懂批评也懂建设。不激进也不保守，用热忱追寻世界的真相。您可能在网易新闻、腾讯新闻、看点快报、今日头条、新浪新闻、凤凰新闻、搜狐新闻、新浪微博、一点资讯、UC头条、趣头条、东方头条等各大新闻客户端上发现过澎湃新闻的原创资讯。那您应该打开澎湃新闻看看这些资讯本来的样子，并与广大澎湃用户一同参与话题讨论，享受阅读乐趣。产品特色：1、时政要闻澎湃新闻专注报道中国时政，动态跟踪政坛风云，解析经济时局变化；2、原创匠心澎湃原创品质保障，坚持新闻创作本心，深度调查呈现更多事件真相；3、思想争鸣澎湃新闻精于分析思想动态，紧扣脉搏普及新知，坦率争论碰撞思想；4、视频专区感受第一视角记录真实现场，实时了解最新进展，精彩专题深度剖析；5、澎湃号汇聚各领域专业创作者，湃客、政务、媒体，为您提供更丰富的优质内容；6、澎友圈聚集天下澎友精彩观点，每一次思想的碰撞，让您看世界更清一点；7、澎湃问吧明星专家澎湃入驻等您来问，专业问题明星八卦，问吧解答所有疑问；8、质量报告澎湃质量报告平台，打假除劣，破套防坑，时刻保障您的权益；9、澎湃早晚报每天早晚两次推送当天小编精选的国内外新闻大事件，与当前时事同步；================用户评价================@穷不穷你别怂乐正：超好啦，没有毫无营养的娱乐稿和见缝插针的小广告，板块划分很清楚啊，很喜欢其中关于时政方面的新闻，还可以一直追踪一个专题比较不会烂尾了啊，总之是三观超正的，个人觉得比****好，很多社论有自己独特角度，不官方。很多可以用到公务员面试中去，还摆脱了培训机构的千篇一律，希望能坚持做新闻的本心，那我就会一直支持。我非常喜欢这里面的“社论”。在这个模块，可以看到大家对一件事和自己不同的看法，然后发现：“哇！原来还有这个角度！”真的很适合我这个即将参加高考的高三狗！@EagleGorge：第一时间对政策和要闻的深度跟踪报道。内容很有质量，不像很多互联网媒体，大部分的不知所云的抄袭文。另外，新闻问答的方式非常不错，能够与权威人士进行沟通解答。唯一让我感动不足的就是没法关闭新闻推送时的抖动。另外针对当地的本地新闻尚显不足。再次祝福澎湃能够越办越好。@高物房老师：两年前，一直看其他媒体的文章，但偶然间发现，很多好的文章都来自于澎湃新闻，它们文笔优秀、态度端正、有广度又有深度。在很多媒体靠低俗的内容、爆眼球的标题而混迹于媒体界的时候，澎湃新闻像一位刚正不阿的有为青年，不随波浊流，撑起了自己的一片天。中国就缺少像澎湃新闻这样充满职业精神的好企业。澎湃加油！@毁心伤肺溪涧：我不明白那么好的软件为什么不是最多人用的，广告几乎没有，界面干净，没有那些乱七八糟的新闻，这就是我要的新闻。更多精彩内容等你来发现！官方微博：@澎湃新闻 http://weibo.com/thepapernewsapp官方微信：澎湃新闻 thepapernews意见反馈：support@thepaper.cn
+ 
+
+
+
+ 
+
+
+新内容
+
+ 
+ 
+
+
+
+
+2022年9月6日
+版本 9.1.1
+
+
+
+
+【修复】部分已知问题修复。每天进步一点点，优化用户体验，生命不息，升级不止。
+ 
+
+
+
+
+
+
+          评分及评论
+        
+ 
+
+
+
+
+4.7（满分 5 分）
+2,356 个评分
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2,356 个评分
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+
+
+    心快
+
+，
+2018/07/15
+
+
+    好
+
+
+终于找到一个正规的新闻网站了，不是那种全是广告，或者老推出啥子明星的，烦的要死。整得不错，非常有意思，很好
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+
+
+    不会游泳的大禹
+
+，
+2019/06/13
+
+
+    内容精致，不二之选
+
+
+非常纯粹的阅读软件，没有广告，没有各种乱入的娱乐八卦新闻，排版整齐，布局简洁，内容精彩纷呈！最喜欢里面的问吧板块！但也有不足之处就是：1.发现有时明明登录了，想收藏下正在阅读的文章，但却一直提示未登录；2.阅读文章时无法切换日间/夜间模式、只能回到首页去设置，然后再回来找到刚才阅读的文章继续读，比较麻烦
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+
+
+    Li Ruo
+
+，
+2019/08/11
+
+
+    优化优化再优化
+
+
+如此优秀的新闻软件不应该输在硬件配置上，HD版比起手机版仍然流畅度不足，希望能做到最好！
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+
+      App 隐私
+    
+
+ 
+ 
+
+
+    开发者“上海东方报业有限公司”已表明该 App 的隐私规范可能包括了下述的数据处理方式。有关更多信息，请参阅开发者隐私政策。
+  
+
+
+
+
+
+用于追踪你的数据
+以下数据可能会用于在其他公司的 App 和网站中追踪你：
+
+
+
+
+
+
+标识符
+
+
+
+
+
+
+
+
+与你关联的数据
+开发者可能会收集以下数据，且数据与你的身份关联：
+
+
+
+
+
+
+购买项目
+
+
+
+
+
+
+
+联系信息
+
+
+
+
+
+
+
+用户内容
+
+
+
+
+
+
+
+标识符
+
+
+
+
+
+
+
+
+未与你关联的数据
+开发者可能会收集以下数据，但数据不会关联你的身份：
+
+
+
+
+
+
+使用数据
+
+
+
+
+
+
+
+诊断
+
+
+
+
+
+隐私处理规范可能基于你使用的功能或你的年龄等因素而有所不同。了解更多
+
+
+
+信息
+
+
+供应商
+
+            Shanghai Dongfang Newspaper Co.Ltd
+          
+
+
+大小
+250.5 MB
+
+
+类別
+
+
+                新闻
+              
+
+
+
+兼容性
+
+
+
+                  iPad
+                
+设备需装有 iPadOS 9.0 或更高版本。
+                
+
+
+
+  
+语言
+
+简体中文， 繁体中文， 英文
+ 
+
+
+年龄分级
+
+            17+
+
+              无限制网页访问
+
+
+  
+Copyright
+© 2014 上海东方报业有限公司
+
+
+价格
+免费
+
+
+App 内购买项目
+
+
+
+
+赞赏支持6元
+¥6.00
+
+
+赞赏支持88元
+¥88.00
+
+
+赞赏支持12元
+¥12.00
+
+
+赞赏支持18元
+¥18.00
+
+
+赞赏支持30元
+¥30.00
+
+
+赞赏支持218元
+¥218.00
+
+
+6币
+¥6.00
+
+
+30币
+¥30.00
+
+
+88币
+¥88.00
+
+
+198币
+¥198.00
+
+ 
+
+
+
+
+
+
+
+  
+
+            App 支持
+          
+
+  
+
+            隐私政策
+          
+
+
+
+
+
+
+  
+
+          App 支持
+        
+
+  
+
+          隐私政策
+        
+
+
+
+ 
+ 
+
+
+
+          更多来自此开发人员的 App
+        
+ 
+
+
+
+  
+
+
+
+
+
+    .ember157731, #ember157731::before {
+           width: 320px;
+           height: 320px;
+         }
+         .ember157731::before {
+           padding-top: 100%;
+         }
+@media (min-width: 735px) {
+           .ember157731, #ember157731::before {
+           width: 157px;
+           height: 157px;
+         }
+         .ember157731::before {
+           padding-top: 100%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157731, #ember157731::before {
+           width: 146px;
+           height: 146px;
+         }
+         .ember157731::before {
+           padding-top: 100%;
+         }
+         }
+  
+
+
+
+
+
+  
+ 
+ 
+
+
+Sixth Tone
+ 
+
+
+    生活
+
+  
+
+
+
+  
+
+
+
+
+
+    .ember157732, #ember157732::before {
+           width: 320px;
+           height: 320px;
+         }
+         .ember157732::before {
+           padding-top: 100%;
+         }
+@media (min-width: 735px) {
+           .ember157732, #ember157732::before {
+           width: 157px;
+           height: 157px;
+         }
+         .ember157732::before {
+           padding-top: 100%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157732, #ember157732::before {
+           width: 146px;
+           height: 146px;
+         }
+         .ember157732::before {
+           padding-top: 100%;
+         }
+         }
+  
+
+
+
+
+
+  
+ 
+ 
+
+
+澎湃新闻-时政新闻资讯
+ 
+
+
+    新闻
+
+  
+
+
+
+
+
+
+
+          你可能也会喜欢
+        
+ 
+
+
+
+  
+
+
+
+
+
+    .ember157733, #ember157733::before {
+           width: 320px;
+           height: 320px;
+         }
+         .ember157733::before {
+           padding-top: 100%;
+         }
+@media (min-width: 735px) {
+           .ember157733, #ember157733::before {
+           width: 157px;
+           height: 157px;
+         }
+         .ember157733::before {
+           padding-top: 100%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157733, #ember157733::before {
+           width: 146px;
+           height: 146px;
+         }
+         .ember157733::before {
+           padding-top: 100%;
+         }
+         }
+  
+
+
+
+
+
+  
+ 
+ 
+
+
+鳳凰秀HD-極速體驗版
+ 
+
+
+    新闻
+
+  
+
+
+
+  
+
+
+
+
+
+    .ember157734, #ember157734::before {
+           width: 320px;
+           height: 320px;
+         }
+         .ember157734::before {
+           padding-top: 100%;
+         }
+@media (min-width: 735px) {
+           .ember157734, #ember157734::before {
+           width: 157px;
+           height: 157px;
+         }
+         .ember157734::before {
+           padding-top: 100%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157734, #ember157734::before {
+           width: 146px;
+           height: 146px;
+         }
+         .ember157734::before {
+           padding-top: 100%;
+         }
+         }
+  
+
+
+
+
+
+  
+ 
+ 
+
+
+网易新闻HD
+ 
+
+
+    生活
+
+  
+
+
+
+  
+
+
+
+
+
+    .ember157735, #ember157735::before {
+           width: 320px;
+           height: 320px;
+         }
+         .ember157735::before {
+           padding-top: 100%;
+         }
+@media (min-width: 735px) {
+           .ember157735, #ember157735::before {
+           width: 157px;
+           height: 157px;
+         }
+         .ember157735::before {
+           padding-top: 100%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157735, #ember157735::before {
+           width: 146px;
+           height: 146px;
+         }
+         .ember157735::before {
+           padding-top: 100%;
+         }
+         }
+  
+
+
+
+
+
+  
+ 
+ 
+
+
+南方周末-最可信赖的新闻
+ 
+
+
+    新闻
+
+  
+
+
+
+  
+
+
+
+
+
+    .ember157736, #ember157736::before {
+           width: 320px;
+           height: 320px;
+         }
+         .ember157736::before {
+           padding-top: 100%;
+         }
+@media (min-width: 735px) {
+           .ember157736, #ember157736::before {
+           width: 157px;
+           height: 157px;
+         }
+         .ember157736::before {
+           padding-top: 100%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157736, #ember157736::before {
+           width: 146px;
+           height: 146px;
+         }
+         .ember157736::before {
+           padding-top: 100%;
+         }
+         }
+  
+
+
+
+
+
+  
+ 
+ 
+
+
+南方周末电子报
+ 
+
+
+    新闻
+
+  
+
+
+
+  
+
+
+
+
+
+    .ember157737, #ember157737::before {
+           width: 320px;
+           height: 320px;
+         }
+         .ember157737::before {
+           padding-top: 100%;
+         }
+@media (min-width: 735px) {
+           .ember157737, #ember157737::before {
+           width: 157px;
+           height: 157px;
+         }
+         .ember157737::before {
+           padding-top: 100%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157737, #ember157737::before {
+           width: 146px;
+           height: 146px;
+         }
+         .ember157737::before {
+           padding-top: 100%;
+         }
+         }
+  
+
+
+
+
+
+  
+ 
+ 
+
+
+财新周刊
+ 
+
+
+    报刊杂志
+
+  
+
+
+
+  
+
+
+
+
+
+    .ember157738, #ember157738::before {
+           width: 320px;
+           height: 320px;
+         }
+         .ember157738::before {
+           padding-top: 100%;
+         }
+@media (min-width: 735px) {
+           .ember157738, #ember157738::before {
+           width: 157px;
+           height: 157px;
+         }
+         .ember157738::before {
+           padding-top: 100%;
+         }
+         }
+@media (min-width: 1069px) {
+           .ember157738, #ember157738::before {
+           width: 146px;
+           height: 146px;
+         }
+         .ember157738::before {
+           padding-top: 100%;
+         }
+         }
+  
+
+
+
+
+
+  
+ 
+ 
+
+
+光明日报-知识分子掌上精神家园
+ 
+
+
+    图书
+
+  
+
+
+
+
+ 
+ 
+
+
+
+		更多选购方式：查找你附近的 Apple Store 零售店及更多门店，或者致电 400-666-8800。
+
+
+Copyright © 2022 Apple Inc. 保留所有权利。
+		
+
+隐私政策
+使用条款
+销售政策
+法律信息
+网站地图
+
+
+
+
+"zh-cn"{"zh-cn":{"WEA.AppBundlePages.AppBundle":"App 套装 @@appPrice@@","WEA.AppBundlePages.NumberAppsInBundle.Many":"此套装中有 @@count@@ 个 App","WEA.AppBundlePages.PurchasedSeparately":"分别购买：@@price@@","WEA.AppEventPages.Meta.Keywords":"App Store","WEA.AppEventPages.Meta.Title":"@@softwareName@@：@@description@@","WEA.AppPages.AX.ViewIn":"在这里查看：","WEA.AppPages.AdditionalScreenshots":"更多截屏","WEA.AppPages.AgeRating":"年龄分级","WEA.AppPages.AgeRating.Value":"@@ageRating@@（为 @@min@@–@@max@@ 岁儿童设计）","WEA.AppPages.AppPrivacy.Description":"开发者“@@developer@@”已表明该 App 的隐私规范可能包括了下述的数据处理方式。","WEA.AppPages.AppPrivacy.Description.ManagePrivacy":"了解开发者为你提供的@@managePrivacyLink@@。","WEA.AppPages.AppPrivacy.Description.ManagePrivacy.Link":"隐私管理选项","WEA.AppPages.AppPrivacy.Description.NoDetails":"开发者@@developer@@尚未向 Apple 提供其隐私惯例和数据处理相关的详细信息。","WEA.AppPages.AppPrivacy.Description.NotVerifiedByApple":"此信息未经 Apple 验证。","WEA.AppPages.AppPrivacy.Description.PrivacyDefinitions":"为帮助你进一步理解开发者的回应，请参阅@@privacyDefinitionsLink@@。","WEA.AppPages.AppPrivacy.Description.PrivacyDefinitions.Link":"隐私定义和示例","WEA.AppPages.AppPrivacy.Description.PrivacyPolicy":"有关更多信息，请参阅@@privacyPolicyLink@@。","WEA.AppPages.AppPrivacy.Description.PrivacyPolicy.Link":"开发者隐私政策","WEA.AppPages.AppPrivacy.LearnMore":"隐私处理规范可能基于你使用的功能或你的年龄等因素而有所不同。@@learnMoreLink@@","WEA.AppPages.AppPrivacy.LearnMore.Link":"了解更多","WEA.AppPages.AppPrivacy.Title":"App 隐私","WEA.AppPages.AppPrivacy.Types.NoDetails.Description":"开发者下一次提交 App 更新时将需要提供隐私详细信息。","WEA.AppPages.AppPrivacy.Types.NoDetails.Title":"未提供详细信息","WEA.AppPages.AppStore.Header":"App Store","WEA.AppPages.AppSupport":"App 支持","WEA.AppPages.AppleTV":"Apple TV","WEA.AppPages.AppleWatch":"Apple Watch","WEA.AppPages.Arcade.Branding.Title":"Apple Arcade","WEA.AppPages.Arcade.Disclaimer":"*仅限新订阅用户。需要注册。试用期结束后，订阅将按月费价格自动续期。","WEA.AppPages.Arcade.Editorial.Author":"App Store 编辑","WEA.AppPages.Arcade.Link.URL":"https://www.apple.com/apple-arcade/","WEA.AppPages.Arcade.UpsellBanner.CTA.Text":"免费试玩*","WEA.AppPages.Arcade.UpsellBanner.Text":"无广告干扰，","WEA.AppPages.Arcade.UpsellBanner.Text2":"无 App 内购买项目。","WEA.AppPages.Arcade.UpsellBanner.Title":"畅玩 200 余款游戏。","WEA.AppPages.Arcade.UpsellFooter.CTA.Text":"免费试玩*","WEA.AppPages.Arcade.UpsellFooter.Text":"无广告干扰，","WEA.AppPages.Arcade.UpsellFooter.Text2":"无 App 内购买项目。","WEA.AppPages.Arcade.UpsellFooter.Title":"畅玩 200 余款游戏。","WEA.AppPages.Availability.iOS":"此 App 只在 iPhone 和 iPad 的 App Store 中提供。","WEA.AppPages.Availability.iOS.Bundle":"只能在 iPhone 和 iPad 的 App Store 中获取此 App 套装。","WEA.AppPages.Availability.iOS.iPad":"此 App 只在 iPad 的 App Store 中提供。","WEA.AppPages.Availability.iOS.iPhone":"此 App 只在 iPhone 的 App Store 中提供。","WEA.AppPages.Availability.iOS.isiOS":"打开 App Store 购买和下载 App。","WEA.AppPages.Availability.iOSmacOS":"此 App 只在 iPhone、iPad 和 Mac 的 App Store 中提供。","WEA.AppPages.Availability.iOSmacOSwatchOS":"此 App 只在 iPhone、iPad、Mac 和 Apple Watch 的 App Store 中提供。","WEA.AppPages.Availability.iOStvOS":"此 App 只在 iPhone、iPad 和 Apple TV 的 App Store 中提供。","WEA.AppPages.Availability.iOStvOSmacOS":"此 App 只在 iPhone、iPad、Mac 和 Apple TV 的 App Store 中提供。","WEA.AppPages.Availability.iOStvOSmacOSwatchOS":"此 App 只在 iPhone、iPad、Mac、Apple Watch 和 Apple TV 的 App Store 中提供。","WEA.AppPages.Availability.iOStvOSwatchOS":"此 App 只在 iPhone、iPad、Apple Watch 和 Apple TV 的 App Store 中提供。","WEA.AppPages.Availability.iOSwatchOS":"此 App 只在 iPhone、iPad 和 Apple Watch 的 App Store 中提供。","WEA.AppPages.Availability.iOSwatchOS.NoiPad":"此 App 只在 iPhone 和 Apple Watch 的 App Store 中提供。","WEA.AppPages.Availability.macOS":"打开 Mac App Store 购买和下载 App。","WEA.AppPages.Availability.macOS.Bundle":"此 App 套装只在 Mac App Store 中提供。","WEA.AppPages.Availability.tvOS":"此 App 只在 Apple TV 的 App Store 中提供。","WEA.AppPages.Availability.watchOS":"此 App 只在 Apple Watch 的 App Store 中提供。","WEA.AppPages.CTA.AppStore.AX":"在 App Store 中查看","WEA.AppPages.CTA.AppStore.Action":"在这里查看：","WEA.AppPages.CTA.AppStore.App":"App Store","WEA.AppPages.CTA.AppleSchool.AX":"在“Apple 校园”中查看","WEA.AppPages.CTA.AppleSchool.Action":"在这里查看：","WEA.AppPages.CTA.AppleSchool.App":"Apple 校园","WEA.AppPages.CTA.MacAppStore.AX":"在 Mac App Store 中查看","WEA.AppPages.CTA.MacAppStore.Action":"在这里查看：","WEA.AppPages.CTA.MacAppStore.App":"Mac App Store","WEA.AppPages.Category":"类別","WEA.AppPages.Compatibility":"兼容性","WEA.AppPages.Copyright":"Copyright","WEA.AppPages.CustomerReviews.Title":"评分及评论","WEA.AppPages.CustomersAlsoBought.Title":"你可能也会喜欢","WEA.AppPages.Description.Header":"简介","WEA.AppPages.DesignedFor.iPad":"专为 iPad 设计","WEA.AppPages.DesignedFor.iPhone":"专为 iPhone 设计","WEA.AppPages.DeveloperResponse":"开发人员回复","WEA.AppPages.DeveloperWebsite":"开发人员网站","WEA.AppPages.EditReview":"要编辑你对此 App 的评论，请使用 iPhone 或 iPad 在 App Store 中查看此 App。","WEA.AppPages.EditReview.macOS.OldmacOS":"要编辑你的评论，请在 Mac App Store 中查看此 App。","WEA.AppPages.EditorsChoice":"编辑精选","WEA.AppPages.EditorsNotes.Header":"编辑评语","WEA.AppPages.Eula.Error":"发生错误。请再试一次。","WEA.AppPages.Eula.Title":"@@appName@@ @@version@@ 许可协议","WEA.AppPages.Events.Status.Ended":"已结束","WEA.AppPages.Events.Status.HappeningNow":"正在进行","WEA.AppPages.Events.Status.Live":"直播中","WEA.AppPages.Events.Status.NowAvailable":"现已推出","WEA.AppPages.Events.Title":"活动","WEA.AppPages.ExpectedReleaseDate":"预计于@@expectedReleaseDate@@推出","WEA.AppPages.ExternalPurchaseBanner.CTA.Text":"进一步了解","WEA.AppPages.ExternalPurchaseBanner.Text":"此 App 不支持 App Store 隐私且安全的付款系统。App 使用外部购买。","WEA.AppPages.ExternalPurchaseBanner.Text.NL":"All payments in this app will be managed by the developer. This app uses external purchases.","WEA.AppPages.ExternalPurchaseInformation.CTA.Text":"进一步了解","WEA.AppPages.ExternalPurchaseInformation.Text":"Apple 无法验证你的付款信息和购买项目的隐私和安全性。Apple 仅保证通过 App Store 购买的项目的安全。App Store 付款功能（如订阅项目管理和退款请求）将不可用。","WEA.AppPages.ExternalPurchaseInformation.Text.NL":"All purchases in this app will be processed by a service provider selected by the developer “@@developerName@@”. The developer will be responsible for the payment methods and related features such as subscriptions and refunds. App Store features, such as your stored App Store payment method, subscription management and refund requests, will not be available.","WEA.AppPages.ExternalPurchaseInformation.Text.noDeveloper.NL":"All purchases in this app will be processed by a service provider selected by the developer. The developer will be responsible for the payment methods and related features such as subscriptions and refunds. App Store features, such as your stored App Store payment method, subscription management and refund requests, will not be available.","WEA.AppPages.ExternalPurchaseInformation.Title":"外部购买","WEA.AppPages.FB.siteName.desktopApp":"Mac App Store","WEA.AppPages.FB.siteName.iosSoftware":"App Store","WEA.AppPages.FB.siteName.mobileSoftwareBundle":"App Store","WEA.AppPages.FamilySharing":"家人共享","WEA.AppPages.FeaturedIn.Title":"相关故事","WEA.AppPages.GameController":"游戏控制器","WEA.AppPages.InAppPurchase.Title":"App 内购买项目","WEA.AppPages.InAppPurchases.Title":"App 内购买项目","WEA.AppPages.Information.Title":"信息","WEA.AppPages.Languages":"语言","WEA.AppPages.LicenseAgreement":"许可协议","WEA.AppPages.Location.Description":"此 App 在未打开时仍可能使用你的位置信息，这会缩短电池续航时间。","WEA.AppPages.Location.Title":"位置","WEA.AppPages.MacAppStore.Header":"Mac App Store","WEA.AppPages.Meta.MacAppPageMetaDescriptionLine":"阅读评论、比较用户评分、查看截屏并进一步了解“@@softwareName@@”。下载适用于 macOS @@minimumOSVersion@@ 或更高版本的“@@softwareName@@”，并在你的 Mac 上尽享其功能。","WEA.AppPages.Meta.MacAppPageMetaKeywords":"@@softwareName@@, @@developerName@@, @@categoryNames@@, mac app, app store, appstore, 应用程序, itunes","WEA.AppPages.Meta.MacAppStorePageTitle":"Mac App Store 上的“@@softwareName@@”","WEA.AppPages.Meta.PageMetaDescriptionLine":"阅读评论、比较用户评分、查看截屏并进一步了解“@@softwareName@@”。在 iPhone、iPad 和 iPod touch 上下载“@@softwareName@@”，尽享 App 丰富功能。","WEA.AppPages.Meta.PageMetaKeywords":"@@softwareName@@, @@developerName@@, @@categoryNames@@, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes","WEA.AppPages.Meta.iOSmacOSPageMetaDescriptionLine":"阅读评论、比较用户评分、查看截屏并进一步了解“@@softwareName@@”。下载“@@softwareName@@”，然后在 iPhone、iPad、iPod touch 或 Mac OS X @@minimumOSVersion@@（或更高版本）上使用。","WEA.AppPages.Meta.iOSmacOSPageMetaKeywords":"@@softwareName@@, @@developerName@@, @@categoryNames@@, ios app, mac app, app, appstore, app store, 应用程序, iphone, ipad, ipod touch, itouch, itunes","WEA.AppPages.Meta.iOSmacOSwatchOSPageMetaDescriptionLine":"阅读评论、比较用户评分、查看截屏并进一步了解“@@softwareName@@”。下载“@@softwareName@@”，然后在 iPhone、iPad、iPod touch、Mac OS X @@minimumOSVersion@@（或更高版本）或 Apple Watch 上使用。","WEA.AppPages.Meta.iOSmacOSwatchOSPageMetaKeywords":"@@softwareName@@, @@developerName@@, @@categoryNames@@, ios app, mac app, watchos app, app, appstore, app store, 应用程序, iphone, ipad, ipod touch, itouch, itunes, apple watch","WEA.AppPages.Meta.iOStvOSmacOSPageMetaDescriptionLine":"阅读评论、比较用户评分、查看截屏并进一步了解“@@softwareName@@”。下载“@@softwareName@@”，然后在 iPhone、iPad、iPod touch、Mac OS X @@minimumOSVersion@@（或更高版本）或 Apple TV 上使用。","WEA.AppPages.Meta.iOStvOSmacOSPageMetaKeywords":"@@softwareName@@, @@developerName@@, @@categoryNames@@, ios app, tvos app, mac app, app, appstore, app store, 应用程序, iphone, ipad, ipod touch, itouch, itunes, appletv, apple tv, Apple tvOS, Apple tvOS app","WEA.AppPages.Meta.iOStvOSmacOSwatchOSPageMetaDescriptionLine":"阅读评论、比较用户评分、查看截屏并进一步了解“@@softwareName@@”。下载“@@softwareName@@”，然后在 iPhone、iPad、iPod touch、Mac OS X @@minimumOSVersion@@（或更高版本）、Apple TV 或 Apple Watch 上使用。","WEA.AppPages.Meta.iOStvOSmacOSwatchOSPageMetaKeywords":"@@softwareName@@, @@developerName@@, @@categoryNames@@, ios app, tvos app, mac app, watchos app, app, appstore, app store, 应用程序, iphone, ipad, ipod touch, itouch, itunes, appletv, apple tv, apple watch, Apple tvOS, Apple tvOS app","WEA.AppPages.Meta.title":"App Store 上的“@@softwareName@@”","WEA.AppPages.Meta.tvOSAppPageMetaDescriptionLine":"阅读评论、比较用户评分、查看截屏并进一步了解“@@softwareName@@”。下载“@@softwareName@@”并在你的 Apple TV 上尽享其功能。","WEA.AppPages.Meta.tvOSAppPageMetaKeywords":"@@softwareName@@, @@developerName@@, @@categoryNames@@, tvos app, app, appstore, app store, appletv, apple tv, Apple tvOS, Apple tvOS app","WEA.AppPages.Meta.tvOSAppPagetitle":"App Store 上的“@@softwareName@@”","WEA.AppPages.MoreAppsByDeveloperName":"更多来自@@developerName@@的 App","WEA.AppPages.MoreByThisDeveloper.Title":"更多来自此开发人员的 App","WEA.AppPages.OffersAppleWatchApp":"提供 Apple Watch App","WEA.AppPages.OffersAppleWatchAppForiPhone":"提供 iPhone 版 Apple Watch App","WEA.AppPages.OffersExternalPurchases":"提供外部购买","WEA.AppPages.OffersInAppPurchases":"提供 App 内购买项目","WEA.AppPages.OffersiMessageApp":"提供 iMessage App","WEA.AppPages.OffersiMessageAppForiOS":"提供 iOS 版 iMessage App","WEA.AppPages.OnlyForAppleTV":"仅适用于 Apple TV","WEA.AppPages.OnlyForiMessage":"仅适用于 iMessage 信息","WEA.AppPages.Optional":"可选","WEA.AppPages.PreOrder":"预订","WEA.AppPages.PreOrderDisclaimer":"此内容可能进行调整，恕不另行通知。最终产品可能会有所不同。","WEA.AppPages.Price.Title":"价格","WEA.AppPages.PrivacyPolicy":"隐私政策","WEA.AppPages.RankInGenre":"“@@genreName@@”类第 @@rank@@ 名","WEA.AppPages.Rating":"分级","WEA.AppPages.Ratings.Title":"评分","WEA.AppPages.RatingsReviews.Title":"评分及评论","WEA.AppPages.Required":"必选","WEA.AppPages.Screenshots":"截屏","WEA.AppPages.Screenshots.appleTV":"Apple TV","WEA.AppPages.Screenshots.appleTVScreenshots":"Apple TV 截屏","WEA.AppPages.Screenshots.appleWatch":"Apple Watch","WEA.AppPages.Screenshots.appleWatchScreenshots":"Apple Watch 截屏","WEA.AppPages.Screenshots.ipad":"iPad","WEA.AppPages.Screenshots.ipadScreenshots":"iPad 截屏","WEA.AppPages.Screenshots.iphone":"iPhone","WEA.AppPages.Screenshots.iphoneScreenshots":"iPhone 截屏","WEA.AppPages.Screenshots.mac":"Mac","WEA.AppPages.Screenshots.messages":"iMessage 信息","WEA.AppPages.Screenshots.messagesScreenshots":"iMessage 信息的截屏","WEA.AppPages.Seller":"销售商","WEA.AppPages.Size":"大小","WEA.AppPages.StandAloneForWatch":"仅适用于 Apple Watch","WEA.AppPages.Subscriptions.FreeTrial":"免费试用","WEA.AppPages.Subscriptions.PayAsYouGo":"@@price@@（试用）","WEA.AppPages.Subscriptions.PayUpFront":"@@price@@（试用）","WEA.AppPages.Subscriptions.Title":"订阅","WEA.AppPages.Supports.FamilySharing.Description":"启用“家人共享”，即可让最多 6 个家庭成员使用此 App。","WEA.AppPages.Supports.FamilySharing.Description.withIAP":"启用“家人共享”后，你即可与家庭群组中的成员共享部分 App 内购买项目（包括订阅项目）。","WEA.AppPages.Supports.FamilySharing.Title":"家人共享","WEA.AppPages.Supports.GameCenter.Description":"挑战朋友并查看排行榜和成就。","WEA.AppPages.Supports.GameCenter.Title":"Game Center","WEA.AppPages.Supports.GameController.Description":"使用你喜爱的可兼容控制器畅玩此游戏。","WEA.AppPages.Supports.GameController.Title":"游戏控制器","WEA.AppPages.Supports.Siri.Description":"只需开口让 Siri 帮忙，即可在此 App 中轻松搞定大小事物。","WEA.AppPages.Supports.Siri.Title":"Siri","WEA.AppPages.Supports.Title":"支持","WEA.AppPages.Supports.Wallet.Description":"集中管理你的凭证、票券、卡片及更多。","WEA.AppPages.Supports.Wallet.Title":"钱包","WEA.AppPages.TopInAppPurchases.Title":"App 内购买项目","WEA.AppPages.TopInCategory.Title":"“@@categoryName@@”类热门 App","WEA.AppPages.Twitter.site.desktopApp":"@MacAppStore","WEA.AppPages.Updated":"更新日期","WEA.AppPages.Version":"版本","WEA.AppPages.VersionHistory.Title":"版本记录","WEA.AppPages.ViewIn":"在这里查看：","WEA.AppPages.WhatsNew.Header":"新内容","WEA.CarrierPages.UpdateOS.Instructions.MacOS":"对于 Mac，请前往“系统偏好设置”\u003e“软件更新”","WEA.CarrierPages.UpdateOS.Instructions.One":"设备更新后，返回并使用运营商提供的链接激活此订阅项目。","WEA.CarrierPages.UpdateOS.Instructions.iOS":"对于 iPhone 和 iPad，请前往“设置”\u003e“通用”\u003e“软件更新”","WEA.CarrierPages.UpdateOS.Meta.Description":"将你的 iPhone、iPad 或 Mac 更新至最新版本的操作系统以激活运营商方案中的订阅项目。","WEA.CarrierPages.UpdateOS.Meta.Title":"将设备更新至最新版本的操作系统以激活订阅项目","WEA.CarrierPages.UpdateOS.Title":"将你的设备更新至最新版本的操作系统以激活此订阅项目","WEA.Charts.AppFilter.Button":"App 类别","WEA.Charts.AppFilter.Tab":"App","WEA.Charts.Apps.AppType.Apps":"App","WEA.Charts.Apps.AppType.Games":"游戏","WEA.Charts.Apps.DeviceType.iPad":"iPad","WEA.Charts.Apps.DeviceType.iPhone":"iPhone","WEA.Charts.Apps.Games.top-free-games":"免费游戏排行","WEA.Charts.Apps.Games.top-paid-games":"付费游戏排行","WEA.Charts.Apps.Meta.CategoryChartDescription":"在 App Store 中探索热门@@chart@@@@category@@类 @@deviceType@@ @@baseCategory@@，例如“@@entity1@@”和“@@entity2@@”等。","WEA.Charts.Apps.Meta.CategoryChartKeywords":"@@chart@@, @@deviceType@@, @@category@@, @@baseCategory@@, app store, 排行榜, apple","WEA.Charts.Apps.Meta.CategoryChartTitle":"App Store 中的热门@@chart@@@@category@@类 @@deviceType@@ @@baseCategory@@ - Apple（@@storefront@@）","WEA.Charts.Apps.Meta.CategoryDescription":"在 App Store 中探索热门@@category@@类 @@deviceType@@ @@baseCategory@@，例如“@@entity1@@”和“@@entity2@@”等。","WEA.Charts.Apps.Meta.CategoryKeywords":"热门@@category@@类 @@deviceType@@ @@baseCategory@@, @@deviceType@@, @@category@@, @@baseCategory@@, app store, 排行榜, apple","WEA.Charts.Apps.Meta.CategoryTitle":"App Store 中的热门@@category@@类 @@deviceType@@ @@baseCategory@@ - Apple（@@storefront@@）","WEA.Charts.Apps.Meta.Chart.Free":"免费","WEA.Charts.Apps.Meta.Chart.Paid":"付费","WEA.Charts.Apps.Meta.ChartDescription":"在 App Store 中探索热门@@chart@@ @@deviceType@@ @@baseCategory@@，例如“@@entity1@@”和“@@entity2@@”等。","WEA.Charts.Apps.Meta.ChartKeywords":"热门@@chart@@ @@deviceType@@ @@baseCategory@@, @@chart@@, @@deviceType@@, @@baseCategory@@, app store, 排行榜, apple","WEA.Charts.Apps.Meta.ChartTitle":"App Store 中的热门@@chart@@ @@deviceType@@ @@baseCategory@@ - Apple（@@storefront@@）","WEA.Charts.Apps.Meta.Description":"在 App Store 中查找和下载热门 @@deviceType@@ App 和游戏。","WEA.Charts.Apps.Meta.Keywords":"热门 @@deviceType@@ app, 热门 @@deviceType@@ 游戏, app store, 排行榜, apple","WEA.Charts.Apps.Meta.Title":"App Store 中的 @@deviceType@@ 排行榜 - Apple（@@storefront@@）","WEA.Charts.Apps.Title":"排行榜","WEA.Charts.AudioBooks.Meta.Description":"浏览 Apple Books 上的人气和畅销有声书列表。查看不同类型的有声书排行榜，畅听各类精彩内容。","WEA.Charts.AudioBooks.Meta.GenreDescription":"在 Apple Books 上畅听精彩@@genre@@类有声书。查看热门的免费和畅销有声书列表，包括《@@entity1@@》和《@@entity2@@》等。","WEA.Charts.AudioBooks.Meta.GenreKeywords":"热门@@genre@@类有声书, iphone 上的热门@@genre@@类有声书, ipad, Mac, Apple Books","WEA.Charts.AudioBooks.Meta.GenreTitle":"热门@@genre@@类有声书 - Apple Books（@@storefront@@）","WEA.Charts.AudioBooks.Meta.Keywords":"热门有声书, iphone 上的热门有声书, ipad, Mac, Apple Books","WEA.Charts.AudioBooks.Meta.Title":"热门有声书 - Apple Books（@@storefront@@）","WEA.Charts.AudioBooks.Title":"热门有声书","WEA.Charts.Books.Meta.ChartDescription":"查找 Apple Books 上的精彩@@genre@@类图书（@@chart@@）。查看热门图书列表，包括《@@entity1@@》和《@@entity2@@》等。","WEA.Charts.Books.Meta.ChartKeywords":"热门@@genre@@类图书（@@chart@@）, iphone 上的热门@@genre@@类图书（@@chart@@）, ipad, Mac, Apple Books","WEA.Charts.Books.Meta.ChartTitle":"热门@@genre@@类图书（@@chart@@）- Apple Books（@@storefront@@）","WEA.Charts.Books.Meta.Description":"浏览 Apple Books 上的人气和畅销图书列表。查找所有类型中的精彩图书排行榜。","WEA.Charts.Books.Meta.GenreDescription":"查找 Apple Books 上的精彩@@genre@@类图书。查看热门的免费和畅销图书列表，包括《@@entity1@@》和《@@entity2@@》等。","WEA.Charts.Books.Meta.GenreKeywords":"热门@@genre@@类图书, iphone 上的热门@@genre@@类图书, ipad, Mac, Apple Books","WEA.Charts.Books.Meta.GenreTitle":"热门@@genre@@类图书 - Apple Books（@@storefront@@）","WEA.Charts.Books.Meta.Keywords":"热门图书, iphone 上的热门图书, ipad, Mac, Apple Books","WEA.Charts.Books.Meta.Title":"热门图书 - Apple Books（@@storefront@@）","WEA.Charts.Books.Title":"热门图书","WEA.Charts.Categories.Button":"类别","WEA.Charts.Common.Rank":"号码 @@rank@@","WEA.Charts.GameFilter.Button":"游戏类别","WEA.Charts.GameFilter.Tab":"游戏","WEA.Charts.GenreFilter.Button":"类型排行榜","WEA.Charts.LocalNav.Links.TopAudiobooks":"热门有声书","WEA.Charts.LocalNav.Links.TopBooks":"热门图书","WEA.Common.Accessibility.LocalNavClose":"本地导航关闭菜单","WEA.Common.Accessibility.LocalNavOpen":"本地导航打开菜单","WEA.Common.Authentication.Login":"登录","WEA.Common.Authentication.Logout":"退出登录","WEA.Common.AverageRating":"@@rating@@（满分 @@ratingTotal@@ 分）","WEA.Common.Close":"关闭","WEA.Common.Comma":"，","WEA.Common.DotSeparator":"@@string1@@ · @@string2@@","WEA.Common.Duration":"时长","WEA.Common.Ellipsis.Animated":"\u003cspan\u003e.\u003c/span\u003e\u003cspan\u003e.\u003c/span\u003e\u003cspan\u003e.\u003c/span\u003e","WEA.Common.Errors.404":"你要找的内容尚未提供。","WEA.Common.Errors.404.Title":"暂无此内容","WEA.Common.FileSize.GB":"@@count@@ GB","WEA.Common.FileSize.GB.AX.one":"1 GB","WEA.Common.FileSize.GB.AX.other":"@@count@@ GB","WEA.Common.FileSize.GB.Unit":"GB","WEA.Common.FileSize.KB":"@@count@@ KB","WEA.Common.FileSize.KB.AX.one":"1 KB","WEA.Common.FileSize.KB.AX.other":"@@count@@ KB","WEA.Common.FileSize.KB.Unit":"KB","WEA.Common.FileSize.MB":"@@count@@ MB","WEA.Common.FileSize.MB.AX.one":"1 MB","WEA.Common.FileSize.MB.AX.other":"@@count@@ MB","WEA.Common.FileSize.MB.Unit":"MB","WEA.Common.FileSize.byte.Unit":"字节","WEA.Common.FileSize.byte.one":"1 字节","WEA.Common.FileSize.byte.other":"@@count@@ 字节","WEA.Common.Free":"免费","WEA.Common.Get":"获取","WEA.Common.Hours.Unit.Short":"小时","WEA.Common.Hours.abbr.one":"1 小时","WEA.Common.Hours.abbr.other":"@@count@@ 小时","WEA.Common.Hours.one":"1 小时","WEA.Common.Hours.other":"@@count@@ 小时","WEA.Common.Languages.AD":"AD","WEA.Common.Languages.AudioTrack":"AudioTrack","WEA.Common.Languages.CC":"CC","WEA.Common.Languages.Dolby51":"Dolby Digital 5.1","WEA.Common.Languages.Dolby51Plus":"Dolby Digital Plus 5.1","WEA.Common.Languages.Dolby71Plus":"Dolby Digital Plus 7.1","WEA.Common.Languages.DolbyAtmos":"Dolby Atmos","WEA.Common.Languages.SDH":"SDH","WEA.Common.Languages.Subtitled":"字幕","WEA.Common.Languages.hasAudioDescription":"口述影像","WEA.Common.Languages.hasClosedCaptioning":"隐藏式字幕","WEA.Common.Languages.hasDolby":"Dolby","WEA.Common.Languages.hasDolby71":"杜比数字+ 7.1","WEA.Common.Languages.hasDolbyAtmos":"杜比全景声","WEA.Common.Languages.hasSDH":"失聪及听障者字幕","WEA.Common.Languages.hasStereo":"立体声","WEA.Common.Languages.hasSubtitles":"字幕版","WEA.Common.Languages.languageDescriptor":"@@languageName@@ (@@languageMeta@@)","WEA.Common.LearnMore":"进一步了解","WEA.Common.Listen":"聆听","WEA.Common.Loading":"正在载入","WEA.Common.Meta.FB.genericDescription.Books":"你可以在 iPhone、iPad、iPod touch 或 Apple Watch 上欣赏图书和有声书，从推理小说到回忆录，应有尽有。你可以免费阅读电子书的试读内容，还可以免费聆听有声书的预览片段。近期畅销书、热门经典佳作以及更多精彩作品，尽在 Apple Books，立刻下载即可欣赏。","WEA.Common.Meta.FB.siteName.AM":"Apple Music","WEA.Common.Meta.FB.siteName.AppleTV":"Apple TV","WEA.Common.Meta.FB.siteName.Apps":"App Store","WEA.Common.Meta.FB.siteName.Books":"Apple Books","WEA.Common.Meta.FB.siteName.MacApps":"Mac App Store","WEA.Common.Meta.FB.siteName.Podcasts":"Apple Podcasts","WEA.Common.Meta.FB.siteName.iTunes":"iTunes","WEA.Common.Meta.Twitter.genericDescription.Books":"你可以在 iPhone、iPad、iPod touch 或 Apple Watch 上欣赏图书和有声书，从推理小说到回忆录，应有尽有。你可以免费阅读电子书的试读内容，还可以免费聆听有声书的预览片段。近期畅销书、热门经典佳作以及更多精彩作品，尽在 Apple Books，立刻下载即可欣赏。","WEA.Common.Meta.Twitter.site.AM":"@appleMusic","WEA.Common.Meta.Twitter.site.Apps":"@AppStore","WEA.Common.Meta.Twitter.site.Books":"@AppleBooks","WEA.Common.Meta.Twitter.site.iTunes":"@iTunes","WEA.Common.Minutes.Unit.Short":"分钟","WEA.Common.Minutes.abbr.one":"1 分钟","WEA.Common.Minutes.abbr.other":"@@count@@ 分钟","WEA.Common.Minutes.one":"1 分钟","WEA.Common.Minutes.other":"@@count@@ 分钟","WEA.Common.More":"更多","WEA.Common.NowPlaying":"正在播放","WEA.Common.Number":"@@count@@","WEA.Common.OG.SiteName.AppleBooks":"Apple Books","WEA.Common.OG.SiteName.TV":"Apple TV","WEA.Common.OG.SiteName.iTunes":"iTunes","WEA.Common.OpensIn.AppleBooks":"在 Apple Books 中打开","WEA.Common.Paid":"付费","WEA.Common.Pause":"暂停","WEA.Common.Pause.Alternate":"暂停","WEA.Common.Percentage":"@@percentage@@%","WEA.Common.Platforms.AppleTv":"Apple TV","WEA.Common.Platforms.Bundles":"套装","WEA.Common.Platforms.Mac":"Mac","WEA.Common.Platforms.Watch":"Apple Watch","WEA.Common.Platforms.iMessage":"iMessage 信息","WEA.Common.Platforms.iPad":"iPad","WEA.Common.Platforms.iPadiPhone":"iPad 与 iPhone","WEA.Common.Platforms.iPhone":"iPhone","WEA.Common.Play":"播放","WEA.Common.Play.Alternate":"播放","WEA.Common.Playback.Progress":"播放进度","WEA.Common.Playback.Skip.Ahead":"向前跳","WEA.Common.Playback.Skip.Back":"向后跳","WEA.Common.Preview":"预览","WEA.Common.Preview.VideoName":"预览“@@videoName@@”","WEA.Common.Ratings.one":"1 个评分","WEA.Common.Ratings.other":"@@count@@ 个评分","WEA.Common.Ratings.zero":"没有评分","WEA.Common.Related":"相关","WEA.Common.Released":"发行日期：@@releaseDate@@","WEA.Common.Roles.AsCharacter":"饰演@@characterName@@","WEA.Common.Roles.Type.Actor":"演员","WEA.Common.Roles.Type.Advisor":"顾问","WEA.Common.Roles.Type.Cast":"演职员表","WEA.Common.Roles.Type.Creator":"编导","WEA.Common.Roles.Type.Director":"导演","WEA.Common.Roles.Type.Guest":"嘉宾","WEA.Common.Roles.Type.GuestStar":"客串","WEA.Common.Roles.Type.Host":"主持","WEA.Common.Roles.Type.Music":"音乐","WEA.Common.Roles.Type.Performer":"演出者","WEA.Common.Roles.Type.Producer":"制作人","WEA.Common.Roles.Type.Voice":"配音","WEA.Common.Roles.Type.Writer":"编剧","WEA.Common.Seconds.abbr.one":"1 秒","WEA.Common.Seconds.abbr.other":"@@count@@ 秒","WEA.Common.Seconds.one":"1 秒","WEA.Common.Seconds.other":"@@count@@ 秒","WEA.Common.SeeAll.Button":"查看全部","WEA.Common.SeeAll.Title.Generic":"@@parentName@@ - @@sectionTitle@@","WEA.Common.SeeAll.Title.Item":"《@@itemName@@》-《@@productName@@》- @@sectionTitle@@","WEA.Common.SeeAll.Title.Product":"@@artistName@@ — @@sectionTitle@@","WEA.Common.SeeDetails.Button":"查看详情","WEA.Common.SentenceDelimiter":"。","WEA.Common.SeparatorDuration":"@@hours@@ @@minutes@@","WEA.Common.SeparatorDuration.Short":"@@string1@@:@@string2@@","WEA.Common.SeparatorGeneric":"@@string1@@，@@string2@@","WEA.Common.Share.CloseMenu.AX":"关闭分享菜单","WEA.Common.Share.Embed.AX":"拷贝@@name@@的@@contentType@@@@mediaTitle@@的嵌入代码","WEA.Common.Share.EmbedCopied":"已拷贝嵌入代码","WEA.Common.Share.Link.AX":"拷贝@@name@@的@@contentType@@@@mediaTitle@@的链接","WEA.Common.Share.LinkCopied":"已拷贝链接","WEA.Common.Share.OpenMenu.AX":"打开分享菜单","WEA.Common.Share.Social.AX":"在@@network@@上分享@@name@@的@@contentType@@@@mediaTitle@@","WEA.Common.Shuffle":"随机播放","WEA.Common.TV.CTA.AM":"在 Mac、PC 或 Android 设备的 Apple Music 中观看","WEA.Common.TV.CTA.AX":"在 Apple TV 上观看","WEA.Common.Time.AvailableIn":"@@minutes@@ 分钟后上线","WEA.Common.Time.DayOfTheWeek.Friday":"星期五@@time@@","WEA.Common.Time.DayOfTheWeek.Monday":"星期一@@time@@","WEA.Common.Time.DayOfTheWeek.Saturday":"星期六@@time@@","WEA.Common.Time.DayOfTheWeek.Sunday":"星期日@@time@@","WEA.Common.Time.DayOfTheWeek.Thursday":"星期四@@time@@","WEA.Common.Time.DayOfTheWeek.Tuesday":"星期二@@time@@","WEA.Common.Time.DayOfTheWeek.Wednesday":"星期三@@time@@","WEA.Common.Time.StartsIn":"将于 @@minutes@@ 分钟后开始","WEA.Common.Time.Today":"今天@@time@@","WEA.Common.Time.Tomorrow":"明天@@time@@","WEA.Common.Time.Tonight":"今晚@@time@@","WEA.Common.TogglePlay":"播放/暂停","WEA.Common.TrackList.Album":"专辑","WEA.Common.TrackList.Artist":"艺人","WEA.Common.TrackList.Price":"价格","WEA.Common.TrackList.Time":"时间","WEA.Common.TrackList.TimeRemaining":"剩余时间","WEA.Common.TrackList.Track":"标题","WEA.Common.VideoSubType.concert":"音乐会","WEA.Common.VideoSubType.episode":"单集","WEA.Common.VideoSubType.episodebonus":"单集附赠内容","WEA.Common.VideoSubType.feature":"专题片","WEA.Common.VideoSubType.seasonbonus":"整季附赠内容","WEA.Common.VideoSubType.short":"短片","WEA.Common.VideoSubType.specialty":"特制片","WEA.Common.VideoSubType.tvextra":"附加内容","WEA.Common.VideoSubType.tvinterview":"采访","WEA.Common.VideoSubType.tvtrailer":"预告片","WEA.Common.View":"查看","WEA.Common.Yes":"是","WEA.DeepLinkPages.Social.Invite.Description.AM":"与朋友共同探索音乐","WEA.DeepLinkPages.Social.Invite.Title.AM":"开始在 Apple Music 上分享","WEA.DeepLinkPages.Social.Subscribe.Description.AM":"播放并下载你想要的所有音乐。","WEA.DeepLinkPages.Social.Subscribe.Title.AM":"试用 Apple Music","WEA.DeveloperPages.FB.siteName.developer":"App Store","WEA.DeveloperPages.Messages.NoApps":"当前没有可供使用的 App。","WEA.DeveloperPages.Meta.Description.ManyApps":"下载“@@developerName@@”开发的 App，包括“@@listing1@@”、“@@listing2@@”、“@@listing3@@”等。","WEA.DeveloperPages.Meta.Description.NoApps":"下载“@@developerName@@”开发的 App。","WEA.DeveloperPages.Meta.Description.OneApp":"下载“@@developerName@@”开发的 App，包括“@@listing1@@”。","WEA.DeveloperPages.Meta.Description.ThreeApps":"下载“@@developerName@@”开发的 App，包括“@@listing1@@”、“@@listing2@@”和“@@listing3@@”。","WEA.DeveloperPages.Meta.Description.TwoApps":"下载“@@developerName@@”的 App，包括“@@listing1@@”和“@@listing2@@”。","WEA.DeveloperPages.Meta.PageKeywords":"下载, @@developerName@@, iPhone 上的 App, iPad, iMessage 信息, Apple Watch, Mac","WEA.DeveloperPages.Meta.Title":"App Store 中“@@developerName@@”开发的 App","WEA.EditorialItemProductPages.AppOfTheDay":"今日 APP","WEA.EditorialItemProductPages.Banner.Copy":"你只能在 App Store 中查看此故事，并且需要使用装有 iOS 11 或更高版本的 iPhone 或 iPad。 @@link@@","WEA.EditorialItemProductPages.Banner.Copy.NewmacOS":"你只能在 App Store 中查看此故事。 @@link@@","WEA.EditorialItemProductPages.Banner.Copy.NonmacOS":"你只能在 App Store 中查看此故事。 @@link@@","WEA.EditorialItemProductPages.Banner.Copy.OldmacOS":"要查看此故事，请@@link@@","WEA.EditorialItemProductPages.Banner.Headline":"获得完整体验","WEA.EditorialItemProductPages.Banner.Headline.NewmacOS":"获得完整体验","WEA.EditorialItemProductPages.Banner.Headline.NonmacOS":"获得完整体验","WEA.EditorialItemProductPages.Banner.Headline.OldmacOS":"获得完整体验","WEA.EditorialItemProductPages.Banner.Link.Text":"进一步了解。","WEA.EditorialItemProductPages.Banner.Link.Text.NewmacOS":"进一步了解。","WEA.EditorialItemProductPages.Banner.Link.Text.NonmacOS":"进一步了解。","WEA.EditorialItemProductPages.Banner.Link.Text.OldmacOS":"升级至最新版本的 macOS。","WEA.EditorialItemProductPages.Banner.Link.URL":"https://www.apple.com/cn/ios/app-store/","WEA.EditorialItemProductPages.Banner.Link.URL.NewmacOS":"https://www.apple.com/cn/macos/mojave-preview/#mac-app-store","WEA.EditorialItemProductPages.Banner.Link.URL.NonmacOS":"https://www.apple.com/cn/macos/mojave-preview/#mac-app-store","WEA.EditorialItemProductPages.Banner.Link.URL.OldmacOS":"macappstore://itunes.apple.com/WebObjects/MZStore.woa/wa/storeFront","WEA.EditorialItemProductPages.CTA.Headline":"获得完整体验","WEA.EditorialItemProductPages.CTA.Link.Url":"https://www.apple.com/ios/app-store/","WEA.EditorialItemProductPages.CTA.Text":"你只能在 App Store 中查看此故事，并且需要使用装有 iOS 11 或更高版本的 iPhone 或 iPad。","WEA.EditorialItemProductPages.CTA.Text.AX":"查看“@@appName@@”","WEA.EditorialItemProductPages.FB.siteName.iosSoftware":"App Store","WEA.EditorialItemProductPages.FB.siteName.macOs":"Mac App Store","WEA.EditorialItemProductPages.GameOfTheDay":"今日游戏","WEA.EditorialItemProductPages.InAppPurchase":"App 内购买项目","WEA.EditorialItemProductPages.InAppPurchase.Title":"@@purchaseName@@ -《@@appName@@》","WEA.EditorialItemProductPages.MacAppStore.MacOS.Meta.PageMetaDescription":"前往 Mac App Store 了解《@@storyTitle@@》。在 Mac 上下载《@@featuredAppName@@》，尽享其丰富功能。","WEA.EditorialItemProductPages.MacAppStore.MacOS.Meta.PageMetaDescription.Collection.ManyMore":"前往 Mac App Store，了解《@@storyTitle@@》精选集，包括《@@featuredAppName1@@》、《@@featuredAppName2@@》、《@@featuredAppName3@@》及更多 App。在 Mac 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.MacAppStore.MacOS.Meta.PageMetaDescription.Collection.One":"前往 Mac App Store，了解《@@storyTitle@@》精选集，包括《@@featuredAppName1@@》及更多 App。在 Mac 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.MacAppStore.MacOS.Meta.PageMetaDescription.Collection.Three":"前往 Mac App Store，了解《@@storyTitle@@》精选集，包括《@@featuredAppName1@@》、《@@featuredAppName2@@》、《@@featuredAppName3@@》及更多 App。在 Mac 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.MacAppStore.MacOS.Meta.PageMetaDescription.Collection.Two":"前往 Mac App Store，了解《@@storyTitle@@》精选集，包括《@@featuredAppName1@@》、《@@featuredAppName2@@》及更多 App。在 Mac 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.MacAppStore.MacOS.Meta.PageMetaKeywords":"@@storyTitle@@, @@featuredAppName@@, @@applicationCategory@@, app, appstore, app store, Mac","WEA.EditorialItemProductPages.MacAppStore.MacOS.Meta.PageMetaKeywords.Collection.One":"@@storyTitle@@, @@featuredAppName1@@, @@applicationCategory@@, app, appstore, app store, Mac","WEA.EditorialItemProductPages.MacAppStore.MacOS.Meta.PageMetaKeywords.Collection.Three":"@@storyTitle@@, @@featuredAppName1@@, @@featuredAppName2@@, @@featuredAppName3@@, @@applicationCategory@@, app, appstore, app store, Mac","WEA.EditorialItemProductPages.MacAppStore.MacOS.Meta.PageMetaKeywords.Collection.Two":"@@storyTitle@@, @@featuredAppName1@@, @@featuredAppName2@@, @@applicationCategory@@, app, appstore, app store, Mac","WEA.EditorialItemProductPages.MacAppStore.Meta.PageMetaDescription":"前往 Mac App Store 了解《@@storyTitle@@》。在 iPhone、iPad 和 Mac 上下载《@@featuredAppName@@》，尽享其丰富功能。","WEA.EditorialItemProductPages.MacAppStore.Meta.PageMetaDescription.Collection.ManyMore":"前往 Mac App Store，了解《@@storyTitle@@》精选集，包括《@@featuredAppName1@@》、《@@featuredAppName2@@》、《@@featuredAppName3@@》及更多 App。在 iPhone、iPad 和 Mac 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.MacAppStore.Meta.PageMetaDescription.Collection.One":"前往 Mac App Store，了解《@@storyTitle@@》精选集，包括《@@featuredAppName1@@》及更多 App。在 iPhone、iPad 和 Mac 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.MacAppStore.Meta.PageMetaDescription.Collection.Three":"前往 Mac App Store，了解《@@storyTitle@@》精选集，包括《@@featuredAppName1@@》、《@@featuredAppName2@@》、《@@featuredAppName3@@》及更多 App。在 iPhone、iPad 和 Mac 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.MacAppStore.Meta.PageMetaDescription.Collection.Two":"前往 Mac App Store，了解《@@storyTitle@@》精选集，包括《@@featuredAppName1@@》、《@@featuredAppName2@@》及更多 App。在 iPhone、iPad 和 Mac 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.MacAppStore.Meta.PageMetaKeywords":"@@storyTitle@@, @@featuredAppName@@, @@applicationCategory@@, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes, Mac","WEA.EditorialItemProductPages.MacAppStore.Meta.PageMetaKeywords.Collection.One":"@@storyTitle@@, @@featuredAppName1@@, @@applicationCategory@@, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes, Mac","WEA.EditorialItemProductPages.MacAppStore.Meta.PageMetaKeywords.Collection.Three":"@@storyTitle@@, @@featuredAppName1@@, @@featuredAppName2@@, @@featuredAppName3@@, @@applicationCategory@@, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes, Mac","WEA.EditorialItemProductPages.MacAppStore.Meta.PageMetaKeywords.Collection.Two":"@@storyTitle@@, @@featuredAppName1@@, @@featuredAppName2@@, @@applicationCategory@@, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes, Mac","WEA.EditorialItemProductPages.Meta.PageMetaDescription":"前往 App Store 了解《@@storyTitle@@》。","WEA.EditorialItemProductPages.Meta.PageMetaDescription.Collection.ManyMore":"前往 App Store，了解《@@storyTitle@@》精选集，包括“@@featuredAppName1@@”、“@@featuredAppName2@@”、“@@featuredAppName3@@”及更多 App。在你的 iPhone、iPad 和 iPod touch 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.Meta.PageMetaDescription.Collection.One":"前往 App Store，了解《@@storyTitle@@》精选集，包括“@@featuredAppName1@@”及更多 App。在你的 iPhone、iPad 和 iPod touch 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.Meta.PageMetaDescription.Collection.Three":"前往 App Store，了解《@@storyTitle@@》精选集，包括“@@featuredAppName1@@”、“@@featuredAppName2@@”及“@@featuredAppName3@@”。在你的 iPhone、iPad 和 iPod touch 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.Meta.PageMetaDescription.Collection.Two":"前往 App Store，了解《@@storyTitle@@》精选集，包括“@@featuredAppName1@@”、“@@featuredAppName2@@”及更多 App。在你的 iPhone、iPad 和 iPod touch 上尽享这些 App 的丰富功能。","WEA.EditorialItemProductPages.Meta.PageMetaKeywords":"@@storyTitle@@, @@applicationCategory@@, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes","WEA.EditorialItemProductPages.Meta.PageMetaKeywords.Collection.One":"@@storyTitle@@, @@featuredAppName1@@, @@applicationCategory@@, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes","WEA.EditorialItemProductPages.Meta.PageMetaKeywords.Collection.Three":"@@storyTitle@@, @@featuredAppName1@@, @@featuredAppName2@@, @@featuredAppName3@@, @@applicationCategory@@, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes","WEA.EditorialItemProductPages.Meta.PageMetaKeywords.Collection.Two":"@@storyTitle@@, @@featuredAppName1@@, @@featuredAppName2@@, @@applicationCategory@@, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes","WEA.EditorialItemProductPages.Meta.title":"《@@storyTitle@@》：App Store 故事","WEA.EditorialItemProductPages.Social.title.AOTD":"今日 App：@@appName@@","WEA.EditorialItemProductPages.Social.title.ASA":"@@storyTitle@@：@@appName@@","WEA.EditorialItemProductPages.Social.title.GOTD":"今日游戏：@@appName@@","WEA.EditorialItemProductPages.Social.title.IAP":"App 内购买：@@appName@@","WEA.Error.Carrier.Install.AM":"要开始聆听，请在你的设备上安装 Apple Music","WEA.Error.Carrier.Installed":"已有此 App？","WEA.Error.Carrier.Open.Action":"从 @@appname@@ 获取 App","WEA.Error.Generic.AppleMusicLogo.Text":"Apple Music","WEA.Error.Generic.GooglePlay":"Google Play","WEA.Error.Generic.Install.AM":"如果此链接无效，你可能需要@@installLink@@。","WEA.Error.Generic.Install.AM.Link.Text":"安装 Apple Music","WEA.Error.Generic.Meta.PageKeywords":"Apple Music","WEA.Error.Generic.Meta.PageKeywords.AppleBooks":"Apple Books","WEA.Error.Generic.Meta.PageKeywords.iTunes":"iTunes Store","WEA.Error.Generic.Meta.PageTitle":"正在连接 Apple Music","WEA.Error.Generic.Open.AM":"在 Apple Music 中打开","WEA.Error.Generic.Open.Action.AM":"打开方式","WEA.Error.Generic.Subtitle":"如果你未使用过 iTunes，请@@downloadLink@@。如果你使用过 iTunes 并且其未自动打开，请尝试从程序坞或 Windows 任务栏打开。","WEA.Error.Generic.Subtitle.DownloadLink.Text":"免费下载","WEA.Error.Generic.Subtitle.DownloadLink.URL":"http://www.apple.com/cn/itunes/download/","WEA.Error.Generic.Title":"正在连接 Apple Music","WEA.Error.Generic.Title.AppleBooks":"连接到 Apple Books","WEA.Error.Generic.Title.Apps":"正在连接到 App Store","WEA.Error.Generic.Title.Connecting":"正在连接","WEA.Error.Generic.Title.Podcasts":"正在连接 Apple 播客","WEA.Error.Generic.Title.iTunes":"正在连接 iTunes Store","WEA.Error.NativeMissing.AM.Subtitle":"你必须安装 iTunes 才能使用 Apple Music","WEA.Error.NativeMissing.Other.AM":"在 iOS、Android、Mac 和 Windows 设备上获取 Apple Music","WEA.Error.NativeMissing.Other.LearnMore.link":"https://www.apple.com/cn/itunes/download/","WEA.Error.NativeMissing.Other.iTunes":"在 iOS、Android、Mac 和 Windows 设备上获取 iTunes","WEA.Error.NativeMissing.iTunes.Download.link":"https://www.apple.com/cn/itunes/download/","WEA.Error.NativeMissing.iTunes.Download.text":"下载 iTunes","WEA.Error.NativeMissing.iTunes.TV.Subtitle":"通过下面的地址下载 iTunes 以开始观看。","WEA.Error.NativeMissing.iTunes.Title":"我们未能在你的电脑上找到 iTunes。","WEA.Error.NotFound.Meta.Title":"找不到此内容。","WEA.Error.NotFound.general":"未能找到你要寻找的页面。","WEA.GroupingPages.CTA.GoToWebsite":"前往","WEA.InvoicePages.Receipts.Instructions":"请在 iPhone、iPad、Mac 或 PC 上的 iTunes 中再试一次","WEA.InvoicePages.Receipts.Meta.Description":"你无法在此设备上关闭接收收据的功能。","WEA.InvoicePages.Receipts.Meta.Title":"收据","WEA.InvoicePages.Receipts.Title":"你无法在此设备上关闭接收收据的功能。","WEA.LocalNav.CTA.AppName.TV":"Apple TV App","WEA.LocalNav.CTA.DownloadiTunes":"下载 iTunes","WEA.LocalNav.CTA.DownloadiTunes.url":"https://www.apple.com/cn/itunes/download/","WEA.LocalNav.CTA.FreeTrial":"立即体验","WEA.LocalNav.CTA.FreeTrial.url":"https://itunes.apple.com/subscribe?app=music","WEA.LocalNav.CTA.iTunesStore.TV":"了解更多","WEA.LocalNav.Preview.AM":"预览","WEA.LocalNav.Preview.AppStore":"预览","WEA.LocalNav.Preview.Books":"预览","WEA.LocalNav.Preview.MAS":"预览","WEA.LocalNav.Preview.Podcasts":"预览","WEA.LocalNav.Preview.TV":"预览","WEA.LocalNav.Preview.iBooks":"预览","WEA.LocalNav.Preview.iTunes":"预览","WEA.LocalNav.Store.AM":"Apple Music","WEA.LocalNav.Store.AppStore":"App Store","WEA.LocalNav.Store.Books":"Apple Books","WEA.LocalNav.Store.MAS":"Mac App Store","WEA.LocalNav.Store.Podcasts":"Apple 播客 ","WEA.LocalNav.Store.TV":"Apple TV","WEA.LocalNav.Store.iBooks":"Apple Books","WEA.LocalNav.Store.iTunes":"iTunes","WEA.LocalNav.Title.Preview.AM":"@@product@@ @@qualifier@@","WEA.LocalNav.Title.Preview.AppStore":"@@product@@ @@qualifier@@","WEA.LocalNav.Title.Preview.Books":"@@product@@ @@qualifier@@","WEA.LocalNav.Title.Preview.MAS":"@@product@@ @@qualifier@@","WEA.LocalNav.Title.Preview.Podcasts":"@@product@@@@qualifier@@","WEA.LocalNav.Title.Preview.TV":"@@product@@ @@qualifier@@","WEA.LocalNav.Title.Preview.iBooks":"@@product@@ @@qualifier@@","WEA.LocalNav.Title.Preview.iTunes":"@@product@@ @@qualifier@@","WEA.MusicPages.Riaa.Explicit.AX":"露骨内容家长咨询","WEA.PaddleNav.Next.AX":"下一页","WEA.PaddleNav.Previous.AX":"上一页","WEA.StarRating.Separator":" • ","WFA.Common.Meta.Twitter.site":"@Apple"}}{".v1.catalog.cn.apps.986646876.l.zh-cn.platform.web.additionalplatforms.appletv.2cipad.2ciphone.2cmac.extend.custompromotionaltext.2ccustomscreenshotsbytype.2cdescription.2cdeveloperinfo.2cdistributionkind.2ceditorialvideo.2cfilesizebydevice.2cmessagesscreenshots.2cprivacy.2cprivacypolicyurl.2crequirementsbydevicefamily.2csupporturlforlanguage.2cversionhistory.2cwebsiteurl.include.app-events.2cgenres.2cdeveloper.2creviews.2cmerchandised-in-apps.2ccustomers-also-bought-apps.2cdeveloper-other-apps.2ctop-in-apps.2crelated-editorial-items.limit.5bmerchandised-in-apps.5d.20.omit.5bresource.5d.autos.meta.robots.sparselimit.5bapps.3arelated-editorial-items.5d.10":"{\"x\":1667483520720,\"d\":[{\"id\":\"986646876\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/986646876?l=zh-Hans-CN\",\"attributes\":{\"distributionKind\":\"APP_STORE\",\"artistName\":\"上海东方报业有限公司\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BBhd-%E4%B8%93%E6%B3%A8%E6%97%B6%E6%94%BF%E4%B8%8E%E6%80%9D%E6%83%B3%E7%9A%84%E5%A4%B4%E6%9D%A1%E8%B5%84%E8%AE%AF%E9%98%85%E8%AF%BB%E5%B9%B3%E5%8F%B0/id986646876\",\"isIOSBinaryMacOSCompatible\":false,\"privacy\":{\"privacyTypes\":[{\"privacyType\":\"用于追踪你的数据\",\"identifier\":\"DATA_USED_TO_TRACK_YOU\",\"description\":\"以下数据可能会用于在其他公司的 App 和网站中追踪你：\",\"dataCategories\":[{\"dataCategory\":\"标识符\",\"identifier\":\"IDENTIFIERS\"}]},{\"privacyType\":\"与你关联的数据\",\"identifier\":\"DATA_LINKED_TO_YOU\",\"description\":\"开发者可能会收集以下数据，且数据与你的身份关联：\",\"dataCategories\":[{\"dataCategory\":\"购买项目\",\"identifier\":\"PURCHASES\"},{\"dataCategory\":\"联系信息\",\"identifier\":\"CONTACT_INFO\"},{\"dataCategory\":\"用户内容\",\"identifier\":\"USER_CONTENT\"},{\"dataCategory\":\"标识符\",\"identifier\":\"IDENTIFIERS\"}]},{\"privacyType\":\"未与你关联的数据\",\"identifier\":\"DATA_NOT_LINKED_TO_YOU\",\"description\":\"开发者可能会收集以下数据，但数据不会关联你的身份：\",\"dataCategories\":[{\"dataCategory\":\"使用数据\",\"identifier\":\"USAGE_DATA\"},{\"dataCategory\":\"诊断\",\"identifier\":\"DIAGNOSTICS\"}]}]},\"reviewsRestricted\":false,\"deviceFamilies\":[\"ipad\"],\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/15/f8/d5/15f8d575-deaa-d7b4-04d5-d44940ad9c7c/AppIcon-0-1x_U007emarketing-5-0-0-sRGB-85-220.png/{w}x{h}{c}.{f}\",\"bgColor\":\"ffffff\",\"textColor1\":\"000000\",\"textColor2\":\"4d0202\",\"textColor3\":\"333333\",\"textColor4\":\"703534\"},\"hasMessagesExtension\":false,\"versionHistory\":[{\"versionDisplay\":\"9.1.1\",\"releaseNotes\":\"【修复】部分已知问题修复。\\n每天进步一点点，优化用户体验，生命不息，升级不止。\",\"releaseDate\":\"2022-09-06\",\"releaseTimestamp\":\"2022-09-06T01:58:28Z\"},{\"versionDisplay\":\"9.1.0\",\"releaseNotes\":\"新闻详情页相关推荐布局优化，大屏操作更便捷。\\r\\n每天进步一点点，优化用户体验，生命不息，升级不止。\",\"releaseDate\":\"2022-07-07\",\"releaseTimestamp\":\"2022-07-07T02:05:12Z\"},{\"versionDisplay\":\"9.0.8\",\"releaseNotes\":\"【修复】部分已知问题修复；\\r\\n每天进步一点点，优化用户体验，生命不息，升级不止；\",\"releaseDate\":\"2021-12-25\",\"releaseTimestamp\":\"2021-12-25T01:55:40Z\"},{\"versionDisplay\":\"9.0.5\",\"releaseNotes\":\"1. 功能与手机端保持一致的同时，针对大屏幕做了视觉优化焕新，提供全新大屏体验；\\r\\n2. 视频、直播、图片功能优化，大屏看图更精彩，视频观看更畅快！\",\"releaseDate\":\"2021-11-09\",\"releaseTimestamp\":\"2021-11-09T01:41:11Z\"},{\"versionDisplay\":\"9.0.4\",\"releaseNotes\":\"1. 功能与手机端保持一致的同时，针对大屏幕做了视觉优化焕新，提供全新大屏体验；\\r\\n2. 视频、直播、图片功能优化，大屏看图更精彩，视频观看更畅快！\",\"releaseDate\":\"2021-11-05\",\"releaseTimestamp\":\"2021-11-05T04:59:02Z\"},{\"versionDisplay\":\"2.1.2\",\"releaseNotes\":\"【修复】部分已知问题修复；\\r\\n每天进步一点点，优化用户体验，生命不息，升级不止；\",\"releaseDate\":\"2020-08-11\",\"releaseTimestamp\":\"2020-08-11T01:20:10Z\"},{\"versionDisplay\":\"2.1.0\",\"releaseNotes\":\"【修复】部分已知问题修复；\\r\\n每天进步一点点，优化用户体验，生命不息，升级不止；\\r\",\"releaseDate\":\"2020-07-19\",\"releaseTimestamp\":\"2020-07-19T22:34:47Z\"},{\"versionDisplay\":\"2.0.8\",\"releaseNotes\":\"Bug修正，优化用户体验。生命不息，升级不止。\",\"releaseDate\":\"2017-06-23\",\"releaseTimestamp\":\"2017-06-23T01:19:59Z\"},{\"versionDisplay\":\"2.0.7\",\"releaseNotes\":\"1. 评论盖楼功能强化。\\n2. 视频清晰度升级。\\n3. 互动分享与消息推送优化。\\n4. 其他Bug修正，提高整体稳定性。\",\"releaseDate\":\"2017-05-11\",\"releaseTimestamp\":\"2017-05-11T19:45:50Z\"},{\"versionDisplay\":\"2.0.3\",\"releaseNotes\":\"1. 问吧话题视频支持与体验优化。\\n2. 互动分享与消息推送优化。\\n3. 用户注册信息UI改善。\\n4. 其他Bug修正，提高整体稳定性。\",\"releaseDate\":\"2017-03-27\",\"releaseTimestamp\":\"2017-03-27T21:42:54Z\"},{\"versionDisplay\":\"2.0.2\",\"releaseNotes\":\"1. 视频频道优化，浏览更方便\\n2. 其他Bug修正，提高整体稳定性\",\"releaseDate\":\"2017-02-14\",\"releaseTimestamp\":\"2017-02-14T22:54:05Z\"},{\"versionDisplay\":\"2.0.1\",\"releaseNotes\":\"中国年，澎湃心\\n澎湃视频新增亮丽视界\\n丁酉大吉，一起澎湃\\n\\n本次更新：\\n1. 视频互动更便捷，为精彩视频点赞\\n2. 浏览新闻更顺畅\",\"releaseDate\":\"2017-01-24\",\"releaseTimestamp\":\"2017-01-24T17:43:22Z\"},{\"versionDisplay\":\"1.9.1\",\"releaseNotes\":\"- 新增视频频道，还原真实现场\\n- 其他Bug修正，提高整体稳定性\\n- 多项细节优化，用户体验更好\",\"releaseDate\":\"2017-01-10\",\"releaseTimestamp\":\"2017-01-10T15:59:56Z\"},{\"versionDisplay\":\"1.8.4\",\"releaseNotes\":\"- 新增视频直播厅功能\\n- 分享相关功能视觉优化\\n- 搜索功能优化\\n- 专题组织方式调优\\n- 海贝商城\",\"releaseDate\":\"2016-12-03\",\"releaseTimestamp\":\"2016-12-03T00:23:12Z\"},{\"versionDisplay\":\"1.7.4\",\"releaseNotes\":\"- 新闻标题、私信内容支持复制操作\\n- 推送设置优化\\n- 网络访问性能调优\\n- 多项细节体验优化\",\"releaseDate\":\"2016-01-29\",\"releaseTimestamp\":\"2016-01-29T09:38:59Z\"},{\"versionDisplay\":\"1.6.8\",\"releaseNotes\":\"- 新增阅读历史\\n- 新增话题合集\\n- 支持五个字号大小设置\\n- 多项细节体验优化\",\"releaseDate\":\"2015-12-02\",\"releaseTimestamp\":\"2015-12-02T02:30:04Z\"},{\"versionDisplay\":\"1.4.9\",\"releaseNotes\":\"- 解决1.4.8版本访问服务器不稳定的问题\\n- 更多网络性能及细节调优\",\"releaseDate\":\"2015-09-02\",\"releaseTimestamp\":\"2015-09-02T19:52:45Z\"},{\"versionDisplay\":\"1.4.8\",\"releaseNotes\":\"- 优化部分机型首页刷新慢的问题\\n- 新增问吧精选频道\\n- 新增豆瓣登录和分享\\n- 新增系统站内信\\n- 新增回复提醒\\n- 更多网络性能及细节调优\",\"releaseDate\":\"2015-09-02\",\"releaseTimestamp\":\"2015-09-02T00:30:46Z\"},{\"versionDisplay\":\"1.3.9\",\"releaseNotes\":\"- 进一步优化闪退问题\\n- 更多网络性能及细节调优\",\"releaseDate\":\"2015-07-16\",\"releaseTimestamp\":\"2015-07-16T23:41:16Z\"},{\"versionDisplay\":\"1.3.7\",\"releaseNotes\":\"- 修复部分机型升级后闪退问题\\n- 更多网络性能及细节调优\",\"releaseDate\":\"2015-07-09\",\"releaseTimestamp\":\"2015-07-09T23:34:26Z\"},{\"versionDisplay\":\"1.3.6\",\"releaseNotes\":\"- 新增夜间模式\\n- 澎湃问吧整体优化\\n- 新增问吧搜索功能\\n- 更多网络性能及细节调优\",\"releaseDate\":\"2015-07-06\",\"releaseTimestamp\":\"2015-07-06T15:22:21Z\"},{\"versionDisplay\":\"1.2.4\",\"releaseNotes\":\"- 新增问答社区——澎湃问吧\\n- 解决进入首页不能正常竖屏的问题\\n- 更多网络性能及细节调优\",\"releaseDate\":\"2015-06-02\",\"releaseTimestamp\":\"2015-06-02T23:50:22Z\"},{\"versionDisplay\":\"1.0.2\",\"releaseNotes\":\"- 修复部分闪退问题\\n- 更多网络性能及细节调优\",\"releaseDate\":\"2015-05-16\",\"releaseTimestamp\":\"2015-05-16T00:57:55Z\"},{\"versionDisplay\":\"1.0.0\",\"releaseNotes\":null,\"releaseDate\":\"2015-05-01\",\"releaseTimestamp\":\"2015-05-01T01:43:21Z\"}],\"hasPrivacyPolicyText\":false,\"supportedLocales\":[{\"name\":\"简体中文\",\"tag\":\"zh-Hans-CN\"},{\"name\":\"繁体中文\",\"tag\":\"zh-Hant-TW\"},{\"name\":\"英文\",\"tag\":\"en-US\"}],\"customAttributes\":{\"default\":{\"default\":{\"customScreenshotsByType\":{\"ipadPro_2018\":[{\"width\":2048,\"height\":2732,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/6d/7d/18/6d7d1894-f461-b6fc-21c3-96372d436f84/1a000457-8089-4459-abfc-a6fcd1c2b8e6_2048_2732_1.jpg/{w}x{h}{c}.{f}\",\"bgColor\":\"f7faff\",\"textColor1\":\"030303\",\"textColor2\":\"303031\",\"textColor3\":\"333435\",\"textColor4\":\"57585a\"},{\"width\":2048,\"height\":2732,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/27/9e/3a/279e3a08-1afc-c58e-1b49-f682bf409aef/bd277767-ced9-4da9-aaee-00fd1a81b1bf_2048_2732_2.jpg/{w}x{h}{c}.{f}\",\"bgColor\":\"f7faff\",\"textColor1\":\"020202\",\"textColor2\":\"323231\",\"textColor3\":\"333435\",\"textColor4\":\"595a5a\"},{\"width\":2048,\"height\":2732,\"url\":\"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/00/b8/ba/00b8bad7-fde1-23ec-e4c6-dc6c7ea22bec/7a550340-b90e-4161-9f62-91ac5bf080d4_2048_2732_3.jpg/{w}x{h}{c}.{f}\",\"bgColor\":\"f7faff\",\"textColor1\":\"080808\",\"textColor2\":\"332719\",\"textColor3\":\"383839\",\"textColor4\":\"5a5147\"},{\"width\":2048,\"height\":2732,\"url\":\"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/1e/80/441e80e8-653e-025a-58f1-f0ec7778a70a/2f1cf913-8df7-4b82-a49b-80c2fd24f3eb_2048_2732_4.jpg/{w}x{h}{c}.{f}\",\"bgColor\":\"f7faff\",\"textColor1\":\"1d1d1d\",\"textColor2\":\"2e2e2e\",\"textColor3\":\"48494a\",\"textColor4\":\"565758\"},{\"width\":2048,\"height\":2732,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/2a/95/3c2a95a4-f053-e703-0cf7-bb0f823e7237/ef0a2848-9283-4cda-8a45-9fa8f9925191_2048_2732_5.jpg/{w}x{h}{c}.{f}\",\"bgColor\":\"f7faff\",\"textColor1\":\"010201\",\"textColor2\":\"21272d\",\"textColor3\":\"323334\",\"textColor4\":\"4c5157\"}],\"ipadPro\":[{\"width\":2048,\"height\":2732,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/32/c3/0d/32c30da1-694b-ab59-3c80-673a21c31469/5975c33e-78ac-424e-ba2c-9ac9dd683ec1_2048_2732_1.jpg/{w}x{h}{c}.{f}\",\"bgColor\":\"f7faff\",\"textColor1\":\"030303\",\"textColor2\":\"303031\",\"textColor3\":\"333435\",\"textColor4\":\"57585a\"},{\"width\":2048,\"height\":2732,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/0b/66/f7/0b66f76c-6139-d2f0-c044-0ba700122715/348c8740-c206-4bee-94db-69d9ce87a3f3_2048_2732_2.jpg/{w}x{h}{c}.{f}\",\"bgColor\":\"f7faff\",\"textColor1\":\"020202\",\"textColor2\":\"323231\",\"textColor3\":\"333435\",\"textColor4\":\"595a5a\"},{\"width\":2048,\"height\":2732,\"url\":\"https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3d/2e/65/3d2e65f4-b0b2-5c7a-dced-fb3adf17dbcb/1ca759ae-670c-4b35-a6bf-828af5770113_2048_2732_3.jpg/{w}x{h}{c}.{f}\",\"bgColor\":\"f7faff\",\"textColor1\":\"080808\",\"textColor2\":\"332719\",\"textColor3\":\"383839\",\"textColor4\":\"5a5147\"},{\"width\":2048,\"height\":2732,\"url\":\"https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/4d/d9/2a4dd968-11ae-9e76-1522-99e97ba92e88/bc09cc50-d34d-4585-a36e-435baf92d7c0_2048_2732_4.jpg/{w}x{h}{c}.{f}\",\"bgColor\":\"f7faff\",\"textColor1\":\"1d1d1d\",\"textColor2\":\"2e2e2e\",\"textColor3\":\"48494a\",\"textColor4\":\"565758\"},{\"width\":2048,\"height\":2732,\"url\":\"https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/ad/0e/36ad0e16-aec0-7201-1d17-ae53838b93a4/39c1efbf-4eb2-4fa1-80aa-cb96f7f65d82_2048_2732_5.jpg/{w}x{h}{c}.{f}\",\"bgColor\":\"f7faff\",\"textColor1\":\"010201\",\"textColor2\":\"21272d\",\"textColor3\":\"323334\",\"textColor4\":\"4c5157\"}]}}}},\"privacyPolicyUrl\":\"https://www.thepaper.cn/privacy_cy_policy.jsp\",\"supportsGameController\":false,\"releaseDate\":\"2015-05-04\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":852021027,\"supportURLForLanguage\":\"https://www.thepaper.cn\",\"editorialArtwork\":{\"originalFlowcaseBrick\":{\"width\":3200,\"height\":600,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Features1/v4/b7/e7/72/b7e7727a-2351-4d1f-5736-db3d3a246915/source/{w}x{h}{c}.{f}\",\"bgColor\":\"055985\",\"textColor1\":\"fff7ff\",\"textColor2\":\"cbd3ff\",\"textColor3\":\"ccd7e6\",\"textColor4\":\"a3bae6\"},\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 9.0 或更高版本。兼容设备：iPad。\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"cn.thepaperHD.paper\",\"hasInAppPurchases\":true,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"© 2014 上海东方报业有限公司\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"9.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"Shanghai Dongfang Newspaper Co.Ltd\",\"isSiriSupported\":false,\"languageList\":[\"简体中文\",\"繁体中文\",\"英文\"],\"messagesScreenshots\":{},\"description\":{\"standard\":\"澎湃新闻— 一个不断进步、勇于尝试并创新的时政与思想新媒体平台。\\r\\n通俗但不庸俗，懂批评也懂建设。不激进也不保守，用热忱追寻世界的真相。\\r\\n您可能在网易新闻、腾讯新闻、看点快报、今日头条、新浪新闻、凤凰新闻、搜狐新闻、新浪微博、一点资讯、UC头条、趣头条、东方头条等各大新闻客户端上发现过澎湃新闻的原创资讯。那您应该打开澎湃新闻看看这些资讯本来的样子，并与广大澎湃用户一同参与话题讨论，享受阅读乐趣。\\r\\n产品特色：\\r\\n1、时政要闻\\r\\n澎湃新闻专注报道中国时政，动态跟踪政坛风云，解析经济时局变化；\\r\\n2、原创匠心\\r\\n澎湃原创品质保障，坚持新闻创作本心，深度调查呈现更多事件真相；\\r\\n3、思想争鸣\\r\\n澎湃新闻精于分析思想动态，紧扣脉搏普及新知，坦率争论碰撞思想；\\r\\n4、视频专区\\r\\n感受第一视角记录真实现场，实时了解最新进展，精彩专题深度剖析；\\r\\n5、澎湃号\\r\\n汇聚各领域专业创作者，湃客、政务、媒体，为您提供更丰富的优质内容；\\r\\n6、澎友圈\\r\\n聚集天下澎友精彩观点，每一次思想的碰撞，让您看世界更清一点；\\r\\n7、澎湃问吧\\r\\n明星专家澎湃入驻等您来问，专业问题明星八卦，问吧解答所有疑问；\\r\\n8、质量报告\\r\\n澎湃质量报告平台，打假除劣，破套防坑，时刻保障您的权益；\\r\\n9、澎湃早晚报\\r\\n每天早晚两次推送当天小编精选的国内外新闻大事件，与当前时事同步；\\r\\n\\r\\n================用户评价================\\r\\n@穷不穷你别怂乐正：\\r\\n超好啦，没有毫无营养的娱乐稿和见缝插针的小广告，板块划分很清楚啊，很喜欢其中关于时政方面的新闻，还可以一直追踪一个专题比较不会烂尾了啊，总之是三观超正的，个人觉得比****好，很多社论有自己独特角度，不官方。很多可以用到公务员面试中去，还摆脱了培训机构的千篇一律，希望能坚持做新闻的本心，那我就会一直支持。我非常喜欢这里面的“社论”。在这个模块，可以看到大家对一件事和自己不同的看法，然后发现：“哇！原来还有这个角度！”真的很适合我这个即将参加高考的高三狗！\\r\\n\\r\\n@EagleGorge：\\r\\n第一时间对政策和要闻的深度跟踪报道。内容很有质量，不像很多互联网媒体，大部分的不知所云的抄袭文。\\r\\n另外，新闻问答的方式非常不错，能够与权威人士进行沟通解答。\\r\\n唯一让我感动不足的就是没法关闭新闻推送时的抖动。另外针对当地的本地新闻尚显不足。\\r\\n\\r\\n再次祝福澎湃能够越办越好。\\r\\n\\r\\n@高物房老师：\\r\\n两年前，一直看其他媒体的文章，但偶然间发现，很多好的文章都来自于澎湃新闻，它们文笔优秀、态度端正、有广度又有深度。在很多媒体靠低俗的内容、爆眼球的标题而混迹于媒体界的时候，澎湃新闻像一位刚正不阿的有为青年，不随波浊流，撑起了自己的一片天。中国就缺少像澎湃新闻这样充满职业精神的好企业。澎湃加油！\\r\\n\\r\\n@毁心伤肺溪涧：\\r\\n我不明白那么好的软件为什么不是最多人用的，广告几乎没有，界面干净，没有那些乱七八糟的新闻，这就是我要的新闻。\\r\\n\\r\\n更多精彩内容等你来发现！\\r\\n\\r\\n官方微博：@澎湃新闻 http://weibo.com/thepapernewsapp\\r\\n官方微信：澎湃新闻 thepapernews\\r\\n意见反馈：support@thepaper.cn\\r\"},\"requiredCapabilities\":\"armv7 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=986646876\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=852021027\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":250463232}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=986646876\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=852021027\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":250463232}]}]}},\"hasEula\":false,\"userRating\":{\"value\":4.7,\"ratingCount\":2356,\"ratingCountList\":[91,25,86,172,1982],\"ariaLabelForRatings\":\"4.7 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"17+\",\"value\":600,\"rank\":4,\"advisories\":[\"无限制网页访问\"]}},\"name\":\"澎湃新闻HD-专注时政与思想的头条资讯阅读平台\",\"requirementsByDeviceFamily\":{\"ipad\":{\"deviceFamily\":\"iPad\",\"requirementString\":\"设备需装有 iPadOS 9.0 或更高版本。\"}},\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"新闻\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false,\"fileSizeByDevice\":{\"iPad8,12\":85672960,\"iPad8,11\":85672960,\"iPad8,10\":85672960,\"iPad7,6\":90833920,\"iPad7,5\":90833920,\"iPad7,4\":90838016,\"iPad7,3\":90838016,\"iPad7,2\":90838016,\"iPad5,4\":90833920,\"iPad3,6\":83866624,\"iPad13,10\":85672960,\"iPad7,1\":90838016,\"iPad5,3\":90833920,\"iPad3,5\":83866624,\"iPad5,2\":90833920,\"iPad3,4\":83866624,\"iPad5,1\":90833920,\"iPad3,3\":83866624,\"iPad6,11\":90833920,\"iPad6,12\":90833920,\"MacFamily20,1\":85672960,\"iPad3,2\":83866624,\"iPad3,1\":83866624,\"iPad12,1\":85668864,\"iPad12,2\":85668864,\"iPad14,1\":85672960,\"iPad14,2\":85672960,\"iPad7,12\":85668864,\"iPad13,11\":85672960,\"iPad13,17\":85672960,\"universal\":250463232,\"iPad13,16\":85672960,\"iPad8,5\":87471104,\"iPad4,9\":90833920,\"iPad6,7\":90833920,\"iPad8,4\":87471104,\"iPad4,8\":90833920,\"iPad8,3\":87471104,\"iPad4,7\":90833920,\"iPad8,2\":87471104,\"iPad11,1\":87471104,\"iPad4,6\":90833920,\"iPad6,4\":90846208,\"iPad8,1\":87471104,\"iPad4,5\":90833920,\"iPad6,3\":90846208,\"iPad2,7\":83678208,\"iPad4,4\":90833920,\"iPad2,6\":83678208,\"iPad4,3\":90833920,\"iPad2,5\":83678208,\"iPad4,2\":90833920,\"iPad2,4\":83678208,\"iPad8,9\":85672960,\"iPad8,8\":87471104,\"iPad8,7\":87471104,\"iPad8,6\":87471104,\"iPad6,8\":90833920,\"iPad7,11\":85668864,\"iPad13,8\":85672960,\"iPad13,9\":85672960,\"iPad13,4\":85672960,\"iPad11,6\":85668864,\"iPad4,1\":90833920,\"iPad2,3\":83678208,\"iPad13,5\":85672960,\"iPad11,7\":85668864,\"iPad2,2\":83678208,\"iPad13,6\":85672960,\"iPad2,1\":83678208,\"iPad13,7\":85672960,\"iPad11,2\":87471104,\"iPad13,1\":85672960,\"iPad11,3\":87471104,\"iPad11,4\":87471104,\"iPad13,2\":85672960}},\"relationships\":{\"app-events\":{\"href\":\"/v1/catalog/cn/apps/986646876/app-events?l=zh-Hans-CN\",\"data\":[]},\"reviews\":{\"href\":\"/v1/catalog/cn/apps/986646876/reviews?l=zh-Hans-CN\",\"next\":\"/v1/catalog/cn/apps/986646876/reviews?l=zh-Hans-CN\u0026offset=10\",\"data\":[{\"id\":\"2911545990\",\"type\":\"user-reviews\",\"attributes\":{\"date\":\"2018-07-15T10:23:36Z\",\"userName\":\"心快\",\"review\":\"终于找到一个正规的新闻网站了，不是那种全是广告，或者老推出啥子明星的，烦的要死。整得不错，非常有意思，很好\",\"title\":\"好\",\"rating\":5,\"isEdited\":false}},{\"id\":\"4308872202\",\"type\":\"user-reviews\",\"attributes\":{\"date\":\"2019-06-13T11:12:06Z\",\"userName\":\"不会游泳的大禹\",\"review\":\"非常纯粹的阅读软件，没有广告，没有各种乱入的娱乐八卦新闻，排版整齐，布局简洁，内容精彩纷呈！最喜欢里面的问吧板块！\\n但也有不足之处就是：1.发现有时明明登录了，想收藏下正在阅读的文章，但却一直提示未登录；2.阅读文章时无法切换日间/夜间模式、只能回到首页去设置，然后再回来找到刚才阅读的文章继续读，比较麻烦\",\"title\":\"内容精致，不二之选\",\"rating\":4,\"isEdited\":false}},{\"id\":\"4603432885\",\"type\":\"user-reviews\",\"attributes\":{\"date\":\"2019-08-11T20:23:01Z\",\"userName\":\"Li Ruo\",\"review\":\"如此优秀的新闻软件不应该输在硬件配置上，HD版比起手机版仍然流畅度不足，希望能做到最好！\",\"title\":\"优化优化再优化\",\"rating\":5,\"isEdited\":false}},{\"id\":\"4385726179\",\"type\":\"user-reviews\",\"attributes\":{\"date\":\"2019-06-29T11:08:40Z\",\"userName\":\"吃饱才有力\",\"review\":\"相比于一般新闻软件文章有深度，内容丰富，喜欢问吧栏目\",\"title\":\"优秀的新闻软件\",\"rating\":5,\"isEdited\":false}},{\"id\":\"8760009479\",\"type\":\"user-reviews\",\"attributes\":{\"date\":\"2022-06-10T13:28:14Z\",\"userName\":\"T.D.Lemons\",\"review\":\"澎湃新闻是少数几个拥有国内一类新闻媒体资质的新闻平台。\\n不像某头条，某讯新闻等那些标题党骗流量的无良平台(他们最高只有二类资质）。\\n澎湃新闻有质量，有内容。必须好评！望继续保持，再接再厉\",\"title\":\"真正的新闻\",\"rating\":5,\"isEdited\":false}},{\"id\":\"4328050742\",\"type\":\"user-reviews\",\"attributes\":{\"date\":\"2019-06-17T03:28:36Z\",\"userName\":\"JoneWee\",\"review\":\"内容很新，也有独特见解，这个新闻和央视新闻人民日报新闻差不多，推荐安装哦。\",\"title\":\"没有标题党\",\"rating\":5,\"isEdited\":false}},{\"id\":\"8343861183\",\"type\":\"user-reviews\",\"attributes\":{\"date\":\"2022-02-11T14:45:07Z\",\"userName\":\"……v…v…v\",\"review\":\"我第一次看见没有广告的新闻，简洁的画面让人眼前一亮\",\"title\":\"简洁清爽\",\"rating\":5,\"isEdited\":false}},{\"id\":\"7913923293\",\"type\":\"user-reviews\",\"attributes\":{\"date\":\"2021-10-14T14:05:51Z\",\"userName\":\"😉zacharyzzzzzzz\",\"review\":\"页面UI设计的很棒，但是点击右上角三条横线处，查看登录状态时会出现闪退状况，望尽快修复\",\"title\":\"很不错，仍需整改\",\"rating\":4,\"isEdited\":false,\"developerResponse\":{\"id\":26226682,\"body\":\"尊敬的澎湃用户您好，目前相关闪退以及UI优化方面，已经上线全新版本，请尝试更新后进行体验，感谢您对澎湃的支持与关注；\",\"modified\":\"2021-11-12T05:48:59Z\"}}},{\"id\":\"4450681737\",\"type\":\"user-reviews\",\"attributes\":{\"date\":\"2019-07-13T01:38:43Z\",\"userName\":\"drew1328\",\"review\":\"点击侧边分类栏 总是闪退\",\"title\":\"内容不错 但为什么总是闪退呢\",\"rating\":5,\"isEdited\":false}},{\"id\":\"9109282429\",\"type\":\"user-reviews\",\"attributes\":{\"date\":\"2022-09-22T07:13:53Z\",\"userName\":\"GKPFT\",\"review\":\"当初下载澎湃就是因为看上了他的简洁，希望澎湃也尽快出一个简介版本\",\"title\":\"更新之后的版本阅读体验很差\",\"rating\":3,\"isEdited\":false}}]},\"top-in-apps\":{\"href\":\"/v1/catalog/cn/apps/986646876/top-in-apps?l=zh-Hans-CN\",\"data\":[{\"id\":\"1587869574\",\"type\":\"in-apps\",\"href\":\"/v1/catalog/cn/in-apps/1587869574?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/app/%E8%B5%9E%E8%B5%8F%E6%94%AF%E6%8C%816%E5%85%83/id986646876\",\"icuLocale\":\"zh_CN@currency=CNY\",\"isMerchandisedEnabled\":false,\"isFamilyShareable\":false,\"offerName\":\"cn.thepaperHD.paper_tipping_6\",\"releaseDate\":\"2009-06-17\",\"name\":\"赞赏支持6元\",\"isMerchandisedVisibleByDefault\":false,\"isSubscription\":false,\"description\":{\"standard\":\"对原创新闻进行赞赏支持，金额6元\"},\"offers\":[{\"buyParams\":\"productType=A\u0026price=6000\u0026salableAdamId=1587869574\u0026pricingParameters=STDQ\u0026pg=default\",\"type\":\"buy\",\"priceFormatted\":\"¥6.00\",\"price\":6,\"currencyCode\":\"CNY\",\"assets\":[]}]}},{\"id\":\"1587868617\",\"type\":\"in-apps\",\"href\":\"/v1/catalog/cn/in-apps/1587868617?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/app/%E8%B5%9E%E8%B5%8F%E6%94%AF%E6%8C%8188%E5%85%83/id986646876\",\"icuLocale\":\"zh_CN@currency=CNY\",\"isMerchandisedEnabled\":false,\"isFamilyShareable\":false,\"offerName\":\"cn.thepaperHD.paper_tipping_88\",\"releaseDate\":\"2009-06-17\",\"name\":\"赞赏支持88元\",\"isMerchandisedVisibleByDefault\":false,\"isSubscription\":false,\"description\":{\"standard\":\"对原创新闻进行赞赏支持，金额88元\"},\"offers\":[{\"buyParams\":\"productType=A\u0026price=88000\u0026salableAdamId=1587868617\u0026pricingParameters=STDQ\u0026pg=default\",\"type\":\"buy\",\"priceFormatted\":\"¥88.00\",\"price\":88,\"currencyCode\":\"CNY\",\"assets\":[]}]}},{\"id\":\"1587870960\",\"type\":\"in-apps\",\"href\":\"/v1/catalog/cn/in-apps/1587870960?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/app/%E8%B5%9E%E8%B5%8F%E6%94%AF%E6%8C%8112%E5%85%83/id986646876\",\"icuLocale\":\"zh_CN@currency=CNY\",\"isMerchandisedEnabled\":false,\"isFamilyShareable\":false,\"offerName\":\"cn.thepaperHD.paper_tipping_12\",\"releaseDate\":\"2009-06-17\",\"name\":\"赞赏支持12元\",\"isMerchandisedVisibleByDefault\":false,\"isSubscription\":false,\"description\":{\"standard\":\"对原创新闻进行赞赏支持，金额12元\"},\"offers\":[{\"buyParams\":\"productType=A\u0026price=12000\u0026salableAdamId=1587870960\u0026pricingParameters=STDQ\u0026pg=default\",\"type\":\"buy\",\"priceFormatted\":\"¥12.00\",\"price\":12,\"currencyCode\":\"CNY\",\"assets\":[]}]}},{\"id\":\"1587880994\",\"type\":\"in-apps\",\"href\":\"/v1/catalog/cn/in-apps/1587880994?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/app/%E8%B5%9E%E8%B5%8F%E6%94%AF%E6%8C%8118%E5%85%83/id986646876\",\"icuLocale\":\"zh_CN@currency=CNY\",\"isMerchandisedEnabled\":false,\"isFamilyShareable\":false,\"offerName\":\"cn.thepaperHD.paper_tipping_18\",\"releaseDate\":\"2009-06-17\",\"name\":\"赞赏支持18元\",\"isMerchandisedVisibleByDefault\":false,\"isSubscription\":false,\"description\":{\"standard\":\"对原创新闻进行赞赏支持，金额18元\"},\"offers\":[{\"buyParams\":\"productType=A\u0026price=18000\u0026salableAdamId=1587880994\u0026pricingParameters=STDQ\u0026pg=default\",\"type\":\"buy\",\"priceFormatted\":\"¥18.00\",\"price\":18,\"currencyCode\":\"CNY\",\"assets\":[]}]}},{\"id\":\"1587882035\",\"type\":\"in-apps\",\"href\":\"/v1/catalog/cn/in-apps/1587882035?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/app/%E8%B5%9E%E8%B5%8F%E6%94%AF%E6%8C%8130%E5%85%83/id986646876\",\"icuLocale\":\"zh_CN@currency=CNY\",\"isMerchandisedEnabled\":false,\"isFamilyShareable\":false,\"offerName\":\"cn.thepaperHD.paper_tipping_30\",\"releaseDate\":\"2009-06-17\",\"name\":\"赞赏支持30元\",\"isMerchandisedVisibleByDefault\":false,\"isSubscription\":false,\"description\":{\"standard\":\"对原创新闻进行赞赏支持，金额30元\"},\"offers\":[{\"buyParams\":\"productType=A\u0026price=30000\u0026salableAdamId=1587882035\u0026pricingParameters=STDQ\u0026pg=default\",\"type\":\"buy\",\"priceFormatted\":\"¥30.00\",\"price\":30,\"currencyCode\":\"CNY\",\"assets\":[]}]}},{\"id\":\"1587883032\",\"type\":\"in-apps\",\"href\":\"/v1/catalog/cn/in-apps/1587883032?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/app/%E8%B5%9E%E8%B5%8F%E6%94%AF%E6%8C%81218%E5%85%83/id986646876\",\"icuLocale\":\"zh_CN@currency=CNY\",\"isMerchandisedEnabled\":false,\"isFamilyShareable\":false,\"offerName\":\"cn.thepaperHD.paper_tipping_218\",\"releaseDate\":\"2009-06-17\",\"name\":\"赞赏支持218元\",\"isMerchandisedVisibleByDefault\":false,\"isSubscription\":false,\"description\":{\"standard\":\"对原创新闻进行赞赏支持，金额218元\"},\"offers\":[{\"buyParams\":\"productType=A\u0026price=218000\u0026salableAdamId=1587883032\u0026pricingParameters=STDQ\u0026pg=default\",\"type\":\"buy\",\"priceFormatted\":\"¥218.00\",\"price\":218,\"currencyCode\":\"CNY\",\"assets\":[]}]}},{\"id\":\"1587884861\",\"type\":\"in-apps\",\"href\":\"/v1/catalog/cn/in-apps/1587884861?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/app/6%E5%B8%81/id986646876\",\"icuLocale\":\"zh_CN@currency=CNY\",\"isMerchandisedEnabled\":false,\"isFamilyShareable\":false,\"offerName\":\"cn.thepaperHD.paper_coin_6\",\"releaseDate\":\"2009-06-17\",\"name\":\"6币\",\"isMerchandisedVisibleByDefault\":false,\"isSubscription\":false,\"description\":{\"standard\":\"6币\"},\"offers\":[{\"buyParams\":\"productType=A\u0026price=6000\u0026salableAdamId=1587884861\u0026pricingParameters=STDQ\u0026pg=default\",\"type\":\"buy\",\"priceFormatted\":\"¥6.00\",\"price\":6,\"currencyCode\":\"CNY\",\"assets\":[]}]}},{\"id\":\"1588035797\",\"type\":\"in-apps\",\"href\":\"/v1/catalog/cn/in-apps/1588035797?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/app/30%E5%B8%81/id986646876\",\"icuLocale\":\"zh_CN@currency=CNY\",\"isMerchandisedEnabled\":false,\"isFamilyShareable\":false,\"offerName\":\"cn.thepaperHD.paper_coin_30\",\"releaseDate\":\"2009-06-17\",\"name\":\"30币\",\"isMerchandisedVisibleByDefault\":false,\"isSubscription\":false,\"description\":{\"standard\":\"30币\"},\"offers\":[{\"buyParams\":\"productType=A\u0026price=30000\u0026salableAdamId=1588035797\u0026pricingParameters=STDQ\u0026pg=default\",\"type\":\"buy\",\"priceFormatted\":\"¥30.00\",\"price\":30,\"currencyCode\":\"CNY\",\"assets\":[]}]}},{\"id\":\"1588040612\",\"type\":\"in-apps\",\"href\":\"/v1/catalog/cn/in-apps/1588040612?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/app/88%E5%B8%81/id986646876\",\"icuLocale\":\"zh_CN@currency=CNY\",\"isMerchandisedEnabled\":false,\"isFamilyShareable\":false,\"offerName\":\"cn.thepaperHD.paper_coin_88\",\"releaseDate\":\"2009-06-17\",\"name\":\"88币\",\"isMerchandisedVisibleByDefault\":false,\"isSubscription\":false,\"description\":{\"standard\":\"88币\"},\"offers\":[{\"buyParams\":\"productType=A\u0026price=88000\u0026salableAdamId=1588040612\u0026pricingParameters=STDQ\u0026pg=default\",\"type\":\"buy\",\"priceFormatted\":\"¥88.00\",\"price\":88,\"currencyCode\":\"CNY\",\"assets\":[]}]}},{\"id\":\"1588041966\",\"type\":\"in-apps\",\"href\":\"/v1/catalog/cn/in-apps/1588041966?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/app/198%E5%B8%81/id986646876\",\"icuLocale\":\"zh_CN@currency=CNY\",\"isMerchandisedEnabled\":false,\"isFamilyShareable\":false,\"offerName\":\"cn.thepaperHD.paper_coin_198\",\"releaseDate\":\"2009-06-17\",\"name\":\"198币\",\"isMerchandisedVisibleByDefault\":false,\"isSubscription\":false,\"description\":{\"standard\":\"198币\"},\"offers\":[{\"buyParams\":\"productType=A\u0026price=198000\u0026salableAdamId=1588041966\u0026pricingParameters=STDQ\u0026pg=default\",\"type\":\"buy\",\"priceFormatted\":\"¥198.00\",\"price\":198,\"currencyCode\":\"CNY\",\"assets\":[]}]}}]},\"developer-other-apps\":{\"href\":\"/v1/catalog/cn/apps/986646876/developer-other-apps?l=zh-Hans-CN\",\"data\":[{\"id\":\"878962716\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/878962716?l=zh-Hans-CN\"},{\"id\":\"1462612037\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/1462612037?l=zh-Hans-CN\"}]},\"related-editorial-items\":{\"href\":\"/v1/catalog/cn/apps/986646876/related-editorial-items?l=zh-Hans-CN\",\"data\":[]},\"customers-also-bought-apps\":{\"href\":\"/v1/catalog/cn/apps/986646876/customers-also-bought-apps?l=zh-Hans-CN\",\"next\":\"/v1/catalog/cn/apps/986646876/customers-also-bought-apps?l=zh-Hans-CN\u0026offset=11\",\"data\":[{\"id\":\"333953812\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/333953812?l=zh-Hans-CN\"},{\"id\":\"1538717280\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/1538717280?l=zh-Hans-CN\"},{\"id\":\"543129405\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/543129405?l=zh-Hans-CN\"},{\"id\":\"503499363\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/503499363?l=zh-Hans-CN\"},{\"id\":\"930342070\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/930342070?l=zh-Hans-CN\"},{\"id\":\"370704734\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/370704734?l=zh-Hans-CN\"},{\"id\":\"391959946\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/391959946?l=zh-Hans-CN\"},{\"id\":\"435046252\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/435046252?l=zh-Hans-CN\"},{\"id\":\"1495298786\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/1495298786?l=zh-Hans-CN\"},{\"id\":\"951457811\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/951457811?l=zh-Hans-CN\"}],\"meta\":{\"metrics\":{\"reco_hash\":\"cab_1\",\"reco_eligible\":\"1\",\"reco_algoId\":\"cab_1\"}}},\"developer\":{\"href\":\"/v1/catalog/cn/apps/986646876/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"878962721\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/878962721?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://apps.apple.com/cn/developer/%E4%B8%8A%E6%B5%B7%E4%B8%9C%E6%96%B9%E6%8A%A5%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id878962721\",\"genreNames\":[],\"mediaType\":\"Mobile Software Applications\",\"editorialArtwork\":{},\"name\":\"上海东方报业有限公司\"}}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/986646876/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6009\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6009?l=zh-Hans-CN\",\"attributes\":{\"parentName\":\"App Store\",\"name\":\"新闻\",\"parentId\":\"36\",\"url\":\"https://itunes.apple.com/cn/genre/id6009\"}},{\"id\":\"6005\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6005?l=zh-Hans-CN\",\"attributes\":{\"parentName\":\"App Store\",\"name\":\"社交\",\"parentId\":\"36\",\"url\":\"https://itunes.apple.com/cn/genre/id6005\"}}]},\"merchandised-in-apps\":{\"href\":\"/v1/catalog/cn/apps/986646876/merchandised-in-apps?l=zh-Hans-CN\",\"data\":[]}}}]}",".v1.catalog.cn.apps.l.zh-cn.ids.1495298786.2c1538717280.2c333953812.2c370704734.2c391959946.2c435046252.2c503499363.2c543129405.2c930342070.2c951457811.platform.web.additionalplatforms.appletv.2cipad.2ciphone.2cmac.sparselimit.10":"{\"x\":1667483520758,\"d\":[{\"id\":\"1495298786\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/1495298786?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"Phoenix Satellite Television App Limited\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E9%B3%B3%E5%87%B0%E7%A7%80hd-%E6%A5%B5%E9%80%9F%E9%AB%94%E9%A9%97%E7%89%88/id1495298786\",\"isIOSBinaryMacOSCompatible\":true,\"reviewsRestricted\":false,\"deviceFamilies\":[\"ipad\"],\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ca/01/f4/ca01f457-f52e-1a89-9e35-1e4262360f90/AppIcon-0-0-1x_U007emarketing-0-0-5-0-0-85-220.png/{w}x{h}{c}.{f}\",\"bgColor\":\"ffffff\",\"textColor1\":\"0f0c06\",\"textColor2\":\"110e07\",\"textColor3\":\"3f3d38\",\"textColor4\":\"403e39\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":false,\"supportedLocales\":[{\"name\":\"英文\",\"tag\":\"en-US\"}],\"supportsGameController\":false,\"releaseDate\":\"2020-01-22\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":835220883,\"editorialArtwork\":{\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 9.0 或更高版本。兼容设备：iPad Air、iPad Air Wi‑Fi + 蜂窝网络、iPad mini 2、iPad mini 2 Wi‑Fi + 蜂窝网络、iPad Air 2、iPad Air 2 Wi‑Fi + 蜂窝网络、iPad mini 3、iPad mini 3 Wi‑Fi + 蜂窝网络、iPad mini 4、iPad mini 4 Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络、9.7 英寸 iPad Pro、9.7 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第五代）、iPad（第五代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第二代）、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络（第二代）、10.5 英寸 iPad Pro、10.5 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第六代）、iPad（第六代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro、11 英寸 iPad Pro Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第三代）、12.9 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、iPad mini（第五代）、iPad mini（第五代）Wi‑Fi + 蜂窝网络、iPad Air（第三代）、iPad Air（第三代）Wi‑Fi + 蜂窝网络、iPad（第七代）、iPad（第七代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第二代）、11 英寸 iPad Pro（第二代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第四代）、12.9 英寸 iPad Pro（第四代）Wi‑Fi + 蜂窝网络、iPad Air（第四代）、iPad Air（第四代）Wi‑Fi + 蜂窝网络、iPad（第八代）、iPad（第八代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第三代）、11 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第五代）、12.9 英寸 iPad Pro（第五代）Wi‑Fi + 蜂窝网络、iPad mini（第六代）、iPad mini（第六代）无线局域网 + 蜂窝网络、iPad（第九代）、iPad（第九代）无线局域网 + 蜂窝网络、iPad Air（第五代）、iPad Air（第五代）Wi‑Fi + 蜂窝网络、iPad（第十代）、iPad（第十代）无线局域网 + 蜂窝网络、11 英寸 iPad Pro（第四代）、11 英寸 iPad Pro（第四代）无线局域网 + 蜂窝网络、12.9 英寸 iPad Pro（第六代）、12.9 英寸 iPad Pro（第六代）无线局域网 + 蜂窝网络。\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.phoenixtv.fengshowsIpad\",\"hasInAppPurchases\":false,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"© 版權歸鳳凰衛視集團所有\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"9.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"Phoenix Satellite Television App Limited\",\"isSiriSupported\":false,\"languageList\":[\"英文\"],\"requiredCapabilities\":\"arm64 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=1495298786\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=835220883\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":51449856}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=1495298786\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=835220883\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":51449856}]}]}},\"hasEula\":false,\"userRating\":{\"value\":3.5,\"ratingCount\":97,\"ratingCountList\":[22,5,14,10,46],\"ariaLabelForRatings\":\"3.5 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"12+\",\"value\":300,\"rank\":3,\"advisories\":[\"偶尔/轻微的成人或性暗示题材\",\"偶尔/轻微的卡通或幻想暴力\",\"偶尔/轻微的医药或医疗信息\",\"偶尔/轻微的烟酒或毒品使用或相关内容\",\"偶尔/轻微的现实暴力\"]}},\"name\":\"鳳凰秀HD-極速體驗版\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"新闻\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/1495298786/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"1376435872\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/1376435872?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/1495298786/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6009\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6009?l=zh-Hans-CN\",\"attributes\":{\"name\":\"新闻\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6009\",\"parentId\":\"36\"}}]}}},{\"id\":\"1538717280\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/1538717280?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"NetEase Media Technology (Beijing) Co., Ltd.\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BBhd/id1538717280\",\"isIOSBinaryMacOSCompatible\":false,\"reviewsRestricted\":false,\"deviceFamilies\":[\"ipad\"],\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/3d/ef/93/3def93ab-ef03-3ced-4760-b1ac5c9d297f/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/{w}x{h}{c}.{f}\",\"bgColor\":\"b40000\",\"textColor1\":\"ffffff\",\"textColor2\":\"fde2e2\",\"textColor3\":\"efcbcb\",\"textColor4\":\"eeb5b5\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":false,\"supportedLocales\":[{\"name\":\"简体中文\",\"tag\":\"zh-Hans-CN\"},{\"name\":\"英文\",\"tag\":\"en-US\"}],\"supportsGameController\":false,\"releaseDate\":\"2020-12-13\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":841150978,\"editorialArtwork\":{\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 9.0 或更高版本。兼容设备：iPad。\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.netease.newshd\",\"hasInAppPurchases\":false,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"©2011-2021 网易公司版权所有\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"9.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"NetEase Media Technology (Beijing) Co., Ltd.\",\"isSiriSupported\":false,\"languageList\":[\"简体中文\",\"英文\"],\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=1538717280\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=841150978\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":80267264}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=1538717280\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=841150978\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":80267264}]}]}},\"hasEula\":false,\"userRating\":{\"value\":3.5,\"ratingCount\":66,\"ratingCountList\":[18,5,2,6,35],\"ariaLabelForRatings\":\"3.5 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"4+\",\"value\":100,\"rank\":1}},\"name\":\"网易新闻HD\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"生活\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/1538717280/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"910462528\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/910462528?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/1538717280/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6012\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6012?l=zh-Hans-CN\",\"attributes\":{\"name\":\"生活\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6012\",\"parentId\":\"36\"}}]}}},{\"id\":\"333953812\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/333953812?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"Guangdong Southern Weekly New Media Co., Ltd.\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E6%9C%80%E5%8F%AF%E4%BF%A1%E8%B5%96%E7%9A%84%E6%96%B0%E9%97%BB/id333953812\",\"isIOSBinaryMacOSCompatible\":false,\"reviewsRestricted\":false,\"deviceFamilies\":[\"iphone\",\"ipad\",\"ipod\"],\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/a0/11/a6a01152-d09b-6be9-b33c-ebca6c7a13c6/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/{w}x{h}{c}.{f}\",\"bgColor\":\"ffffff\",\"textColor1\":\"550f11\",\"textColor2\":\"58191b\",\"textColor3\":\"773f41\",\"textColor4\":\"794749\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":true,\"supportedLocales\":[],\"supportsGameController\":false,\"releaseDate\":\"2009-10-27\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":852987436,\"editorialArtwork\":{\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 10.0 或更高版本。兼容设备：iPhone 5S、iPhone 6、iPhone 6 Plus、iPhone 6S、iPhone 6S Plus、iPhone SE（第一代）、iPhone 7、iPhone 7 Plus、iPhone 8、iPhone 8 Plus、iPhone X、iPhone XS、iPhone XS Max、iPhone XR、iPhone 11、iPhone 11 Pro、iPhone 11 Pro Max、iPhone SE（第二代）、iPhone 12 mini、iPhone 12、iPhone 12 Pro、iPhone 12 Pro Max、iPhone 13 Pro、iPhone 13 Pro Max、iPhone 13 mini、iPhone 13、iPhone SE（第三代）、iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max、iPad Air、iPad Air Wi‑Fi + 蜂窝网络、iPad mini 2、iPad mini 2 Wi‑Fi + 蜂窝网络、iPad Air 2、iPad Air 2 Wi‑Fi + 蜂窝网络、iPad mini 3、iPad mini 3 Wi‑Fi + 蜂窝网络、iPad mini 4、iPad mini 4 Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络、9.7 英寸 iPad Pro、9.7 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第五代）、iPad（第五代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第二代）、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络（第二代）、10.5 英寸 iPad Pro、10.5 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第六代）、iPad（第六代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro、11 英寸 iPad Pro Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第三代）、12.9 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、iPad mini（第五代）、iPad mini（第五代）Wi‑Fi + 蜂窝网络、iPad Air（第三代）、iPad Air（第三代）Wi‑Fi + 蜂窝网络、iPad（第七代）、iPad（第七代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第二代）、11 英寸 iPad Pro（第二代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第四代）、12.9 英寸 iPad Pro（第四代）Wi‑Fi + 蜂窝网络、iPad Air（第四代）、iPad Air（第四代）Wi‑Fi + 蜂窝网络、iPad（第八代）、iPad（第八代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第三代）、11 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第五代）、12.9 英寸 iPad Pro（第五代）Wi‑Fi + 蜂窝网络、iPad mini（第六代）、iPad mini（第六代）无线局域网 + 蜂窝网络、iPad（第九代）、iPad（第九代）无线局域网 + 蜂窝网络、iPad Air（第五代）、iPad Air（第五代）Wi‑Fi + 蜂窝网络、iPad（第十代）、iPad（第十代）无线局域网 + 蜂窝网络、11 英寸 iPad Pro（第四代）、11 英寸 iPad Pro（第四代）无线局域网 + 蜂窝网络、12.9 英寸 iPad Pro（第六代）、12.9 英寸 iPad Pro（第六代）无线局域网 + 蜂窝网络、iPod touch。\",\"subtitle\":\"在这里，读懂中国\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.infzm.Infzm\",\"hasInAppPurchases\":true,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"© 2022 iNFZM.com\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"10.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"Guangdong Southern Weekly New Media Co., Ltd.\",\"isSiriSupported\":false,\"languageList\":[],\"requiredCapabilities\":\"arm64 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=333953812\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=852987436\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":255869952}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=333953812\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=852987436\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":255869952}]}]}},\"hasEula\":false,\"userRating\":{\"value\":3.8,\"ratingCount\":936,\"ratingCountList\":[182,56,73,118,507],\"ariaLabelForRatings\":\"3.8 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"4+\",\"value\":100,\"rank\":1}},\"name\":\"南方周末-最可信赖的新闻\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"新闻\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/333953812/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"333953815\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/333953815?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/333953812/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6009\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6009?l=zh-Hans-CN\",\"attributes\":{\"name\":\"新闻\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6009\",\"parentId\":\"36\"}},{\"id\":\"6016\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6016?l=zh-Hans-CN\",\"attributes\":{\"name\":\"娱乐\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6016\",\"parentId\":\"36\"}}]}}},{\"id\":\"370704734\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/370704734?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"Guangdong Southern Weekly New Media Co., Ltd.\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB%E7%94%B5%E5%AD%90%E6%8A%A5/id370704734\",\"isIOSBinaryMacOSCompatible\":false,\"reviewsRestricted\":false,\"deviceFamilies\":[\"iphone\",\"ipad\",\"ipod\"],\"chartPositions\":{\"appStore\":{\"position\":52,\"genreName\":\"报刊杂志\",\"genre\":6021,\"chart\":\"top-free\",\"chartLink\":\"https://apps.apple.com/cn/charts/iphone/%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97-apps/6021\"}},\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/7f/ca/12/7fca1299-fdf9-7a4b-c95b-72bf468951ba/AppIcon-1x_U007emarketing-0-6-0-85-220.png/{w}x{h}{c}.{f}\",\"bgColor\":\"ffffff\",\"textColor1\":\"040404\",\"textColor2\":\"54060b\",\"textColor3\":\"363636\",\"textColor4\":\"76383c\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":false,\"supportedLocales\":[{\"name\":\"英文\",\"tag\":\"en-US\"}],\"supportsGameController\":false,\"releaseDate\":\"2010-05-24\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":844606436,\"editorialArtwork\":{\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 8.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。\",\"subtitle\":\"newsstand\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.infzm.ireaderforipad\",\"hasInAppPurchases\":true,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"© 2015 iNFZM.COM\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"8.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"Guangdong Southern Weekly New Media Co., Ltd.\",\"isSiriSupported\":false,\"languageList\":[\"英文\"],\"requiredCapabilities\":\"armv7 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=370704734\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=844606436\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":35891200}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=370704734\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=844606436\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":35891200}]}]}},\"hasEula\":false,\"userRating\":{\"value\":4.1,\"ratingCount\":1126,\"ratingCountList\":[162,33,57,158,716],\"ariaLabelForRatings\":\"4.1 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"4+\",\"value\":100,\"rank\":1}},\"name\":\"南方周末电子报\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"新闻\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/370704734/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"333953815\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/333953815?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/370704734/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6009\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6009?l=zh-Hans-CN\",\"attributes\":{\"name\":\"新闻\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6009\",\"parentId\":\"36\"}},{\"id\":\"6021\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6021?l=zh-Hans-CN\",\"attributes\":{\"name\":\"报刊杂志\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6021\",\"parentId\":\"36\"}}]}}},{\"id\":\"391959946\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/391959946?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"Caixin Media Co., Ltd\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E8%B4%A2%E6%96%B0%E5%91%A8%E5%88%8A/id391959946\",\"isIOSBinaryMacOSCompatible\":true,\"reviewsRestricted\":false,\"deviceFamilies\":[\"iphone\",\"ipad\",\"ipod\"],\"chartPositions\":{\"appStore\":{\"position\":44,\"genreName\":\"报刊杂志\",\"genre\":6021,\"chart\":\"top-free\",\"chartLink\":\"https://apps.apple.com/cn/charts/iphone/%E6%8A%A5%E5%88%8A%E6%9D%82%E5%BF%97-apps/6021\"}},\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/08/af/84/08af8460-ea49-a386-8677-57262015bbec/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/{w}x{h}{c}.{f}\",\"bgColor\":\"1f276f\",\"textColor1\":\"ffffff\",\"textColor2\":\"b1b6e0\",\"textColor3\":\"d2d3e2\",\"textColor4\":\"9499c9\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":false,\"supportedLocales\":[{\"name\":\"简体中文\",\"tag\":\"zh-Hans-CN\"}],\"supportsGameController\":false,\"releaseDate\":\"2010-12-18\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":837956359,\"editorialArtwork\":{\"originalFlowcaseBrick\":{\"width\":3200,\"height\":600,\"url\":\"https://is4-ssl.mzstatic.com/image/thumb/Features7/v4/1b/b9/7f/1bb97f4b-d030-55b0-c5c8-22e0cf1ba076/source/{w}x{h}{c}.{f}\",\"bgColor\":\"18153e\",\"textColor1\":\"ffffff\",\"textColor2\":\"00f2e2\",\"textColor3\":\"d0d0d8\",\"textColor4\":\"04c6c1\"},\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 9.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。\",\"subtitle\":\"你最需要的财经新闻\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.caixin.magazineapp\",\"hasInAppPurchases\":true,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"Copyright © 2022 Caixin Media. All rights reserved.\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"9.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"Caixin Media Co., Ltd\",\"isSiriSupported\":false,\"languageList\":[\"简体中文\"],\"requiredCapabilities\":\"armv7 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=391959946\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=837956359\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":103110656}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=391959946\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=837956359\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":103110656}]}]}},\"hasEula\":false,\"userRating\":{\"value\":3.8,\"ratingCount\":1013,\"ratingCountList\":[203,50,65,138,557],\"ariaLabelForRatings\":\"3.8 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"17+\",\"value\":600,\"rank\":4,\"advisories\":[\"无限制网页访问\"]}},\"name\":\"财新周刊\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"报刊杂志\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/391959946/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"356023615\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/356023615?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/391959946/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6021\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6021?l=zh-Hans-CN\",\"attributes\":{\"name\":\"报刊杂志\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6021\",\"parentId\":\"36\"}}]}}},{\"id\":\"435046252\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/435046252?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"Beijing Guangming Daily Office\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E5%85%89%E6%98%8E%E6%97%A5%E6%8A%A5-%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%8E%8C%E4%B8%8A%E7%B2%BE%E7%A5%9E%E5%AE%B6%E5%9B%AD/id435046252\",\"isIOSBinaryMacOSCompatible\":true,\"reviewsRestricted\":false,\"deviceFamilies\":[\"iphone\",\"ipad\",\"ipod\"],\"chartPositions\":{\"appStore\":{\"position\":125,\"genreName\":\"图书\",\"genre\":6018,\"chart\":\"top-free\",\"chartLink\":\"https://apps.apple.com/cn/charts/iphone/%E5%9B%BE%E4%B9%A6-apps/6018\"}},\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/12/b8/19/12b81977-6954-262a-c572-88d5d9a3a17e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/{w}x{h}{c}.{f}\",\"bgColor\":\"ffffff\",\"textColor1\":\"290000\",\"textColor2\":\"610609\",\"textColor3\":\"543333\",\"textColor4\":\"80383a\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":false,\"supportedLocales\":[{\"name\":\"简体中文\",\"tag\":\"zh-Hans-CN\"},{\"name\":\"英文\",\"tag\":\"en-US\"}],\"supportsGameController\":false,\"releaseDate\":\"2011-05-13\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":852197728,\"editorialArtwork\":{\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 10.0 或更高版本。兼容设备：iPhone 5S、iPhone 6、iPhone 6 Plus、iPhone 6S、iPhone 6S Plus、iPhone SE（第一代）、iPhone 7、iPhone 7 Plus、iPhone 8、iPhone 8 Plus、iPhone X、iPhone XS、iPhone XS Max、iPhone XR、iPhone 11、iPhone 11 Pro、iPhone 11 Pro Max、iPhone SE（第二代）、iPhone 12 mini、iPhone 12、iPhone 12 Pro、iPhone 12 Pro Max、iPhone 13 Pro、iPhone 13 Pro Max、iPhone 13 mini、iPhone 13、iPhone SE（第三代）、iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max、iPad Air、iPad Air Wi‑Fi + 蜂窝网络、iPad mini 2、iPad mini 2 Wi‑Fi + 蜂窝网络、iPad Air 2、iPad Air 2 Wi‑Fi + 蜂窝网络、iPad mini 3、iPad mini 3 Wi‑Fi + 蜂窝网络、iPad mini 4、iPad mini 4 Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络、9.7 英寸 iPad Pro、9.7 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第五代）、iPad（第五代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第二代）、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络（第二代）、10.5 英寸 iPad Pro、10.5 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第六代）、iPad（第六代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro、11 英寸 iPad Pro Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第三代）、12.9 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、iPad mini（第五代）、iPad mini（第五代）Wi‑Fi + 蜂窝网络、iPad Air（第三代）、iPad Air（第三代）Wi‑Fi + 蜂窝网络、iPad（第七代）、iPad（第七代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第二代）、11 英寸 iPad Pro（第二代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第四代）、12.9 英寸 iPad Pro（第四代）Wi‑Fi + 蜂窝网络、iPad Air（第四代）、iPad Air（第四代）Wi‑Fi + 蜂窝网络、iPad（第八代）、iPad（第八代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第三代）、11 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第五代）、12.9 英寸 iPad Pro（第五代）Wi‑Fi + 蜂窝网络、iPad mini（第六代）、iPad mini（第六代）无线局域网 + 蜂窝网络、iPad（第九代）、iPad（第九代）无线局域网 + 蜂窝网络、iPad Air（第五代）、iPad Air（第五代）Wi‑Fi + 蜂窝网络、iPad（第十代）、iPad（第十代）无线局域网 + 蜂窝网络、11 英寸 iPad Pro（第四代）、11 英寸 iPad Pro（第四代）无线局域网 + 蜂窝网络、12.9 英寸 iPad Pro（第六代）、12.9 英寸 iPad Pro（第六代）无线局域网 + 蜂窝网络、iPod touch。\",\"subtitle\":\"思想文化大报，知识分子精神家园\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.gmw.gmwgmym\",\"hasInAppPurchases\":false,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"© 光明日报社\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"10.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"Beijing Guangming Daily Office\",\"isSiriSupported\":false,\"languageList\":[\"简体中文\",\"英文\"],\"requiredCapabilities\":\"arm64 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=435046252\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=852197728\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":80356352}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=435046252\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=852197728\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":80356352}]}]}},\"hasEula\":false,\"userRating\":{\"value\":4.6,\"ratingCount\":191,\"ratingCountList\":[7,8,8,17,151],\"ariaLabelForRatings\":\"4.6 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"4+\",\"value\":100,\"rank\":1}},\"name\":\"光明日报-知识分子掌上精神家园\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"图书\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/435046252/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"1499032273\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/1499032273?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/435046252/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6018\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6018?l=zh-Hans-CN\",\"attributes\":{\"name\":\"图书\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6018\",\"parentId\":\"36\"}}]}}},{\"id\":\"503499363\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/503499363?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"三联生活周刊\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A-hd/id503499363\",\"isIOSBinaryMacOSCompatible\":true,\"reviewsRestricted\":false,\"deviceFamilies\":[\"ipad\"],\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/f0/ef/a4/f0efa469-93be-a4d3-222b-6fe408cf5585/mzl.vsqqqlqj.png/{w}x{h}{c}.{f}\",\"bgColor\":\"ffffff\",\"textColor1\":\"151111\",\"textColor2\":\"5d080c\",\"textColor3\":\"444141\",\"textColor4\":\"7d393d\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":false,\"supportedLocales\":[{\"name\":\"简体中文\",\"tag\":\"zh-Hans-CN\"}],\"supportsGameController\":false,\"releaseDate\":\"2012-02-24\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":841407354,\"editorialArtwork\":{\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 9.0 或更高版本。兼容设备：iPad。\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.vcread.00100223\",\"hasInAppPurchases\":true,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"© Inforgence Group\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"9.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"LIFEWEEK\",\"isSiriSupported\":false,\"languageList\":[\"简体中文\"],\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=503499363\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=841407354\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":39558144}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=503499363\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=841407354\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":39558144}]}]}},\"hasEula\":false,\"userRating\":{\"value\":4.3,\"ratingCount\":128,\"ratingCountList\":[13,5,6,12,92],\"ariaLabelForRatings\":\"4.3 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"4+\",\"value\":100,\"rank\":1}},\"name\":\"三联生活周刊 HD\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"报刊杂志\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/503499363/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"492015249\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/492015249?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/503499363/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6021\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6021?l=zh-Hans-CN\",\"attributes\":{\"name\":\"报刊杂志\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6021\",\"parentId\":\"36\"}}]}}},{\"id\":\"543129405\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/543129405?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"People's Daily Digital Communication Co., Ltd\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5hd/id543129405\",\"isIOSBinaryMacOSCompatible\":true,\"reviewsRestricted\":false,\"deviceFamilies\":[\"ipad\"],\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/99/9c/0f999c96-6765-83cf-e5a7-e07a5d3c3815/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/{w}x{h}{c}.{f}\",\"bgColor\":\"99181f\",\"textColor1\":\"fdfefa\",\"textColor2\":\"eefffe\",\"textColor3\":\"e9d0ce\",\"textColor4\":\"ddd0d1\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":true,\"supportedLocales\":[{\"name\":\"简体中文\",\"tag\":\"zh-Hans-CN\"}],\"supportsGameController\":false,\"releaseDate\":\"2012-08-01\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":852060042,\"editorialArtwork\":{\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 11.0 或更高版本。兼容设备：iPad。\",\"subtitle\":\"阅读高清党报，传播中国观点\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.vcread.00100258\",\"hasInAppPurchases\":false,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"© People's Daily Digital Communication Co., Ltd.\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"11.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"People's Daily Digital Communication Co., Ltd.\",\"isSiriSupported\":false,\"languageList\":[\"简体中文\"],\"requiredCapabilities\":\"arm64 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=543129405\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=852060042\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":95098880}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=543129405\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=852060042\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":95098880}]}]}},\"hasEula\":false,\"userRating\":{\"value\":3.9,\"ratingCount\":1279,\"ratingCountList\":[179,74,137,201,688],\"ariaLabelForRatings\":\"3.9 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"4+\",\"value\":100,\"rank\":1}},\"name\":\"人民日报HD\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"新闻\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/543129405/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"505059673\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/505059673?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/543129405/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6009\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6009?l=zh-Hans-CN\",\"attributes\":{\"name\":\"新闻\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6009\",\"parentId\":\"36\"}},{\"id\":\"6006\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6006?l=zh-Hans-CN\",\"attributes\":{\"name\":\"参考资料\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6006\",\"parentId\":\"36\"}}]}}},{\"id\":\"930342070\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/930342070?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"Shanghai Jiemian CLS Technologies Co., Ltd.\",\"firstVersionSupportingInAppPurchaseApi\":\"7.4.0.17\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E7%95%8C%E9%9D%A2%E6%96%B0%E9%97%BB-%E5%8E%9F%E5%88%9B%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E9%A2%86%E8%B7%91%E8%80%85/id930342070\",\"isIOSBinaryMacOSCompatible\":false,\"reviewsRestricted\":false,\"deviceFamilies\":[\"iphone\",\"ipad\",\"ipod\"],\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/56/e0/35/56e03574-6f1a-36c0-9655-c18d56b95c29/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/{w}x{h}{c}.{f}\",\"bgColor\":\"bc1c00\",\"textColor1\":\"ffffff\",\"textColor2\":\"fee0dd\",\"textColor3\":\"f1d1cb\",\"textColor4\":\"f0b9b1\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":false,\"supportedLocales\":[{\"name\":\"简体中文\",\"tag\":\"zh-Hans-CN\"},{\"name\":\"英文\",\"tag\":\"en-US\"}],\"supportsGameController\":false,\"releaseDate\":\"2014-11-18\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":852066491,\"editorialArtwork\":{\"storeFlowcase\":{\"width\":4320,\"height\":1080,\"url\":\"https://is1-ssl.mzstatic.com/image/thumb/Features30/v4/1e/b9/71/1eb9716a-3825-5662-056b-627130a5a2d5/source/{w}x{h}{c}.{f}\",\"bgColor\":\"ac2323\",\"textColor1\":\"ffffff\",\"textColor2\":\"f6e9e9\",\"textColor3\":\"eed3d3\",\"textColor4\":\"e7c1c1\"},\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 9.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。\",\"subtitle\":\"只服务于独立思考的人群\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.jiemian.news\",\"hasInAppPurchases\":true,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"© 界面（上海）网络科技有限公司\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"9.0\",\"hasFamilyShareableInAppPurchases\":false,\"editorialNotes\":{\"tagline\":\"原创新闻  深度解析\"},\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"Shanghai Jiemian CLS Technologies Co., Ltd.\",\"isSiriSupported\":false,\"languageList\":[\"简体中文\",\"英文\"],\"requiredCapabilities\":\"armv7 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=930342070\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=852066491\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":184701952}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=930342070\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=852066491\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":184701952}]}]}},\"hasEula\":false,\"userRating\":{\"value\":4.6,\"ratingCount\":4991,\"ratingCountList\":[214,111,168,570,3928],\"ariaLabelForRatings\":\"4.6 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"17+\",\"value\":600,\"rank\":4,\"advisories\":[\"偶尔/轻微的成人或性暗示题材\",\"偶尔/轻微的卡通或幻想暴力\",\"无限制网页访问\",\"频繁/强烈的亵渎或低俗幽默\",\"偶尔/轻微的色情内容或裸露\"]}},\"name\":\"界面新闻-原创财经新闻领跑者\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"新闻\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/930342070/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"930342069\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/930342069?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/930342070/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6009\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6009?l=zh-Hans-CN\",\"attributes\":{\"name\":\"新闻\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6009\",\"parentId\":\"36\"}},{\"id\":\"6000\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6000?l=zh-Hans-CN\",\"attributes\":{\"name\":\"商务\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6000\",\"parentId\":\"36\"}}]}}},{\"id\":\"951457811\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/951457811?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"The Economist\",\"firstVersionSupportingInAppPurchaseApi\":\"2.5.0\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA-%E5%95%86%E8%AE%BA/id951457811\",\"isIOSBinaryMacOSCompatible\":false,\"reviewsRestricted\":false,\"deviceFamilies\":[\"iphone\",\"ipad\",\"ipod\"],\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/51/75/05/51750567-cdea-2539-1dc6-5fa0cf17b92f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/{w}x{h}{c}.{f}\",\"bgColor\":\"b50500\",\"textColor1\":\"ffffff\",\"textColor2\":\"f99996\",\"textColor3\":\"f0cdcb\",\"textColor4\":\"eb7b78\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":false,\"supportedLocales\":[{\"name\":\"简体中文\",\"tag\":\"zh-Hans-CN\"},{\"name\":\"繁体中文\",\"tag\":\"zh-Hant-TW\"},{\"name\":\"英文\",\"tag\":\"en-US\"}],\"supportsGameController\":false,\"releaseDate\":\"2015-03-30\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":850810978,\"editorialArtwork\":{\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 12.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.economist.hummingbird\",\"hasInAppPurchases\":true,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"Copyright © The Economist Newspaper Limited 2021\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"12.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"The Economist Newspaper Group Inc.\",\"isSiriSupported\":false,\"languageList\":[\"简体中文\",\"繁体中文\",\"英文\"],\"requiredCapabilities\":\"arm64 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=951457811\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=850810978\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":47214592}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=951457811\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=850810978\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":47214592}]}]}},\"hasEula\":false,\"userRating\":{\"value\":4.9,\"ratingCount\":32113,\"ratingCountList\":[287,121,411,1938,29356],\"ariaLabelForRatings\":\"4.9 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"4+\",\"value\":100,\"rank\":1}},\"name\":\"经济学人·商论\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"新闻\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/951457811/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"358769478\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/358769478?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/951457811/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6009\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6009?l=zh-Hans-CN\",\"attributes\":{\"name\":\"新闻\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6009\",\"parentId\":\"36\"}},{\"id\":\"6000\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6000?l=zh-Hans-CN\",\"attributes\":{\"name\":\"商务\",\"parentName\":\"App Store\",\"url\":\"https://itunes.apple.com/cn/genre/id6000\",\"parentId\":\"36\"}}]}}}]}",".v1.catalog.cn.apps.l.zh-cn.ids.1462612037.2c878962716.platform.web.additionalplatforms.appletv.2cipad.2ciphone.2cmac.sparselimit.10":"{\"x\":1667483520786,\"d\":[{\"id\":\"1462612037\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/1462612037?l=zh-Hans-CN\",\"attributes\":{\"artistName\":\"上海东方报业有限公司\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/sixth-tone/id1462612037\",\"isIOSBinaryMacOSCompatible\":false,\"reviewsRestricted\":false,\"deviceFamilies\":[\"iphone\",\"ipod\"],\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/92/38/4c/92384c05-ebb3-58c8-1bd5-d678814210a8/AppIcon-1x_U007emarketing-0-4-0-0-85-220.png/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"ffffff\",\"textColor2\":\"c5c5c5\",\"textColor3\":\"cbcbcb\",\"textColor4\":\"9e9e9e\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":false,\"supportedLocales\":[{\"name\":\"简体中文\",\"tag\":\"zh-Hans-CN\"},{\"name\":\"繁体中文\",\"tag\":\"zh-Hant-TW\"},{\"name\":\"英文\",\"tag\":\"en-US\"}],\"supportsGameController\":false,\"releaseDate\":\"2019-07-30\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":848013352,\"editorialArtwork\":{\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 9.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。\",\"subtitle\":\"English news from China\",\"isDeliveredInIOSAppForWatchOS\":false,\"bundleId\":\"com.thepaper.sixthtone\",\"hasInAppPurchases\":false,\"isAppleWatchSupported\":false,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"copyright\":\"© 2019 Shanghai Dongfang Newspaper Co.Ltd\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"9.0\",\"hasFamilyShareableInAppPurchases\":false,\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"Shanghai Dongfang Newspaper Co.Ltd\",\"isSiriSupported\":false,\"languageList\":[\"简体中文\",\"繁体中文\",\"英文\"],\"requiredCapabilities\":\"armv7 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=1462612037\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=848013352\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":28282880}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=1462612037\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=848013352\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":28282880}]}]}},\"hasEula\":false,\"userRating\":{\"value\":4.8,\"ratingCount\":1484,\"ratingCountList\":[15,3,28,100,1338],\"ariaLabelForRatings\":\"4.8 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"17+\",\"value\":600,\"rank\":4,\"advisories\":[\"偶尔/轻微的卡通或幻想暴力\",\"无限制网页访问\",\"偶尔/轻微的烟酒或毒品使用或相关内容\",\"偶尔/轻微的医药或医疗信息\",\"偶尔/轻微的亵渎或低俗幽默\"]}},\"name\":\"Sixth Tone\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"生活\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/1462612037/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"878962721\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/878962721?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/1462612037/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6012\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6012?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://itunes.apple.com/cn/genre/id6012\",\"parentName\":\"App Store\",\"parentId\":\"36\",\"name\":\"生活\"}}]}}},{\"id\":\"878962716\",\"type\":\"apps\",\"href\":\"/v1/catalog/cn/apps/878962716?l=zh-Hans-CN\",\"attributes\":{\"minimumWatchOSVersion\":\"2.0\",\"artistName\":\"上海东方报业有限公司\",\"familyShareEnabledDate\":\"0001-04-23T00:00:00Z\",\"url\":\"https://apps.apple.com/cn/app/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%97%B6%E6%94%BF%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF/id878962716\",\"isIOSBinaryMacOSCompatible\":false,\"reviewsRestricted\":false,\"deviceFamilies\":[\"watch\",\"iphone\",\"ipod\"],\"isPreorder\":false,\"platformAttributes\":{\"ios\":{\"requires32bit\":false,\"artwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/97/60/9f9760c4-7f01-d670-4696-6f19d2632505/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/{w}x{h}{c}.{f}\",\"bgColor\":\"ffffff\",\"textColor1\":\"000000\",\"textColor2\":\"1f1f1f\",\"textColor3\":\"333333\",\"textColor4\":\"4c4c4c\"},\"hasMessagesExtension\":false,\"hasPrivacyPolicyText\":true,\"supportedLocales\":[{\"name\":\"简体中文\",\"tag\":\"zh-Hans-CN\"},{\"name\":\"繁体中文\",\"tag\":\"zh-Hant-TW\"},{\"name\":\"英文\",\"tag\":\"en-AU\"}],\"supportsGameController\":false,\"releaseDate\":\"2014-07-22\",\"hasSafariExtension\":false,\"minimumMacOSVersion\":\"11.0\",\"externalVersionId\":852369717,\"editorialArtwork\":{\"originalFlowcaseBrick\":{\"width\":3200,\"height\":600,\"url\":\"https://is4-ssl.mzstatic.com/image/thumb/Features7/v4/0d/ba/f8/0dbaf800-7450-165e-07ce-769ab9750211/source/{w}x{h}{c}.{f}\",\"bgColor\":\"025a85\",\"textColor1\":\"ffffff\",\"textColor2\":\"bedcf8\",\"textColor3\":\"ccdde6\",\"textColor4\":\"98c2e1\"},\"storeFlowcase\":{\"width\":4320,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features118/v4/cf/98/56/cf985650-ddbe-a32c-5d13-56b72c68457a/source/{w}x{h}{c}.{f}\",\"bgColor\":\"255277\",\"textColor1\":\"ffffff\",\"textColor2\":\"85c5f9\",\"textColor3\":\"d3dce3\",\"textColor4\":\"71aedf\"},\"subscriptionHero\":{\"width\":4320,\"height\":1080,\"url\":\"https://is3-ssl.mzstatic.com/image/thumb/Features126/v4/13/83/7d/13837da5-0f62-9c00-a6d0-d0224dac684e/source/{w}x{h}{c}.{f}\",\"bgColor\":\"1a100e\",\"textColor1\":\"cca973\",\"textColor2\":\"bea07b\",\"textColor3\":\"a3855c\",\"textColor4\":\"977e61\"},\"brandLogo\":{\"width\":1080,\"height\":1080,\"url\":\"https://is5-ssl.mzstatic.com/image/thumb/Features124/v4/af/06/cc/af06cc3e-2499-62ba-8f60-0fe3e13a1e6b/source/{w}x{h}{c}.{f}\",\"bgColor\":\"000000\",\"textColor1\":\"f2f2f2\",\"textColor2\":\"e5e5e5\",\"textColor3\":\"c1c1c1\",\"textColor4\":\"b7b7b7\"}},\"requirementsString\":\"系统要求：iOS 9.0 和 watchOS 2.0 或更高版本。兼容设备：iPhone 5S、iPhone 6、iPhone 6 Plus、iPhone 6S、iPhone 6S Plus、iPhone SE（第一代）、iPhone 7、iPhone 7 Plus、iPhone 8、iPhone 8 Plus、iPhone X、iPhone XS、iPhone XS Max、iPhone XR、iPhone 11、iPhone 11 Pro、iPhone 11 Pro Max、iPhone SE（第二代）、iPhone 12 mini、iPhone 12、iPhone 12 Pro、iPhone 12 Pro Max、iPhone 13 Pro、iPhone 13 Pro Max、iPhone 13 mini、iPhone 13、iPhone SE（第三代）、iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max、iPad Air、iPad Air Wi‑Fi + 蜂窝网络、iPad mini 2、iPad mini 2 Wi‑Fi + 蜂窝网络、iPad Air 2、iPad Air 2 Wi‑Fi + 蜂窝网络、iPad mini 3、iPad mini 3 Wi‑Fi + 蜂窝网络、iPad mini 4、iPad mini 4 Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络、9.7 英寸 iPad Pro、9.7 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第五代）、iPad（第五代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第二代）、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络（第二代）、10.5 英寸 iPad Pro、10.5 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第六代）、iPad（第六代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro、11 英寸 iPad Pro Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第三代）、12.9 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、iPad mini（第五代）、iPad mini（第五代）Wi‑Fi + 蜂窝网络、iPad Air（第三代）、iPad Air（第三代）Wi‑Fi + 蜂窝网络、iPad（第七代）、iPad（第七代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第二代）、11 英寸 iPad Pro（第二代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第四代）、12.9 英寸 iPad Pro（第四代）Wi‑Fi + 蜂窝网络、iPad Air（第四代）、iPad Air（第四代）Wi‑Fi + 蜂窝网络、iPad（第八代）、iPad（第八代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第三代）、11 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第五代）、12.9 英寸 iPad Pro（第五代）Wi‑Fi + 蜂窝网络、iPad mini（第六代）、iPad mini（第六代）无线局域网 + 蜂窝网络、iPad（第九代）、iPad（第九代）无线局域网 + 蜂窝网络、iPad Air（第五代）、iPad Air（第五代）Wi‑Fi + 蜂窝网络、iPad（第十代）、iPad（第十代）无线局域网 + 蜂窝网络、11 英寸 iPad Pro（第四代）、11 英寸 iPad Pro（第四代）无线局域网 + 蜂窝网络、12.9 英寸 iPad Pro（第六代）、12.9 英寸 iPad Pro（第六代）无线局域网 + 蜂窝网络、iPod touch（第六代）、iPod touch（第七代）。\",\"subtitle\":\"专注时政与思想的新闻资讯全媒体平台\",\"isDeliveredInIOSAppForWatchOS\":true,\"bundleId\":\"cn.thepaper.paper\",\"hasInAppPurchases\":true,\"isAppleWatchSupported\":true,\"isStandaloneForWatchOS\":false,\"supportsPassbook\":false,\"circularArtwork\":{\"width\":1024,\"height\":1024,\"url\":\"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/d3/54/cad354f6-7cbe-ffad-e2f6-754a29a89a91/AppIcon-1x_U007emarketing-0-9-0-0-85-220.png/{w}x{h}{c}.{f}\",\"bgColor\":\"ffffff\",\"textColor1\":\"000000\",\"textColor2\":\"1f1f1f\",\"textColor3\":\"333333\",\"textColor4\":\"4c4c4c\"},\"copyright\":\"© 2014 上海东方报业有限公司\",\"requiresGameController\":false,\"isHiddenFromSpringboard\":false,\"isGameCenterEnabled\":false,\"minimumOSVersion\":\"9.0\",\"hasFamilyShareableInAppPurchases\":false,\"editorialNotes\":{\"name\":\"澎湃新闻\",\"tagline\":\"纪录片《平原上的“乐园”》\"},\"is32bitOnly\":false,\"isStandaloneWithCompanionForWatchOS\":false,\"seller\":\"Shanghai Dongfang Newspaper Co.Ltd\",\"isSiriSupported\":false,\"languageList\":[\"简体中文\",\"繁体中文\",\"英文\"],\"requiredCapabilities\":\"arm64 \",\"offers\":[{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=878962716\u0026pricingParameters=STDQ\u0026pg=default\u0026appExtVrsId=852369717\",\"type\":\"get\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":227558400}]},{\"buyParams\":\"productType=C\u0026price=0\u0026salableAdamId=878962716\u0026pricingParameters=SWUPD\u0026pg=default\u0026appExtVrsId=852369717\",\"type\":\"update\",\"priceFormatted\":\"¥0.00\",\"price\":0,\"currencyCode\":\"CNY\",\"assets\":[{\"flavor\":\"iosSoftware\",\"size\":227558400}]}]}},\"hasEula\":false,\"watchBundleId\":\"cn.thepaper.paper.watchkitapp\",\"userRating\":{\"value\":4.8,\"ratingCount\":200825,\"ratingCountList\":[2730,1257,3811,13551,179476],\"ariaLabelForRatings\":\"4.8 星\"},\"contentRatingsBySystem\":{\"appsApple\":{\"name\":\"17+\",\"value\":600,\"rank\":4,\"advisories\":[\"无限制网页访问\"]}},\"name\":\"澎湃新闻-时政新闻资讯\",\"sellerLabel\":\"供应商\",\"supportsArcade\":false,\"genreDisplayName\":\"新闻\",\"isFirstPartyHideableApp\":false,\"usesLocationBackgroundMode\":false},\"relationships\":{\"developer\":{\"href\":\"/v1/catalog/cn/apps/878962716/developer?l=zh-Hans-CN\",\"data\":[{\"id\":\"878962721\",\"type\":\"developers\",\"href\":\"/v1/catalog/cn/developers/878962721?l=zh-Hans-CN\"}]},\"genres\":{\"href\":\"/v1/catalog/cn/apps/878962716/genres?l=zh-Hans-CN\",\"data\":[{\"id\":\"6009\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6009?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://itunes.apple.com/cn/genre/id6009\",\"parentName\":\"App Store\",\"parentId\":\"36\",\"name\":\"新闻\"}},{\"id\":\"6005\",\"type\":\"genres\",\"href\":\"/v1/catalog/cn/genres/6005?l=zh-Hans-CN\",\"attributes\":{\"url\":\"https://itunes.apple.com/cn/genre/id6005\",\"parentName\":\"App Store\",\"parentId\":\"36\",\"name\":\"社交\"}}]}}}]}"}{"nav":"\u003caside id=\"ac-gn-segmentbar\" class=\"ac-gn-segmentbar\" lang=\"zh-CN\" dir=\"ltr\" data-strings=\"{ \u0026apos;exit\u0026apos;: \u0026apos;\u0026#x9000;\u0026#x51FA;\u0026#x5546;\u0026#x5E97;\u0026apos;, \u0026apos;view\u0026apos;: \u0026apos;{%STOREFRONT%}\u0026#x5546;\u0026#x5E97;\u0026#x9996;\u0026#x9875;\u0026apos;, \u0026apos;segments\u0026apos;: { \u0026apos;smb\u0026apos;: \u0026apos;\u0026#x4F01;\u0026#x4E1A;\u0026#x5546;\u0026#x5E97;\u0026#x9996;\u0026#x9875;\u0026apos;, \u0026apos;eduInd\u0026apos;: \u0026apos;\u0026#x6559;\u0026#x80B2;\u0026#x5546;\u0026#x5E97;\u0026#x9996;\u0026#x9875;\u0026apos;, \u0026apos;other\u0026apos;: \u0026apos;\u0026#x5546;\u0026#x5E97;\u0026#x9996;\u0026#x9875;\u0026apos; } }\"\u003e\u003c/aside\u003e\n\u003cinput type=\"checkbox\" id=\"ac-gn-menustate\" class=\"ac-gn-menustate\"\u003e\n\u003cnav id=\"ac-globalnav\" class=\"no-js\" role=\"navigation\" aria-label=\"\u0026#x5168;\u0026#x90E8;\u0026#x7F51;\u0026#x7AD9;\" data-hires=\"false\" data-analytics-region=\"global nav\" lang=\"zh-CN\" dir=\"ltr\" data-www-domain=\"www.apple.com.cn\" data-store-locale=\"cn\" data-store-root-path=\"/\" data-store-api=\"https://www.apple.com.cn/shop/bag/status\" data-search-locale=\"zh_CN\" data-search-suggestions-api=\"https://www.apple.com.cn/search-services/suggestions/\" data-search-defaultlinks-api=\"https://www.apple.com.cn/search-services/suggestions/defaultlinks/\"\u003e\n\t\u003cdiv class=\"ac-gn-content\"\u003e\n\t\t\u003cul class=\"ac-gn-header\"\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-menuicon\"\u003e\n\t\t\t\t\u003ca href=\"#ac-gn-menustate\" role=\"button\" class=\"ac-gn-menuanchor ac-gn-menuanchor-open\" id=\"ac-gn-menuanchor-open\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-menuanchor-label\"\u003eGlobal Nav \u0026#x6253;\u0026#x5F00;\u0026#x83DC;\u0026#x5355;\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\t\u003ca href=\"#\" role=\"button\" class=\"ac-gn-menuanchor ac-gn-menuanchor-close\" id=\"ac-gn-menuanchor-close\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-menuanchor-label\"\u003eGlobal Nav \u0026#x5173;\u0026#x95ED;\u0026#x83DC;\u0026#x5355;\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\t\u003clabel class=\"ac-gn-menuicon-label\" for=\"ac-gn-menustate\" aria-hidden=\"true\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-menuicon-bread ac-gn-menuicon-bread-top\"\u003e\n\t\t\t\t\t\t\u003cspan class=\"ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top\"\u003e\u003c/span\u003e\n\t\t\t\t\t\u003c/span\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom\"\u003e\n\t\t\t\t\t\t\u003cspan class=\"ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom\"\u003e\u003c/span\u003e\n\t\t\t\t\t\u003c/span\u003e\n\t\t\t\t\u003c/label\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-apple\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-apple\" href=\"https://www.apple.com.cn/\" data-analytics-title=\"apple home\" id=\"ac-gn-firstfocus-small\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003eApple\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-bag ac-gn-bag-small\" id=\"ac-gn-bag-small\"\u003e\n\t\t\t\t\u003cdiv class=\"ac-gn-bag-wrapper\"\u003e\n\t\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-bag\" href=\"https://www.apple.com.cn/cn/shop/goto/bag\" data-analytics-title=\"bag\" data-analytics-click=\"bag\" aria-label=\"\u0026#x8D2D;\u0026#x7269;\u0026#x888B;\" data-string-badge=\"\u0026#x8D2D;\u0026#x7269;\u0026#x888B;\u0026#x4E2D;\u0026#x7684;\u0026#x5546;\u0026#x54C1;\u0026#x6570;\u0026#x91CF;\u0026#xFF1A;\u0026#x4EF6;\"\u003e\n\t\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003e\u0026#x8D2D;\u0026#x7269;\u0026#x888B;\u003c/span\u003e\n\t\t\t\t\t\u003c/a\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-bag-badge\" aria-hidden=\"true\" data-analytics-title=\"bag\" data-analytics-click=\"bag\"\u003e\n\t\t\t\t\t\t\u003cspan class=\"ac-gn-bag-badge-separator\"\u003e\u003c/span\u003e\n\t\t\t\t\t\t\u003cspan class=\"ac-gn-bag-badge-number\"\u003e\u003c/span\u003e\n\t\t\t\t\t\t\u003cspan class=\"ac-gn-bag-badge-unit\"\u003e+\u003c/span\u003e\n\t\t\t\t\t\u003c/span\u003e\n\t\t\t\t\u003c/div\u003e\n\t\t\t\t\u003cspan class=\"ac-gn-bagview-caret ac-gn-bagview-caret-large\"\u003e\u003c/span\u003e\n\t\t\t\u003c/li\u003e\n\t\t\u003c/ul\u003e\n\t\t\u003cdiv class=\"ac-gn-search-placeholder-container\" role=\"search\"\u003e\n\t\t\t\u003cdiv class=\"ac-gn-search ac-gn-search-small\"\u003e\n\t\t\t\t\u003ca id=\"ac-gn-link-search-small\" class=\"ac-gn-link\" href=\"https://www.apple.com.cn/search\" data-analytics-title=\"search\" data-analytics-intrapage-link aria-label=\"\u0026#x641C;\u0026#x7D22; apple.com.cn\"\u003e\n\t\t\t\t\t\u003cdiv class=\"ac-gn-search-placeholder-bar\"\u003e\n\t\t\t\t\t\t\u003cdiv class=\"ac-gn-search-placeholder-input\"\u003e\n\t\t\t\t\t\t\t\u003cdiv class=\"ac-gn-search-placeholder-input-text\" aria-hidden=\"true\"\u003e\n\t\t\t\t\t\t\t\t\u003cdiv class=\"ac-gn-link-search ac-gn-search-placeholder-input-icon\"\u003e\u003c/div\u003e\n\t\t\t\t\t\t\t\t\u003cspan class=\"ac-gn-search-placeholder\"\u003e\u0026#x641C;\u0026#x7D22; apple.com.cn\u003c/span\u003e\n\t\t\t\t\t\t\t\u003c/div\u003e\n\t\t\t\t\t\t\u003c/div\u003e\n\t\t\t\t\t\t\u003cdiv class=\"ac-gn-searchview-close ac-gn-searchview-close-small ac-gn-search-placeholder-searchview-close\"\u003e\n\t\t\t\t\t\t\t\u003cspan class=\"ac-gn-searchview-close-cancel\" aria-hidden=\"true\"\u003e\u0026#x53D6;\u0026#x6D88;\u003c/span\u003e\n\t\t\t\t\t\t\u003c/div\u003e\n\t\t\t\t\t\u003c/div\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/div\u003e\n\t\t\u003c/div\u003e\n\t\t\u003cul class=\"ac-gn-list\"\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-apple\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-apple\" href=\"https://www.apple.com.cn/\" data-analytics-title=\"apple home\" id=\"ac-gn-firstfocus\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003eApple\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-store\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-store\" href=\"https://www.apple.com.cn/cn/shop/goto/store\" data-analytics-title=\"store\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003e\u0026#x5546;\u0026#x5E97;\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-mac\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-mac\" href=\"https://www.apple.com.cn/mac/\" data-analytics-title=\"mac\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003eMac\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-ipad\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-ipad\" href=\"https://www.apple.com.cn/ipad/\" data-analytics-title=\"ipad\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003eiPad\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-iphone\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-iphone\" href=\"https://www.apple.com.cn/iphone/\" data-analytics-title=\"iphone\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003eiPhone\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-watch\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-watch\" href=\"https://www.apple.com.cn/watch/\" data-analytics-title=\"watch\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003eWatch\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-airpods\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-airpods\" href=\"https://www.apple.com.cn/airpods/\" data-analytics-title=\"airpods\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003eAirPods\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-home\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-home\" href=\"https://www.apple.com.cn/apple-home/\" data-analytics-title=\"home\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003e\u0026#x5BB6;\u0026#x5C45;\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-onlyonapple\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-onlyonapple\" href=\"https://www.apple.com.cn/services/\" data-analytics-title=\"only on apple\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003eApple \u0026#x72EC;\u0026#x5BB6;\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-accessories\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-accessories\" href=\"https://www.apple.com.cn/cn/shop/goto/buy_accessories\" data-analytics-title=\"accessories\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003e\u0026#x914D;\u0026#x4EF6;\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-support\"\u003e\n\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-support\" href=\"https://support.apple.com/zh-cn\" data-analytics-title=\"support\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003e\u0026#x6280;\u0026#x672F;\u0026#x652F;\u0026#x6301;\u003c/span\u003e\n\t\t\t\t\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-item-menu ac-gn-search\" role=\"search\"\u003e\n\t\t\t\t\u003ca id=\"ac-gn-link-search\" class=\"ac-gn-link ac-gn-link-search\" href=\"https://www.apple.com.cn/search\" data-analytics-title=\"search\" data-analytics-intrapage-link aria-label=\"\u0026#x641C;\u0026#x7D22; apple.com.cn\"\u003e\u003c/a\u003e\n\t\t\t\u003c/li\u003e\n\t\t\t\u003cli class=\"ac-gn-item ac-gn-bag\" id=\"ac-gn-bag\"\u003e\n\t\t\t\t\u003cdiv class=\"ac-gn-bag-wrapper\"\u003e\n\t\t\t\t\t\u003ca class=\"ac-gn-link ac-gn-link-bag\" href=\"https://www.apple.com.cn/cn/shop/goto/bag\" data-analytics-title=\"bag\" data-analytics-click=\"bag\" aria-label=\"\u0026#x8D2D;\u0026#x7269;\u0026#x888B;\" data-string-badge=\"\u0026#x8D2D;\u0026#x7269;\u0026#x888B;\u0026#x4E2D;\u0026#x7684;\u0026#x5546;\u0026#x54C1;\u0026#x6570;\u0026#x91CF;\u0026#xFF1A;{%BAGITEMCOUNT%}\u0026#x4EF6;\"\u003e\n\t\t\t\t\t\t\u003cspan class=\"ac-gn-link-text\"\u003e\u0026#x8D2D;\u0026#x7269;\u0026#x888B;\u003c/span\u003e\n\t\t\t\t\t\u003c/a\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-bag-badge\" aria-hidden=\"true\" data-analytics-title=\"bag\" data-analytics-click=\"bag\"\u003e\n\t\t\t\t\t\t\u003cspan class=\"ac-gn-bag-badge-separator\"\u003e\u003c/span\u003e\n\t\t\t\t\t\t\u003cspan class=\"ac-gn-bag-badge-number\"\u003e\u003c/span\u003e\n\t\t\t\t\t\t\u003cspan class=\"ac-gn-bag-badge-unit\"\u003e+\u003c/span\u003e\n\t\t\t\t\t\u003c/span\u003e\n\t\t\t\t\u003c/div\u003e\n\t\t\t\t\u003cspan class=\"ac-gn-bagview-caret ac-gn-bagview-caret-large\"\u003e\u003c/span\u003e\n\t\t\t\u003c/li\u003e\n\t\t\u003c/ul\u003e\n\t\t\u003caside id=\"ac-gn-searchview\" class=\"ac-gn-searchview\" role=\"search\" data-analytics-region=\"search\"\u003e\n\t\t\t\u003cdiv class=\"ac-gn-searchview-content\"\u003e\n\t\t\t\t\u003cdiv class=\"ac-gn-searchview-bar\"\u003e\n\t\t\t\t\t\u003cdiv class=\"ac-gn-searchview-bar-wrapper\"\u003e\n\t\t\t\t\t\t\u003cform id=\"ac-gn-searchform\" class=\"ac-gn-searchform\" action=\"https://www.apple.com.cn/search\" method=\"get\"\u003e\n\t\t\t\t\t\t\t\u003cdiv class=\"ac-gn-searchform-wrapper\"\u003e\n\t\t\t\t\t\t\t\t\u003cinput id=\"ac-gn-searchform-input\" class=\"ac-gn-searchform-input\" type=\"text\" aria-label=\"\u0026#x641C;\u0026#x7D22; apple.com.cn\" placeholder=\"\u0026#x641C;\u0026#x7D22; apple.com.cn\" autocorrect=\"off\" autocapitalize=\"off\" autocomplete=\"off\" spellcheck=\"false\" role=\"combobox\" aria-autocomplete=\"list\" aria-expanded=\"true\" aria-owns=\"quicklinks suggestions\"\u003e\n\t\t\t\t\t\t\t\t\u003cinput id=\"ac-gn-searchform-src\" type=\"hidden\" name=\"src\" value=\"itunes_serp\"\u003e\n\t\t\t\t\t\t\t\t\u003cbutton id=\"ac-gn-searchform-submit\" class=\"ac-gn-searchform-submit\" type=\"submit\" disabled aria-label=\"\u0026#x63D0;\u0026#x4EA4;\u0026#x641C;\u0026#x7D22;\"\u003e \u003c/button\u003e\n\t\t\t\t\t\t\t\t\u003cbutton id=\"ac-gn-searchform-reset\" class=\"ac-gn-searchform-reset\" type=\"reset\" disabled aria-label=\"\u0026#x6E05;\u0026#x9664;\u0026#x641C;\u0026#x7D22;\"\u003e\n\t\t\t\t\t\t\t\t\t\u003cspan class=\"ac-gn-searchform-reset-background\"\u003e\u003c/span\u003e\n\t\t\t\t\t\t\t\t\u003c/button\u003e\n\t\t\t\t\t\t\t\u003c/div\u003e\n\t\t\t\t\t\t\u003c/form\u003e\n\t\t\t\t\t\t\u003cbutton id=\"ac-gn-searchview-close-small\" class=\"ac-gn-searchview-close ac-gn-searchview-close-small\" aria-label=\"\u0026#x53D6;\u0026#x6D88;\u0026#x641C;\u0026#x7D22;\"\u003e\n\t\t\t\t\t\t\t\u003cspan class=\"ac-gn-searchview-close-cancel\" aria-hidden=\"true\"\u003e\n\t\t\t\t\t\t\t\t\u0026#x53D6;\u0026#x6D88;\n\t\t\t\t\t\t\t\u003c/span\u003e\n\t\t\t\t\t\t\u003c/button\u003e\n\t\t\t\t\t\u003c/div\u003e\n\t\t\t\t\u003c/div\u003e\n\t\t\t\t\u003caside id=\"ac-gn-searchresults\" class=\"ac-gn-searchresults\" data-string-quicklinks=\"\u0026#x5FEB;\u0026#x901F;\u0026#x94FE;\u0026#x63A5;\" data-string-suggestions=\"\u0026#x641C;\u0026#x7D22;\u0026#x7ED3;\u0026#x679C;\u0026#x5EFA;\u0026#x8BAE;\" data-string-noresults\u003e\u003c/aside\u003e\n\t\t\t\u003c/div\u003e\n\t\t\t\u003cbutton id=\"ac-gn-searchview-close\" class=\"ac-gn-searchview-close\" aria-label=\"\u0026#x53D6;\u0026#x6D88;\u0026#x641C;\u0026#x7D22;\"\u003e\n\t\t\t\t\u003cspan class=\"ac-gn-searchview-close-wrapper\"\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-searchview-close-left\"\u003e\u003c/span\u003e\n\t\t\t\t\t\u003cspan class=\"ac-gn-searchview-close-right\"\u003e\u003c/span\u003e\n\t\t\t\t\u003c/span\u003e\n\t\t\t\u003c/button\u003e\n\t\t\u003c/aside\u003e\n\t\t\u003caside class=\"ac-gn-bagview\" data-analytics-region=\"bag\"\u003e\n\t\t\t\u003cdiv class=\"ac-gn-bagview-scrim\"\u003e\n\t\t\t\t\u003cspan class=\"ac-gn-bagview-caret ac-gn-bagview-caret-small\"\u003e\u003c/span\u003e\n\t\t\t\u003c/div\u003e\n\t\t\t\u003cdiv class=\"ac-gn-bagview-content\" id=\"ac-gn-bagview-content\"\u003e\n\t\t\t\u003c/div\u003e\n\t\t\u003c/aside\u003e\n\t\u003c/div\u003e\n\u003c/nav\u003e\n\u003cdiv class=\"ac-gn-blur\"\u003e\u003c/div\u003e\n\u003cdiv id=\"ac-gn-curtain\" class=\"ac-gn-curtain\"\u003e\u003c/div\u003e\n\u003cdiv id=\"ac-gn-placeholder\" class=\"ac-nav-placeholder\"\u003e\u003c/div\u003e\n","footer":"\u003cfooter id=\"ac-globalfooter\" class=\"no-js\" role=\"contentinfo\" lang=\"zh-CN\" dir=\"ltr\"\u003e\u003cdiv class=\"ac-gf-content\"\u003e\u003csection class=\"ac-gf-footer\"\u003e\n\t\u003cdiv class=\"ac-gf-footer-shop\" x-ms-format-detection=\"none\"\u003e\n\t\t\u0026#x66F4;\u0026#x591A;\u0026#x9009;\u0026#x8D2D;\u0026#x65B9;\u0026#x5F0F;\u0026#xFF1A;\u003ca href=\"https://www.apple.com.cn/retail/\" data-analytics-title=\"find an apple store\"\u003e\u0026#x67E5;\u0026#x627E;\u0026#x4F60;\u0026#x9644;\u0026#x8FD1;\u0026#x7684; Apple Store \u0026#x96F6;\u0026#x552E;\u0026#x5E97;\u003c/a\u003e\u0026#x53CA;\u003ca href=\"https://locate.apple.com/cn/zh/\" data-analytics-title=\"other retailers or resellers\" data-analytics-exit-link\u003e\u0026#x66F4;\u0026#x591A;\u0026#x95E8;\u0026#x5E97;\u003c/a\u003e\u0026#xFF0C;\u003cspan class=\"nowrap\"\u003e\u0026#x6216;\u0026#x8005;\u0026#x81F4;\u0026#x7535; 400-666-8800\u0026#x3002;\u003c/span\u003e\n\t\u003c/div\u003e\n\t\u003cdiv class=\"ac-gf-footer-legal\"\u003e\n\t\t\u003cdiv class=\"ac-gf-footer-legal-copyright\"\u003eCopyright \u0026#xA9; 2022 Apple Inc. \u0026#x4FDD;\u0026#x7559;\u0026#x6240;\u0026#x6709;\u0026#x6743;\u0026#x5229;\u0026#x3002;\n\t\t\u003c/div\u003e\n\t\t\u003cdiv class=\"ac-gf-footer-legal-links\"\u003e\n\t\t\t\u003ca class=\"ac-gf-footer-legal-link\" href=\"https://www.apple.com.cn/legal/privacy/\" data-analytics-title=\"privacy policy\"\u003e\u0026#x9690;\u0026#x79C1;\u0026#x653F;\u0026#x7B56;\u003c/a\u003e\n\t\t\t\u003ca class=\"ac-gf-footer-legal-link\" href=\"https://www.apple.com.cn/legal/internet-services/terms/site.html\" data-analytics-title=\"terms of use\"\u003e\u0026#x4F7F;\u0026#x7528;\u0026#x6761;\u0026#x6B3E;\u003c/a\u003e\n\t\t\t\u003ca class=\"ac-gf-footer-legal-link\" href=\"https://www.apple.com.cn/cn/shop/goto/help/sales_refunds\" data-analytics-title=\"sales and refunds\"\u003e\u0026#x9500;\u0026#x552E;\u0026#x653F;\u0026#x7B56;\u003c/a\u003e\n\t\t\t\u003ca class=\"ac-gf-footer-legal-link\" href=\"https://www.apple.com.cn/legal/\" data-analytics-title=\"legal\"\u003e\u0026#x6CD5;\u0026#x5F8B;\u0026#x4FE1;\u0026#x606F;\u003c/a\u003e\n\t\t\t\u003ca class=\"ac-gf-footer-legal-link\" href=\"https://www.apple.com.cn/sitemap/\" data-analytics-title=\"site map\"\u003e\u0026#x7F51;\u0026#x7AD9;\u0026#x5730;\u0026#x56FE;\u003c/a\u003e\n\t\t\u003c/div\u003e\n\t\u003c/div\u003e\n\u003c/section\u003e\n\u003c/div\u003e\u003c/footer\u003e","styles":{"nav":"2210.1.0/zh_CN/ac-global-nav.f1ce18efaafaab43dbd09d2fd6211d91.css","footer":"2210.1.0/zh_CN/ac-global-footer.0f3fd940e0a3679119f12825065875c1.css"},"scripts":{"nav":"2210.1.0/zh_CN/ac-global-nav.294b65e7729ab1c596e195cd90349397.js","footer":"2210.1.0/zh_CN/ac-global-footer.33e5f7b4cd1360fa6599e7adcbb494dd.js"},"isLoaded":true}
+
+
+
+
+
+
+    {
+      "@context": "https://schema.org",
+      "@id": "https://apps.apple.com/#organization",
+      "@type": "Organization",
+      "name": "App Store",
+      "url": "https://apps.apple.com/",
+      "logo": "https://apps.apple.com/assets/images/knowledge-graph/apps.png",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q368215",
+        "https://twitter.com/AppStore",
+        "https://www.facebook.com/AppStore/"
+      ],
+      "parentOrganization": {
+        "@type": "Organization",
+        "name": "Apple",
+        "@id": "https://www.apple.com/#organization",
+        "url": "https://www.apple.com/"
+      }
+    }
+  

@@ -1,0 +1,174 @@
+
+html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+上海科创办代表赴张江高等研究院调研交流_交大要闻_上海交通大学新闻学术网
+
+    	String.prototype.stripHTML = function(){
+    	  var reg = /<(?:.|\s)*?>/g;
+    	  return this.replace(reg,"");
+    	};
+    	var str =document. title;
+    	document.title=str.stripHTML();
+    
+
+
+
+
+
+
+ Core CSS 
+
+
+ Widget 
+
+
+
+ Custom CSS 
+
+
+
+ Site Icon 
+
+
+
+
+
+交大要闻
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+首页
+
+交大要闻
+正文
+
+
+
+
+
+
+
+交大要闻
+
+
+
+
+
+上海科创办代表赴张江高等研究院调研交流
+
+
+
+
+2022年11月03日
+责任编辑：黄琚 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2022年11月2日下午，上海推进科技创新中心建设办公室（以下简称“上海科创办”）专职副主任刘燮、侯劲，二级巡视员陶贤俊一行赴上海交通大学张江高等研究院（以下简称“张江高研院”）调研交流。张江高研院党总支书记赵昕、副书记陆琪、副院长金承钰，院长助理姜燕媛、赵德刚等相关同志随同调研。上海科创办代表先后参观了张江展示厅、报告厅、师生公寓、体育空间等公共服务空间，全面了解了张江高研院的基本情况、建设历程、目标定位和科研布局。上海科创办代表来到公共仪器平台和合成科学创新研究中心，听取了相关情况介绍，了解了目前实验设备的安装进展和实验室建设规划。通过实地调研，上海科创办充分肯定了张江高研院四年多来的建设，同时表示未来将一如既往地支持张江高研院的发展，并衷心希望张江高研院在张江这片热土上扎根成长，汇聚优秀人才，产出更多优秀的科研成果，更好地助力上海科创中心建设。
+
+
+
+作者：
+黄丽、姜燕媛
+
+
+摄影：
+张江高等研究院
+
+
+供稿单位：
+张江高等研究院
+
+
+
+
+
+
+
+打印本页
+关闭窗口
+
+
+
+
+
+
+
+
+
+
+Core JS
+
+[if lt IE 9]>
+    <script src="/resource/assets/js/ETUI/html5shiv.min.js"></script>
+    <script src="/resource/assets/js/ETUI/respond.min.js"></script>
+    <![endif]
+
+ Widget 
+
+
+
+
+
+
+
+
+Custom JS
+
+
+        jQuery(document).ready(function () {
+            Main.init();
+        });
+    
+
+        var url=location.href;
+        $('.qrshare').attr('src','http://service.shanghai.gov.cn/QRcode/ShareQRcode.aspx?url='+url);
+    
+
+

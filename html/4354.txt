@@ -1,0 +1,466 @@
+html
+
+
+SJTU Single Sign On
+
+
+
+
+
+
+
+        function setLocale(value) {
+            var href = window.location.href;
+            var regex = new RegExp("[&\\?]locale=");
+            if(regex.test(href)) {
+                regex = new RegExp("([&\\?])locale=\\w+");
+                window.location.href = href.replace(regex, "$1locale=" + value);
+            } else {
+                if(href.indexOf("?") > -1)
+                    window.location.href = href + "&locale=" + value;
+                else
+                    window.location.href = href + "?locale=" + value;
+            }
+        }
+    
+
+
+
+
+
+
+
+
+
+
+中文 | EN
+
+
+
+
+
+
+
+
+
+    var navigating = false;
+    var hasSub = false,
+        subFailed = false;
+    var websocket = null;
+    var firefox = navigator.userAgent.toLowerCase().indexOf("firefox") != -1;
+
+    function addEvent(html_element, event_name, event_function) {
+        if (html_element.addEventListener) { // Modern
+            html_element.addEventListener(event_name, event_function, false);
+        } else if (html_element.attachEvent) { // Internet Explorer
+            html_element.attachEvent("on" + event_name, event_function);
+        } else { // others
+            html_element["on" + event_name] = event_function;
+        }
+    }
+
+    function showQr(url, msg) {
+        var img = document.getElementById('qr-img');
+        if (img != null) {
+            img.src = url;
+        }
+        if (msg != null) {
+            var msgSpan = document.getElementById('qr-msg');
+            if (msgSpan != null) {
+                msgSpan.innerHTML = msg;
+            }
+        }
+    }
+
+    function showTryAppLogin(timeout) {
+        var waitDiv = document.getElementById('login-app-wait'),
+            spinnerDiv = document.getElementById('login-app-spinner'),
+            downloadDiv = document.getElementById('login-app-download'),
+            failDiv = document.getElementById('login-app-fail');
+        if (waitDiv != null) {
+            waitDiv.setAttribute('class', 'show');
+            waitDiv.removeAttribute('style');
+            spinnerDiv.removeAttribute('class');
+            downloadDiv.removeAttribute('class');
+            failDiv.removeAttribute('class');
+        }
+
+        return setTimeout(function () {
+            waitDiv.setAttribute('class', 'show download');
+            spinnerDiv.setAttribute('class', 'hide');
+            downloadDiv.setAttribute('class', 'show');
+            failDiv.removeAttribute('class');
+        }, timeout);
+    }
+
+    function showTryAppFailed() {
+        var waitDiv = document.getElementById('login-app-wait'),
+            spinnerDiv = document.getElementById('login-app-spinner'),
+            downloadDiv = document.getElementById('login-app-download'),
+            failDiv = document.getElementById('login-app-fail');
+        waitDiv.setAttribute('class', 'show');
+        spinnerDiv.setAttribute('class', 'hide');
+        downloadDiv.removeAttribute('class');
+        failDiv.setAttribute('class', 'show');
+        setTimeout(function () {
+            waitDiv.removeAttribute('class');
+        }, 5000)
+    }
+
+    function downloadApp() {
+        window.location.href = "https://form.sjtu.edu.cn/mobile/download.jsp";
+    }
+
+    function cancelAppLogin() {
+        var waitDiv = document.getElementById('login-app-wait');
+        if (waitDiv != null) {
+            waitDiv.removeAttribute('class');
+        }
+    }
+
+    function sub() {
+        if (navigating) {
+            return;
+        }
+        if (!hasSub || subFailed) {
+            hasSub = true;
+
+            if ('WebSocket' in window) {
+                var pageUrl = window.location, socketUrl;
+                if (pageUrl.protocol === "https:") {
+                    socketUrl = "wss:";
+                } else {
+                    socketUrl = "ws:";
+                }
+                socketUrl += "//" + pageUrl.host;
+                socketUrl += "/jaccount/sub/92f39b32-d9da-4230-95a2-5a98f023c0e7";
+                websocket = new WebSocket(socketUrl);
+                websocket.onmessage = function(event) {
+                    var msg = JSON.parse(event.data);
+                    switch (msg.type) {
+                        case 'UPDATE_QR_CODE':
+                            showQr('qrcode?uuid=92f39b32-d9da-4230-95a2-5a98f023c0e7&ts=' + msg.payload.ts + '&sig=' + msg.payload.sig);
+                            break;
+                        case 'ERROR_MESSAGE':
+                            break;
+                        case 'LOGIN':
+                            navigating = true;
+                            window.location.href = "expresslogin?uuid=92f39b32-d9da-4230-95a2-5a98f023c0e7";
+                            break;
+                    }
+                };
+                websocket.onopen = function() {
+                    subFailed = false;
+                    afterSubSuccess();
+                };
+                websocket.onerror = function() {
+                    afterSubFailed();
+                };
+                websocket.onclose = function(event) {
+                    hasSub = false;
+                    showQr('', 'Connection reset, please refresh login page');
+                    if (event.code == 1001) { //GOING_AWAY
+                        setTimeout(sub, 1000);
+                    } else if (event.code == 1006) { //CLOSED_ABNORMALLY
+                        setTimeout(sub, 5000);
+                    }
+                };
+            } else {
+                afterSubFailed()
+            }
+        }
+    };
+
+    function afterSubSuccess() {
+        if (hasSub && !subFailed) {
+            try {
+                websocket.send('{ "type": "UPDATE_QR_CODE" }');
+                setTimeout(afterSubSuccess, 60000);
+            } catch (ex) {
+                try {
+                    websocket.close();
+                } catch (ignored) {}
+            }
+        }
+    }
+
+    function afterSubFailed() {
+        subFailed = true;
+        showQr('', 'Load QR code failed');
+    }
+
+    var captchaCheckStatus = null;
+
+    function setCaptchaCheckStatus(status) {
+        if (captchaCheckStatus != null && captchaCheckStatus != 'waiting') {
+            return;
+        }
+        captchaCheckStatus = status;
+        if (status == 'waiting') {
+            $("#captcha-verify").show();
+            return;
+        }
+        $("#captcha-verify").hide();
+        if (status == 'passed') {
+            if ($.support.leadingWhitespace) {
+                $("#operate-buttons").slideDown();
+            } else {
+                $("#operate-buttons").show();
+            }
+            return;
+        }
+        showCaptcha();
+    }
+
+    function showCaptcha() {
+        refreshCaptcha();
+        if ($.support.leadingWhitespace) {
+            $("#captcha-box").slideDown(function () {
+                $("#operate-buttons").slideDown();
+            });
+        } else {
+            $("#captcha-box").show();
+            $("#operate-buttons").show();
+        }
+    }
+
+    function refreshCaptcha() {
+        var img = document.getElementById('captcha-img');
+        if (img != null) {
+            img.src = 'captcha?uuid=92f39b32-d9da-4230-95a2-5a98f023c0e7&t=' + (new Date()).getTime();
+        }
+    }
+
+    var submitted = false;
+    var captchaObj = null;
+
+    var checkForm = function (button) {
+
+        if (submitted === true) {
+            return false;
+        }
+
+        var warnUl = $("#ul_warn"),
+            tip_no_user = $("#li_tip_no_user"),
+            tip_no_password = $("#li_tip_no_password"),
+            tip_no_captcha = $("#li_tip_no_captcha"),
+            warnDiv = $("#div_warn"),
+            user = $("#user"),
+            password = $("#pass"),
+            captcha = $("#captcha");
+
+        if (warnDiv != null) {
+            warnDiv.css("display", "none");
+        }
+
+        warnUl.css("display", "none");
+        tip_no_user.css("display", "none");
+        tip_no_password.css("display", "none");
+        tip_no_captcha.css("display", "none");
+
+        if (user.val() === '') {
+            tip_no_user.css("display", "block");
+            warnUl.css("display", "block");
+            user.focus();
+            return false;
+        }
+
+        if (password.val() === '') {
+            tip_no_password.css("display", "block");
+            warnUl.css("display", "block");
+            password.focus();
+            return false;
+        }
+
+        if (captchaCheckStatus != "passed") {
+            if (captchaObj != null) {
+                captchaObj.verify();
+                return false;
+            }
+
+            if (captcha.val() === '') {
+                tip_no_captcha.css("display", "block");
+                warnUl.css("display", "block");
+                captcha.focus();
+                return false;
+            }
+        }
+
+        submitted = true;
+        button.setAttribute("class", button.getAttribute("class") + " submitted btn-secondary");
+        return true;
+    }
+
+    function clearNoUserTip(input) {
+        if (input.value != '') {
+            $("#li_tip_no_user").css('display', 'none');
+        }
+    }
+
+    function clearNoPasswordTip(input) {
+        if (input.value != '') {
+            $("#li_tip_no_password").css('display', 'none');
+        }
+    }
+
+    function appLogin() {
+        showTryAppLogin(5000);
+        if (firefox) {
+            document.getElementById("firefox_link").click();
+        } else {
+            window.location.href = 'jaccount://login?uuid=92f39b32-d9da-4230-95a2-5a98f023c0e7';
+        }
+        return false;
+    }
+
+
+
+
+
+
+
+
+
+Login with "交我办"
+
+
+
+
+
+Scan QR code
+
+
+
+Loading QR code
+
+
+
+Login jAccount
+
+
+Missing your account
+Missing your password
+Missing captcha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please waiting
+
+
+
+
+
+
+Reset Password
+Sign Up
+
+
+Try to launch "交我办"
+Launch "交我办" failed
+
+You need to download "交我办"
+
+
+
+
+
+
+
+
+
+    sub();
+
+    addEvent(window, "orientationchange", function () {
+        sub();
+    });
+
+    
+
+    
+    
+    
+    setCaptchaCheckStatus('failed');
+
+    var grecaptchaLoaded = function () {
+        var clientId = grecaptcha.render('g-recaptcha', {
+            sitekey: '6Lcyn5MUAAAAAJxTgcUyKkn-v9Ibc-s7xh4qvI9W',
+            badge: 'inline',
+            size: 'invisible'
+        });
+        grecaptcha.ready(function () {
+            grecaptcha.execute(clientId, {action: 'login'}).then(function (token) {
+                $.ajax({
+                    url: "captcha",
+                    data: {
+                        "uuid": '92f39b32-d9da-4230-95a2-5a98f023c0e7',
+                        "g-recaptcha-response": token
+                    },
+                    type: "post",
+                    dataType: "json"
+                })
+            })
+        });
+    };
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+                Minhang campus: 1/F Library & Information Building 34206060 Xuhui campus: 1F Lecture Building No.3 62932901
+©2019 SJTU Network & Information Center service@sjtu.edu.cn
+
+                <div class="google-privacy-policy">This site is protected by reCAPTCHA and the Google
+                    <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+                    <a href="https://policies.google.com/terms">Terms of Service</a> apply.</div>
+
+
+
+
+
+
+    setTimeout(function () {
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-171546692-1', 'auto');
+        ga('send', 'pageview');
+    }, 5 * 1000);
+
+

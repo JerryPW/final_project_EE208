@@ -1,0 +1,226 @@
+
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+
+
+
+
+        交通大学焦点网 --
+	党史学习教育
+    
+
+
+
+
+
+
+[if lte IE 6]>
+    <script src="js/DD_belatedPNG_0.0.8a.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        DD_belatedPNG.fix('div, ul, img, li, input , a,button');
+    </script>
+    <![endif]
+
+
+
+
+
+
+
+设为首页
+|
+加入收藏
+
+
+
+
+
+
+      
+            function Hidden(oTag)
+            {
+               if(document.getElementById(oTag)!=null)
+			   document.getElementById(oTag).style.display="none";
+            }
+            function Visible(oTag)
+            {
+			   if(document.getElementById(oTag)!=null)
+               document.getElementById(oTag).style.display="block";
+            }
+            
+    
+
+
+
+首页
+
+
+焦点新闻
+
+
+
+中央精神
+
+
+交大要闻
+
+
+院系动态
+
+
+
+
+
+通知公告
+
+
+
+公告
+
+
+
+
+
+理论焦点
+
+
+
+理论焦点
+
+
+
+
+
+理论研究
+
+
+
+理论研究
+
+
+学习材料
+
+
+
+
+
+学者声音
+
+
+
+学者声音
+
+
+
+
+
+专题透视
+
+
+
+专题透视
+
+
+
+
+
+网上学习城
+
+
+
+中心组学习交流
+
+
+理论学习简报
+
+
+每日学习参考
+
+
+影像资料
+
+
+音频资料
+
+
+材料汇编
+
+
+特色案例
+
+
+
+
+
+登陆系统
+
+
+
+
+
+
+
+nav end
+
+
+
+
+
+
+						setInterval("TimeNow.innerHTML=new Date().toLocaleString()+' 星期'+'日一二三四五六'.charAt(new Date().getDay());",1000);
+					
+
+
+
+
+搜索
+
+
+
+
+
+
+党史学习教育
+
+
+
+
+
+
+    if(document.getElementById("Left_2960090")!=null)
+    Left_2960090.className="LM_on";
+  
+
+
+			您当前的位置：
+			党史学习教育党史学习教育
+2021-05-06从党领导中国工人运动的百年历史中汲取奋进力量2021-05-06立足职能定位 传承红色基因——中央党校（国家行政学院）扎实推进党史学习教育2021-04-01【党史百年·天天读】4月1日2021-03-25中共中央宣传部发布中国共产党成立100周年庆祝活动标识2021-03-25【百年先锋】刘胡兰：生的伟大，死的光荣2021-03-11【习近平总书记关于党的历史的重要论述】习近平：立志做党光荣传统和优良作风的忠实传人2021-03-05【习近平总书记关于党的历史的重要论述】习近平视察北京香山革命纪念地2021-03-05习近平同志《论中国共产党历史》主要篇目介绍2021-03-02在学习党史中更好走向未来2021-03-02【党史百年·天天读】3月2日2021-02-26【学习贯彻习近平总书记在党史学习教育动员大会重要讲话精神】牢牢把握办实事这个基本着力点2021-02-26【学习习近平总书记关于学习党的历史的重要论述】党的历史是丰富生动的教科书2021-02-25上好四门“功课” 学好百年党史2021-02-25【党史百年·天天读】2月25日2021-02-24中国历史研究院:用正确历史观看百年党史
+				共2页
+			
+				当前第1页
+			
+						首页
+					上一页下一页
+						尾页
+					
+				第页
+			
+
+
+
+
+index end
+
+
+
+    $(function () {
+        if (CheckUserOnline(0)) {
+            document.getElementById("dl").innerHTML = document.getElementById("username").innerHTML;
+        } else {
+
+        }
+    });
+    function iframe() {
+        var now = new Date();
+        var num = now.getSeconds();
+        document.getElementById("frameLogin").src = "../../Web/JDJDW/login.aspx?ID=" + num;
+    }

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Search</title>
+    <title>搜索</title>
 </head>
 <body>
-    <h1>Search</h1>
+    <h1>搜索</h1>
     <hr>
     <form action="result">
         <label>Keyword</label>
@@ -13,18 +13,17 @@
     </form>
     <h1>Search for: {{ keyword }}</h1>
     <hr>
-    {% for i in range(0,length) %}
+    {% for i in range(0,length)%}
     <div>
-        <a href = {{u[i]}}><p style = "font-size: 20px;">{{t[i]}}</p></a>
-        <br/>
-        <a href = {{u[i]}}><p style = "color: red;">{{c[i]}}</p></a>
-        <br/>
-        <a href = {{u[i]}}><p style = "color: green;">{{u[i]}}</p></a>
+        <a href = {{uu[i]}}><strong><big><p style='color:black;'>{{tll[i]}}</p></big></strong></a>
+
+        <a href = {{uu[i]}}><p style='color:rgb(0, 0, 255);'>{{con[i]}}</p></a>
+
+        <a href = {{uu[i]}}><p style='color:rgb(255, 68, 0);'>{{uu[i]}}</p></a>
         <br/>
         <br/>
     </div>
-
     {%endfor%}
-
+        
 </body>
 </html>

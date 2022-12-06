@@ -13,9 +13,9 @@ from urllib.parse import urlparse
 
 # from java.io import File
 from java.nio.file import Paths
+from org.apache.lucene.analysis.core import SimpleAnalyzer ,WhitespaceAnalyzer
 from org.apache.lucene.analysis.miscellaneous import LimitTokenCountAnalyzer
 from org.apache.lucene.analysis.standard import StandardAnalyzer
-from org.apache.lucene.analysis.core import WhitespaceAnalyzer, SimpleAnalyzer
 from org.apache.lucene.document import Document, Field, FieldType, StringField, TextField
 from org.apache.lucene.index import FieldInfo, IndexWriter, IndexWriterConfig, IndexOptions
 from org.apache.lucene.store import SimpleFSDirectory
@@ -50,15 +50,14 @@ class IndexFiles(object):
         if not os.path.exists(storeDir):
             os.mkdir(storeDir)
 
-        # store = SimpleFSDirectory(File(storeDir).toPath())
         store = SimpleFSDirectory(Paths.get(storeDir)) #索引文件存放的位置
-        analyzer = WhitespaceAnalyzer()
+        analyzer = SimpleAnalyzer()
+        # analyzer = StandardAnalyzer()
         analyzer = LimitTokenCountAnalyzer(analyzer, 1048576)
-        #analyzer是用来对文档进行词法分析和语言处理的
         config = IndexWriterConfig(analyzer)
         config.setOpenMode(IndexWriterConfig.OpenMode.CREATE)
         writer = IndexWriter(store, config)
-        #创建一个IndexWriter用来写索引文件
+
         self.indexDocs(root, writer)
         ticker = Ticker()
         print('commit index')
@@ -69,40 +68,55 @@ class IndexFiles(object):
         print('done')
 
     def indexDocs(self, root, writer):
+
         t1 = FieldType()
         t1.setStored(True)
         t1.setTokenized(False)
-        t1.setIndexOptions(IndexOptions.NONE)  # Not Indexed
+        t1.setIndexOptions(IndexOptions.NONE)  
         
         t2 = FieldType()
         t2.setStored(False)
         t2.setTokenized(True)
-        t2.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS)  # Indexes documents, frequencies and positions.
+        t2.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS) 
+        
         for root, dirnames, filenames in os.walk(root):
             for filename in filenames:
-                # if not filename.endswith('.txt'):
-                #     continue
+
                 print("adding", filename)
                 try:
                     path = os.path.join(root, filename)
                     file = open(path, encoding='utf8')
-                    contents = file.readlines()
-                    if len(contents) > 0:
-                        #doc.add(TextField('contents', contents, Field.Store.YES))
-                        doc.add(Field("contents", content, t2))
-                    else:
-                        print("warning: no content in %s" % filename)
-                    url = contents[0]
-                    title = contents[1]
-                    time = contents[2]
-                    content = contents[3]
-                    content = ' '.join(jieba.cut(content))
+                    url = ''
+                    date = ''
+                    title = ''
+                    contents = ''
+                    for line in file.readlines():
+                        if(url == ''):
+                            url = line
+                            continue
+                        if(date == ''):
+                            date = line
+                            continue
+                        if(title == ''):
+                            title = line
+                            continue
+                        if(contents == ''):
+                            contents = line
+                            continue
+                    contents = ' '.join(jieba.cut(contents))
                     file.close()
                     doc = Document()
-                    doc.add(Field("url", url, t1))
-                    doc.add(Field("title", title, t1))
-                    doc.add(Field("time", time, t1))
+                    doc.add(Field("name", filename, t1))
+                    doc.add(Field("path", path, t1))
+                    doc.add(Field("url",url,t1))
+                    doc.add(Field("date",date,t1))
+                    doc.add(Field("title",title,t1))
                     
+                    if len(contents) > 0:
+
+                        doc.add(Field("contents", contents, t2))
+                    else:
+                        print("warning: no content in %s" % filename)
                     writer.addDocument(doc)
                 except Exception as e:
                     print("Failed in indexDocs:", e)
@@ -113,7 +127,7 @@ if __name__ == '__main__':
     # import ipdb; ipdb.set_trace()
     start = datetime.now()
     try:
-        IndexFiles('sina_html', "index")
+        IndexFiles('163_html','163_index')
         end = datetime.now()
         print(end - start)
     except Exception as e:

@@ -127,8 +127,9 @@ app = Flask(__name__)
 def bio_data_form():
     if request.method == "POST":
         keyword = request.form['keyword']
-        mode = request.form['mode']
-        return redirect(url_for('result', keyword=keyword))
+        mode1 = request.form['mode1']
+        mode2 = request.form['mode2']
+        return redirect(url_for('result', keyword=keyword, mode1=mode1, mode2=mode2))
     return render_template("bio_form.html")
 
 
@@ -152,7 +153,13 @@ def result():
         last_search = keyword
     keyword = ' '.join(jieba.cut(keyword))
 
-    mode = request.args.get('mode')
+    mode1 = request.args.get('mode1')
+    mode2 = request.args.get('mode2')
+    mode = None
+    if mode2 == 'time':
+        mode = mode2
+    else:
+        mode = mode1
 
     runs(searcher, analyzer,keyword, mode)
     length = min(len(tll),len(uu))

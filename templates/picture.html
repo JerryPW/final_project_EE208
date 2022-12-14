@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search</title>
+</head>
+<body>
+    <h1>Search</h1>
+    <hr>
+    <form action="result">
+        <label>Keyword</label>
+        <input type="text" name="keyword"><br>
+        <input type="radio" name="mode1" value = 'score' checked/>score
+        <input type="radio" name="mode2" value = 'time'/>time
+        <input type="submit" name="Search">
+
+    </form>
+
+    <form action="picture" method="post" enctype="multipart/form-data">
+        <label for="file">文件名：</label>
+        <input id="file" name="file" type="file"/>
+        <input type="submit" name="submit" value="提交">
+    </form>
+
+    <h1>Search for</h1>
+    <hr>
+    {% for i in range(0,length)%}
+    <div>
+        <img src={{searchResult[i]}}/>
+    </div>
+    {%endfor%}
+        
+</body>
+</html>

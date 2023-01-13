@@ -1,9 +1,8 @@
 # SJTU EE208
 INDEX_DIR = "IndexFiles.index"
 
-import re
-
 import Levenshtein   #计算相似度
+import re
 import sys, os, lucene,jieba
 from java.io import File
 from java.nio.file import Path
@@ -25,11 +24,57 @@ import urllib.request
 from bs4 import BeautifulSoup
 title = ''
 url = ''
-tt = ''
-tll = []
-uu = []
+date = ''
+t_list = []
+u_list = []
+d_list = []
 con = []
 time = []
+app = Flask(__name__,static_url_path='/static')
+
+##关键词搜索
+def search(keyword):
+    STORE_DIR = "163_index"
+    vm.attachCurrentThread()
+    directory=SimpleFSDirectory(File(STORE_DIR).toPath())
+    searcher=IndexSearcher(DirectoryReader.open(directory))
+    analyzer=StandardAnalyzer()
+
+    res_cnt,res_list=get_res(searcher,analyzer,keyword)
+    return res_cnt,res_list
+
+#返回关键词搜索结果#
+def get_res(searcher,analyzer,keyword):
+    command_dict = parseCommand(keyword)
+    querys = BooleanQuery.Builder()
+    for k,v in command_dict.items():
+        query = QueryParser(k, analyzer).parse(v)
+        querys.add(query, BooleanClause.Occur.MUST)
+    query=QueryParser("contents",analyzer).parse(keyword)
+    scoreDocs=searcher.search(query, 50).scoreDocs
+    res_list=[]
+    for i, scoreDoc in enumerate(scoreDocs):
+        doc = searcher.doc(scoreDoc.doc)
+        res={}
+        res['title']=doc.get('title')
+        res['url']=doc.get('url')
+        res['date']=doc.get('date')
+        res['contents'] = urllib.request.urlopen(doc.get('url'))
+        res_list.append(res)
+    res_list = simility(res_list)
+    return len(scoreDocs),res_list
+
+#按时间排序
+def search_by_time(keyword):
+    res_cnt,res_list=search(keyword)
+    for i in range(len(res_list)):
+        for j in range(len(res_list)-1-i):
+            if timeCompare(res_list[j]['date'], res_list[j+1]['date']) == 0:
+                res_list[j]['title'], res_list[j+1]['title'] = res_list[j+1]['title'], res_list[j]['title']
+                res_list[j]['date'], res_list[j+1]['date'] = res_list[j+1]['date'], res_list[j]['date']
+                res_list[j]['url'], res_list[j+1]['url'] = res_list[j+1]['url'], res_list[j]['url']
+                res_list[j]['contents'], res_list[j+1]['contents'] = res_list[j+1]['contents'], res_list[j]['contents']
+    return res_cnt, res_list
 
 def parseCommand(command):
     command_dict = {'contents': ''}   
@@ -48,157 +93,68 @@ def timeCompare(time1, time2): # 1 -> time1 >= time2; 0 -> times2 > time1
             continue
     return 1
 
-def simility(titlst,timlst,urlst,contentlist):
+#相似度
+def simility(res_list):
     simility = []
-    length = len(titlst)
+    length = len(res_list)
     length1 = length
     pos = 1
     while(pos < length1):
         length = length1
         while(length > pos):
-            simility.append(Levenshtein.ratio(titlst[pos - 1],titlst[length - 1]))
+            simility.append(Levenshtein.ratio(res_list[pos - 1]['title'],res_list[length - 1]['title']))
             length -= 1
         length = length1
         while(length > pos):
             maxq = simility.index(max(simility))
             if(simility[maxq] >= 0.4):
                 simility[maxq] = 0
-                titlst[pos], titlst[maxq] = titlst[maxq], titlst[pos]
-                timlst[pos], timlst[maxq] = timlst[maxq], timlst[pos]
-                urlst[pos], urlst[maxq] = urlst[maxq], urlst[pos]
-                contentlist[pos], contentlist[maxq] = contentlist[maxq], contentlist[pos]
+                res_list[pos]['title'], res_list[maxq]['title'] = res_list[maxq]['title'], res_list[pos]['title']
+                res_list[pos]['date'], res_list[maxq]['date'] = res_list[maxq]['date'], res_list[pos]['date']
+                res_list[pos]['url'], res_list[maxq]['url'] = res_list[maxq]['url'], res_list[pos]['url']
+                res_list[pos]['contents'], res_list[maxq]['contents'] = res_list[maxq]['contents'], res_list[pos]['contents']
                 pos += 1
             else:
                 break
             length -= 1
         pos += 1
-    return titlst,timlst,urlst,contentlist
+    return res_list
 
+@app.route('/')
+def form_1():
+    return render_template("index.html")
 
-def runs(searcher, analyzer,command, mode):
-    global title,url,tt
-    global tll,uu,con,time
-    tll = []
-    uu = []
-    con = []
-    time = []
-    while True:
-        print()
-        print ("Hit enter with no input to quit.")        
-        if command == '':
-            return
-        print()
-        print ("Searching for:", command)
-        command_dict = parseCommand(command)
-        querys = BooleanQuery.Builder()
-        for k,v in command_dict.items():
-            query = QueryParser(k, analyzer).parse(v)
-            querys.add(query, BooleanClause.Occur.MUST)
-        scoreDocs = searcher.search(querys.build(), 50).scoreDocs
-        print("%s total matching documents." % len(scoreDocs))
-        query = QueryParser('contents', analyzer).parse(command)
+@app.route('/t')
+def form_t():
+    return render_template("test.html")
 
-        titlst = []
-        urlst = []
-        timlst = []
-        contentlist = []
-        for scoreDoc in scoreDocs:
-            doc = searcher.doc(scoreDoc.doc)
-            title = doc.get('title')
-            url = doc.get('url')
-            tt = doc.get('date')
-            contents = urllib.request.urlopen(url)
-            soup =  BeautifulSoup(contents,features="html.parser")
-            contents = ''.join(soup.findAll(text=True))
-            contents = ' '.join(jieba.cut(contents))
-            titlst.append(title)
-            urlst.append(url)
-            timlst.append(tt)
-            contentlist.append(contents)
+@app.route('/word')
+def form_2():
+    return render_template("word.html")
 
-        titlst,timlst,urlst,contentlist = simility(titlst,timlst,urlst,contentlist)
-        
-        if mode == "time":
-            for i in range(len(urlst)):
-                for j in range(len(urlst)-1-i):
-                    if timeCompare(timlst[j], timlst[j+1]) == 0:
-                        titlst[j], titlst[j+1] = titlst[j+1], titlst[j]
-                        timlst[j], timlst[j+1] = timlst[j+1], timlst[j]
-                        urlst[j], urlst[j+1] = urlst[j+1], urlst[j]
-                        contentlist[j], contentlist[j+1] = contentlist[j+1], contentlist[j]
+@app.route('/img')
+def form_3():
+    return render_template("img.html")
 
-        
-        # for scoreDoc in scoreDocs:
-        for i in range(len(urlst)):
-            title = titlst[i]
-            url = urlst[i]
-            tt = timlst[i]
-            contents = contentlist[i]
-            formatter = SimpleHTMLFormatter('"','"')           #           1
-            highlighter =  Highlighter(formatter,QueryScorer(query))   
-            highlighter.setTextFragmenter(SimpleFragmenter(25))
-            tmp = analyzer.tokenStream("contents",contents)                #           1
-            substring = highlighter.getBestFragment(tmp,contents)
-            if substring !=None:
-                con.append(substring)   
-            else:
-                continue
-            tll.append(title)
-            uu.append(url)
-            time.append(tt)            
-        break
-    
-    
+@app.route('/face')
+def form_4():
+    return render_template("face.html")
 
-app = Flask(__name__)
-@app.route('/', methods=['POST', 'GET'])
-def bio_data_form():
-    if request.method == "POST":
-        keyword = request.form['keyword']
-        mode = request.form['mode']
-        return redirect(url_for('result', keyword=keyword))
-    return render_template("bio_form.html")
-
-
-@app.route('/result', methods=['GET'])
-def result():
-    
-    global tll,uu,con,time, last_search
-    STORE_DIR = "163_index"
-
-    vm.attachCurrentThread()   #一旦线程被附加到JVM上，这个函数会返回一个属于当前线程的JNIEnv指针
-
-    directory = SimpleFSDirectory(File(STORE_DIR).toPath())
-    searcher = IndexSearcher(DirectoryReader.open(directory))
-    # analyzer = StandardAnalyzer()
-    analyzer = SimpleAnalyzer()
-
-    keyword = request.args.get('keyword')
-    if keyword == '':
-        keyword = last_search
-    elif keyword != '':
-        last_search = keyword
-    keyword = ' '.join(jieba.cut(keyword))
-
-    mode = request.args.get('mode')
-
-    runs(searcher, analyzer,keyword, mode)
-    length = min(len(tll),len(uu))
-    length = min(length,len(con))
-    length = min(length,len(time))
-    del searcher
-    return render_template("result.html",keyword=keyword,length = length,uu=uu,tll=tll,con=con,time = time)
-
-
-
-
+@app.route('/wdresult', methods=['GET','POST'])
+def wd_result():
+    keyword=request.args.get('keyword')
+    res_cnt,res_list=search(keyword)
+    res_cnt_1,res_list_1=search_by_time(keyword)
+    return render_template("result.html", keyword=keyword,res_cnt=res_cnt,res_list=res_list,res_cnt_1=res_cnt_1,res_list_1=res_list_1)
 
 if __name__ == '__main__':
     last_search = ''
 
-    vm = lucene.initVM()
+    try:
+        vm = lucene.initVM(vmargs=['-Djava.awt.headless=true'])
+    except:
+        vm = lucene.getVMEnv()
 
     app.run(debug=True,port = 8081)
-    
     
     

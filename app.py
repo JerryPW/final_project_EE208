@@ -25,11 +25,6 @@ from bs4 import BeautifulSoup
 title = ''
 url = ''
 date = ''
-t_list = []
-u_list = []
-d_list = []
-con = []
-time = []
 app = Flask(__name__,static_url_path='/static')
 
 ##关键词搜索
